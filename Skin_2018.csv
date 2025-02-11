@@ -1,0 +1,108 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C43,Malignant melanoma of skin,278,Age-standardised,30.5,27,34.4
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C43,Malignant melanoma of skin,179,Age-standardised,22.3,19.2,25.9
+E38000258,NHS Birmingham and Solihull ICB - 15E,C43,Malignant melanoma of skin,247,Age-standardised,22.7,20,25.8
+E38000259,NHS Black Country ICB - D2P2L,C43,Malignant melanoma of skin,197,Age-standardised,17.8,15.4,20.4
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C43,Malignant melanoma of skin,258,Age-standardised,29.7,26.1,33.5
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C43,Malignant melanoma of skin,195,Age-standardised,30.8,26.6,35.5
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C43,Malignant melanoma of skin,164,Age-standardised,31.1,26.5,36.3
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C43,Malignant melanoma of skin,144,Age-standardised,32.2,27.2,38
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C43,Malignant melanoma of skin,188,Age-standardised,22.9,19.7,26.4
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C43,Malignant melanoma of skin,47,Age-standardised,38.2,28,50.8
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C43,Malignant melanoma of skin,51,Age-standardised,36.1,26.8,47.6
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C43,Malignant melanoma of skin,42,Age-standardised,25.5,18.3,34.5
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C43,Malignant melanoma of skin,56,Age-standardised,41,30.6,53.6
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C43,Malignant melanoma of skin,60,Age-standardised,32.9,25.1,42.4
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C43,Malignant melanoma of skin,70,Age-standardised,33.8,26.3,42.7
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C43,Malignant melanoma of skin,118,Age-standardised,34.7,28.7,41.6
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C43,Malignant melanoma of skin,259,Age-standardised,33.9,29.9,38.3
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C43,Malignant melanoma of skin,108,Age-standardised,25.8,21.1,31.2
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C43,Malignant melanoma of skin,229,Age-standardised,35.1,30.6,40
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C43,Malignant melanoma of skin,219,Age-standardised,25.1,21.9,28.7
+E38000261,NHS Derby and Derbyshire ICB - 15M,C43,Malignant melanoma of skin,312,Age-standardised,29,25.8,32.4
+E38000230,NHS Devon ICB - 15N,C43,Malignant melanoma of skin,567,Age-standardised,42.8,39.3,46.5
+E38000045,NHS Dorset ICB - 11J,C43,Malignant melanoma of skin,330,Age-standardised,37,33.1,41.3
+E38000252,NHS Frimley ICB - D4U1Y,C43,Malignant melanoma of skin,195,Age-standardised,29.8,25.7,34.3
+E38000062,NHS Gloucestershire ICB - 11M,C43,Malignant melanoma of skin,205,Age-standardised,30.5,26.5,35
+E38000016,NHS Greater Manchester ICB - 00T,C43,Malignant melanoma of skin,70,Age-standardised,26.7,20.8,33.7
+E38000024,NHS Greater Manchester ICB - 00V,C43,Malignant melanoma of skin,54,Age-standardised,29.5,22.2,38.5
+E38000135,NHS Greater Manchester ICB - 00Y,C43,Malignant melanoma of skin,48,Age-standardised,22.7,16.7,30.2
+E38000080,NHS Greater Manchester ICB - 01D,C43,Malignant melanoma of skin,46,Age-standardised,23.4,17.1,31.2
+E38000143,NHS Greater Manchester ICB - 01G,C43,Malignant melanoma of skin,53,Age-standardised,25.2,18.8,33
+E38000174,NHS Greater Manchester ICB - 01W,C43,Malignant melanoma of skin,124,Age-standardised,41.9,34.9,50
+E38000263,NHS Greater Manchester ICB - 01Y,C43,Malignant melanoma of skin,42,Age-standardised,19.6,14.1,26.5
+E38000187,NHS Greater Manchester ICB - 02A,C43,Malignant melanoma of skin,74,Age-standardised,33.6,26.4,42.2
+E38000205,NHS Greater Manchester ICB - 02H,C43,Malignant melanoma of skin,85,Age-standardised,26.5,21.2,32.8
+E38000217,NHS Greater Manchester ICB - 14L,C43,Malignant melanoma of skin,55,Age-standardised,14.9,11,19.7
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C43,Malignant melanoma of skin,77,Age-standardised,44.9,35.4,56.3
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C43,Malignant melanoma of skin,619,Age-standardised,36.8,34,39.9
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C43,Malignant melanoma of skin,265,Age-standardised,30.8,27.2,34.8
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C43,Malignant melanoma of skin,161,Age-standardised,30.5,25.9,35.6
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C43,Malignant melanoma of skin,158,Age-standardised,28.7,24.4,33.5
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C43,Malignant melanoma of skin,73,Age-standardised,24.7,19.3,31
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C43,Malignant melanoma of skin,111,Age-standardised,29.4,24.1,35.5
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C43,Malignant melanoma of skin,44,Age-standardised,18.9,13.7,25.4
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C43,Malignant melanoma of skin,36,Age-standardised,22.1,15.5,30.7
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C43,Malignant melanoma of skin,40,Age-standardised,22.4,16,30.6
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C43,Malignant melanoma of skin,111,Age-standardised,30.5,25.1,36.8
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C43,Malignant melanoma of skin,136,Age-standardised,28,23.4,33.2
+E38000237,NHS Kent and Medway ICB - 91Q,C43,Malignant melanoma of skin,506,Age-standardised,27.9,25.5,30.4
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C43,Malignant melanoma of skin,32,Age-standardised,26.4,18,37.4
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C43,Malignant melanoma of skin,39,Age-standardised,27.8,19.7,38
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C43,Malignant melanoma of skin,52,Age-standardised,29.5,22.1,38.8
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C43,Malignant melanoma of skin,108,Age-standardised,29.1,23.8,35.1
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C43,Malignant melanoma of skin,52,Age-standardised,28,20.9,36.7
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C43,Malignant melanoma of skin,124,Age-standardised,35.1,29.1,41.9
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C43,Malignant melanoma of skin,42,Age-standardised,35.2,25.3,47.7
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C43,Malignant melanoma of skin,93,Age-standardised,39.1,31.4,48.1
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C43,Malignant melanoma of skin,113,Age-standardised,31.4,25.9,37.8
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C43,Malignant melanoma of skin,31,Age-standardised,11.9,8,17.1
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C43,Malignant melanoma of skin,110,Age-standardised,27.7,22.8,33.4
+E38000238,NHS Lincolnshire ICB - 71E,C43,Malignant melanoma of skin,202,Age-standardised,24.4,21.2,28.1
+E38000106,NHS Mid and South Essex ICB - 06Q,C43,Malignant melanoma of skin,97,Age-standardised,24,19.5,29.3
+E38000185,NHS Mid and South Essex ICB - 07G,C43,Malignant melanoma of skin,48,Age-standardised,32.5,23.8,43.3
+E38000007,NHS Mid and South Essex ICB - 99E,C43,Malignant melanoma of skin,103,Age-standardised,41.2,33.6,50
+E38000030,NHS Mid and South Essex ICB - 99F,C43,Malignant melanoma of skin,84,Age-standardised,42.9,34.1,53.2
+E38000168,NHS Mid and South Essex ICB - 99G,C43,Malignant melanoma of skin,59,Age-standardised,32.7,24.9,42.2
+E38000239,NHS Norfolk and Waveney ICB - 26A,C43,Malignant melanoma of skin,310,Age-standardised,26.6,23.6,29.7
+E38000240,NHS North Central London ICB - 93C,C43,Malignant melanoma of skin,178,Age-standardised,15.9,13.6,18.5
+E38000130,NHS North East and North Cumbria ICB - 00L,C43,Malignant melanoma of skin,171,Age-standardised,48.6,41.5,56.6
+E38000163,NHS North East and North Cumbria ICB - 00N,C43,Malignant melanoma of skin,52,Age-standardised,34.5,25.8,45.3
+E38000176,NHS North East and North Cumbria ICB - 00P,C43,Malignant melanoma of skin,96,Age-standardised,34.8,28.2,42.5
+E38000215,NHS North East and North Cumbria ICB - 01H,C43,Malignant melanoma of skin,141,Age-standardised,39.7,33.4,46.9
+E38000212,NHS North East and North Cumbria ICB - 13T,C43,Malignant melanoma of skin,206,Age-standardised,45.5,39.5,52.1
+E38000247,NHS North East and North Cumbria ICB - 16C,C43,Malignant melanoma of skin,194,Age-standardised,29.4,25.4,33.8
+E38000234,NHS North East and North Cumbria ICB - 84H,C43,Malignant melanoma of skin,154,Age-standardised,29,24.6,33.9
+E38000127,NHS North East and North Cumbria ICB - 99C,C43,Malignant melanoma of skin,105,Age-standardised,49.7,40.6,60.1
+E38000255,NHS North East London ICB - A3A8R,C43,Malignant melanoma of skin,224,Age-standardised,15.2,13.2,17.5
+E38000256,NHS North West London ICB - W2U3Z,C43,Malignant melanoma of skin,218,Age-standardised,13.5,11.8,15.5
+E38000262,NHS Northamptonshire ICB - 78H,C43,Malignant melanoma of skin,184,Age-standardised,26.1,22.4,30.1
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C43,Malignant melanoma of skin,27,Age-standardised,22.2,14.6,32.3
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C43,Malignant melanoma of skin,241,Age-standardised,25,21.9,28.4
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C43,Malignant melanoma of skin,143,Age-standardised,27.4,23,32.2
+E38000150,NHS Somerset ICB - 11X,C43,Malignant melanoma of skin,226,Age-standardised,35.6,31,40.6
+E38000244,NHS South East London ICB - 72Q,C43,Malignant melanoma of skin,287,Age-standardised,20.7,18.2,23.3
+E38000245,NHS South West London ICB - 36L,C43,Malignant melanoma of skin,344,Age-standardised,28,25,31.2
+E38000006,NHS South Yorkshire ICB - 02P,C43,Malignant melanoma of skin,59,Age-standardised,24.1,18.3,31.1
+E38000044,NHS South Yorkshire ICB - 02X,C43,Malignant melanoma of skin,56,Age-standardised,18.3,13.8,23.8
+E38000141,NHS South Yorkshire ICB - 03L,C43,Malignant melanoma of skin,73,Age-standardised,27.6,21.6,34.7
+E38000146,NHS South Yorkshire ICB - 03N,C43,Malignant melanoma of skin,127,Age-standardised,25.1,20.9,29.9
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C43,Malignant melanoma of skin,29,Age-standardised,21.2,14.2,30.4
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C43,Malignant melanoma of skin,23,Age-standardised,17.8,11.3,26.7
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C43,Malignant melanoma of skin,71,Age-standardised,31.2,24.3,39.3
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C43,Malignant melanoma of skin,63,Age-standardised,25.7,19.7,33
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C43,Malignant melanoma of skin,45,Age-standardised,26.6,19.4,35.6
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C43,Malignant melanoma of skin,50,Age-standardised,20.3,15.1,26.8
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C43,Malignant melanoma of skin,103,Age-standardised,22.9,18.7,27.9
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C43,Malignant melanoma of skin,93,Age-standardised,26,21,31.9
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C43,Malignant melanoma of skin,77,Age-standardised,31.8,25.1,39.8
+E38000264,NHS Surrey Heartlands ICB - 92A,C43,Malignant melanoma of skin,382,Age-standardised,37.3,33.7,41.3
+E38000021,NHS Sussex ICB - 09D,C43,Malignant melanoma of skin,102,Age-standardised,43.9,35.6,53.5
+E38000265,NHS Sussex ICB - 70F,C43,Malignant melanoma of skin,375,Age-standardised,40.3,36.3,44.6
+E38000235,NHS Sussex ICB - 97R,C43,Malignant melanoma of skin,252,Age-standardised,38.7,34,43.9
+E38000025,NHS West Yorkshire ICB - 02T,C43,Malignant melanoma of skin,45,Age-standardised,22.2,16.2,29.7
+E38000190,NHS West Yorkshire ICB - 03R,C43,Malignant melanoma of skin,92,Age-standardised,27,21.8,33.1
+E38000225,NHS West Yorkshire ICB - 15F,C43,Malignant melanoma of skin,193,Age-standardised,28.4,24.6,32.8
+E38000232,NHS West Yorkshire ICB - 36J,C43,Malignant melanoma of skin,114,Age-standardised,22.4,18.5,27
+E38000254,NHS West Yorkshire ICB - X2C4Y,C43,Malignant melanoma of skin,89,Age-standardised,21.7,17.5,26.8
+Grand Total,,,,,,,,

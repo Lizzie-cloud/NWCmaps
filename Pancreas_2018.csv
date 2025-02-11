@@ -1,0 +1,108 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C25,Malignant neoplasm of pancreas,169,Age-standardised,18.4,15.7,21.4
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C25,Malignant neoplasm of pancreas,129,Age-standardised,16.5,13.8,19.6
+E38000258,NHS Birmingham and Solihull ICB - 15E,C25,Malignant neoplasm of pancreas,170,Age-standardised,16.2,13.9,18.9
+E38000259,NHS Black Country ICB - D2P2L,C25,Malignant neoplasm of pancreas,170,Age-standardised,15.7,13.4,18.2
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C25,Malignant neoplasm of pancreas,175,Age-standardised,20.6,17.6,23.9
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C25,Malignant neoplasm of pancreas,83,Age-standardised,13,10.4,16.2
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C25,Malignant neoplasm of pancreas,71,Age-standardised,13.1,10.2,16.5
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C25,Malignant neoplasm of pancreas,69,Age-standardised,16.3,12.7,20.6
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C25,Malignant neoplasm of pancreas,132,Age-standardised,16.2,13.6,19.2
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C25,Malignant neoplasm of pancreas,20,Age-standardised,16.6,10.1,25.7
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C25,Malignant neoplasm of pancreas,32,Age-standardised,23.2,15.8,32.8
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C25,Malignant neoplasm of pancreas,27,Age-standardised,15.9,10.5,23.1
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C25,Malignant neoplasm of pancreas,21,Age-standardised,14,8.6,21.5
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C25,Malignant neoplasm of pancreas,18,Age-standardised,9.6,5.7,15.2
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C25,Malignant neoplasm of pancreas,43,Age-standardised,21.5,15.5,28.9
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C25,Malignant neoplasm of pancreas,66,Age-standardised,18.6,14.4,23.7
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C25,Malignant neoplasm of pancreas,148,Age-standardised,18.3,15.4,21.5
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C25,Malignant neoplasm of pancreas,64,Age-standardised,16,12.3,20.4
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C25,Malignant neoplasm of pancreas,103,Age-standardised,15,12.2,18.2
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C25,Malignant neoplasm of pancreas,161,Age-standardised,18.3,15.6,21.4
+E38000261,NHS Derby and Derbyshire ICB - 15M,C25,Malignant neoplasm of pancreas,199,Age-standardised,18.2,15.7,20.9
+E38000230,NHS Devon ICB - 15N,C25,Malignant neoplasm of pancreas,227,Age-standardised,16.3,14.2,18.6
+E38000045,NHS Dorset ICB - 11J,C25,Malignant neoplasm of pancreas,183,Age-standardised,18.7,16.1,21.7
+E38000252,NHS Frimley ICB - D4U1Y,C25,Malignant neoplasm of pancreas,118,Age-standardised,18.7,15.4,22.4
+E38000062,NHS Gloucestershire ICB - 11M,C25,Malignant neoplasm of pancreas,142,Age-standardised,20.6,17.4,24.3
+E38000016,NHS Greater Manchester ICB - 00T,C25,Malignant neoplasm of pancreas,47,Age-standardised,18.5,13.6,24.6
+E38000024,NHS Greater Manchester ICB - 00V,C25,Malignant neoplasm of pancreas,20,Age-standardised,11.1,6.8,17.2
+E38000135,NHS Greater Manchester ICB - 00Y,C25,Malignant neoplasm of pancreas,26,Age-standardised,13.3,8.7,19.5
+E38000080,NHS Greater Manchester ICB - 01D,C25,Malignant neoplasm of pancreas,33,Age-standardised,17.4,12,24.5
+E38000143,NHS Greater Manchester ICB - 01G,C25,Malignant neoplasm of pancreas,27,Age-standardised,13.5,8.9,19.7
+E38000174,NHS Greater Manchester ICB - 01W,C25,Malignant neoplasm of pancreas,35,Age-standardised,11.6,8,16.1
+E38000263,NHS Greater Manchester ICB - 01Y,C25,Malignant neoplasm of pancreas,26,Age-standardised,12.7,8.3,18.6
+E38000187,NHS Greater Manchester ICB - 02A,C25,Malignant neoplasm of pancreas,36,Age-standardised,16.5,11.5,22.9
+E38000205,NHS Greater Manchester ICB - 02H,C25,Malignant neoplasm of pancreas,43,Age-standardised,13.5,9.7,18.2
+E38000217,NHS Greater Manchester ICB - 14L,C25,Malignant neoplasm of pancreas,53,Age-standardised,17.3,12.8,22.8
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C25,Malignant neoplasm of pancreas,31,Age-standardised,18.8,12.7,26.7
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C25,Malignant neoplasm of pancreas,344,Age-standardised,19.9,17.8,22.1
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C25,Malignant neoplasm of pancreas,141,Age-standardised,15.6,13.1,18.4
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C25,Malignant neoplasm of pancreas,82,Age-standardised,15.9,12.6,19.8
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C25,Malignant neoplasm of pancreas,102,Age-standardised,18.6,15.1,22.6
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C25,Malignant neoplasm of pancreas,43,Age-standardised,14.3,10.3,19.2
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C25,Malignant neoplasm of pancreas,75,Age-standardised,18.4,14.4,23
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C25,Malignant neoplasm of pancreas,33,Age-standardised,15.9,10.9,22.4
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C25,Malignant neoplasm of pancreas,28,Age-standardised,17,11.3,24.6
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C25,Malignant neoplasm of pancreas,35,Age-standardised,19,13.3,26.5
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C25,Malignant neoplasm of pancreas,63,Age-standardised,16.8,12.9,21.5
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C25,Malignant neoplasm of pancreas,89,Age-standardised,16.7,13.4,20.5
+E38000237,NHS Kent and Medway ICB - 91Q,C25,Malignant neoplasm of pancreas,363,Age-standardised,19.7,17.7,21.8
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C25,Malignant neoplasm of pancreas,18,Age-standardised,16.4,9.7,25.9
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C25,Malignant neoplasm of pancreas,18,Age-standardised,12.4,7.4,19.6
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C25,Malignant neoplasm of pancreas,27,Age-standardised,15.3,10.1,22.2
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C25,Malignant neoplasm of pancreas,65,Age-standardised,17.4,13.5,22.2
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C25,Malignant neoplasm of pancreas,28,Age-standardised,15.3,10.2,22.2
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C25,Malignant neoplasm of pancreas,54,Age-standardised,14.2,10.6,18.5
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C25,Malignant neoplasm of pancreas,25,Age-standardised,20.1,13,29.8
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C25,Malignant neoplasm of pancreas,35,Age-standardised,13.7,9.5,19.2
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C25,Malignant neoplasm of pancreas,69,Age-standardised,18.7,14.5,23.7
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C25,Malignant neoplasm of pancreas,33,Age-standardised,14.6,10,20.6
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C25,Malignant neoplasm of pancreas,77,Age-standardised,19.3,15.2,24.1
+E38000238,NHS Lincolnshire ICB - 71E,C25,Malignant neoplasm of pancreas,153,Age-standardised,17.6,14.9,20.6
+E38000106,NHS Mid and South Essex ICB - 06Q,C25,Malignant neoplasm of pancreas,72,Age-standardised,17.5,13.7,22.1
+E38000185,NHS Mid and South Essex ICB - 07G,C25,Malignant neoplasm of pancreas,14,Age-standardised,10.9,5.9,18.4
+E38000007,NHS Mid and South Essex ICB - 99E,C25,Malignant neoplasm of pancreas,37,Age-standardised,14.6,10.2,20.1
+E38000030,NHS Mid and South Essex ICB - 99F,C25,Malignant neoplasm of pancreas,35,Age-standardised,16.3,11.3,22.7
+E38000168,NHS Mid and South Essex ICB - 99G,C25,Malignant neoplasm of pancreas,44,Age-standardised,24.7,17.9,33.1
+E38000239,NHS Norfolk and Waveney ICB - 26A,C25,Malignant neoplasm of pancreas,234,Age-standardised,18.7,16.4,21.3
+E38000240,NHS North Central London ICB - 93C,C25,Malignant neoplasm of pancreas,145,Age-standardised,13.9,11.7,16.4
+E38000130,NHS North East and North Cumbria ICB - 00L,C25,Malignant neoplasm of pancreas,69,Age-standardised,17.7,13.7,22.4
+E38000163,NHS North East and North Cumbria ICB - 00N,C25,Malignant neoplasm of pancreas,21,Age-standardised,13.2,8.2,20.2
+E38000176,NHS North East and North Cumbria ICB - 00P,C25,Malignant neoplasm of pancreas,52,Age-standardised,18.6,13.9,24.4
+E38000215,NHS North East and North Cumbria ICB - 01H,C25,Malignant neoplasm of pancreas,53,Age-standardised,14.3,10.7,18.8
+E38000212,NHS North East and North Cumbria ICB - 13T,C25,Malignant neoplasm of pancreas,75,Age-standardised,17.2,13.5,21.5
+E38000247,NHS North East and North Cumbria ICB - 16C,C25,Malignant neoplasm of pancreas,121,Age-standardised,18.2,15.1,21.7
+E38000234,NHS North East and North Cumbria ICB - 84H,C25,Malignant neoplasm of pancreas,86,Age-standardised,15.7,12.6,19.5
+E38000127,NHS North East and North Cumbria ICB - 99C,C25,Malignant neoplasm of pancreas,45,Age-standardised,21.2,15.4,28.4
+E38000255,NHS North East London ICB - A3A8R,C25,Malignant neoplasm of pancreas,173,Age-standardised,14.8,12.7,17.3
+E38000256,NHS North West London ICB - W2U3Z,C25,Malignant neoplasm of pancreas,251,Age-standardised,16.7,14.7,19
+E38000262,NHS Northamptonshire ICB - 78H,C25,Malignant neoplasm of pancreas,107,Age-standardised,15.4,12.6,18.6
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C25,Malignant neoplasm of pancreas,33,Age-standardised,25.9,17.8,36.4
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C25,Malignant neoplasm of pancreas,138,Age-standardised,14.6,12.2,17.2
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C25,Malignant neoplasm of pancreas,103,Age-standardised,18.9,15.4,23
+E38000150,NHS Somerset ICB - 11X,C25,Malignant neoplasm of pancreas,101,Age-standardised,14.9,12.1,18.1
+E38000244,NHS South East London ICB - 72Q,C25,Malignant neoplasm of pancreas,214,Age-standardised,17.8,15.4,20.3
+E38000245,NHS South West London ICB - 36L,C25,Malignant neoplasm of pancreas,200,Age-standardised,17.9,15.5,20.6
+E38000006,NHS South Yorkshire ICB - 02P,C25,Malignant neoplasm of pancreas,43,Age-standardised,17.4,12.6,23.5
+E38000044,NHS South Yorkshire ICB - 02X,C25,Malignant neoplasm of pancreas,52,Age-standardised,17.1,12.8,22.4
+E38000141,NHS South Yorkshire ICB - 03L,C25,Malignant neoplasm of pancreas,62,Age-standardised,23.3,17.9,29.9
+E38000146,NHS South Yorkshire ICB - 03N,C25,Malignant neoplasm of pancreas,77,Age-standardised,15.7,12.4,19.6
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C25,Malignant neoplasm of pancreas,27,Age-standardised,19.5,12.9,28.4
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C25,Malignant neoplasm of pancreas,15,Age-standardised,11.6,6.5,19.2
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C25,Malignant neoplasm of pancreas,35,Age-standardised,14.4,10,20
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C25,Malignant neoplasm of pancreas,44,Age-standardised,17.6,12.8,23.7
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C25,Malignant neoplasm of pancreas,31,Age-standardised,17.5,11.9,24.8
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C25,Malignant neoplasm of pancreas,50,Age-standardised,21.1,15.7,27.8
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C25,Malignant neoplasm of pancreas,68,Age-standardised,14.6,11.3,18.6
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C25,Malignant neoplasm of pancreas,60,Age-standardised,16,12.2,20.6
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C25,Malignant neoplasm of pancreas,31,Age-standardised,12,8.2,17.1
+E38000264,NHS Surrey Heartlands ICB - 92A,C25,Malignant neoplasm of pancreas,170,Age-standardised,16.5,14.1,19.1
+E38000021,NHS Sussex ICB - 09D,C25,Malignant neoplasm of pancreas,34,Age-standardised,15.9,10.9,22.2
+E38000265,NHS Sussex ICB - 70F,C25,Malignant neoplasm of pancreas,168,Age-standardised,17,14.5,19.8
+E38000235,NHS Sussex ICB - 97R,C25,Malignant neoplasm of pancreas,125,Age-standardised,17.6,14.7,21.1
+E38000025,NHS West Yorkshire ICB - 02T,C25,Malignant neoplasm of pancreas,38,Age-standardised,18.9,13.4,25.9
+E38000190,NHS West Yorkshire ICB - 03R,C25,Malignant neoplasm of pancreas,53,Age-standardised,15.6,11.7,20.4
+E38000225,NHS West Yorkshire ICB - 15F,C25,Malignant neoplasm of pancreas,129,Age-standardised,20.1,16.7,23.8
+E38000232,NHS West Yorkshire ICB - 36J,C25,Malignant neoplasm of pancreas,87,Age-standardised,17.7,14.2,21.9
+E38000254,NHS West Yorkshire ICB - X2C4Y,C25,Malignant neoplasm of pancreas,65,Age-standardised,16.4,12.7,21
+Grand Total,,,,,,,,
