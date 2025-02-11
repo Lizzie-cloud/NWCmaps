@@ -1,0 +1,108 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C67,Malignant neoplasm of bladder,155,Age-standardised,16.7,14.2,19.6
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C67,Malignant neoplasm of bladder,129,Age-standardised,16.7,14,19.9
+E38000258,NHS Birmingham and Solihull ICB - 15E,C67,Malignant neoplasm of bladder,179,Age-standardised,17.4,14.9,20.2
+E38000259,NHS Black Country ICB - D2P2L,C67,Malignant neoplasm of bladder,221,Age-standardised,20.3,17.7,23.2
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C67,Malignant neoplasm of bladder,166,Age-standardised,19.4,16.5,22.6
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C67,Malignant neoplasm of bladder,109,Age-standardised,17.1,14,20.6
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C67,Malignant neoplasm of bladder,74,Age-standardised,13.9,10.9,17.4
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C67,Malignant neoplasm of bladder,61,Age-standardised,14.6,11.2,18.8
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C67,Malignant neoplasm of bladder,130,Age-standardised,16,13.3,19
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C67,Malignant neoplasm of bladder,27,Age-standardised,23.2,15.3,33.8
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C67,Malignant neoplasm of bladder,30,Age-standardised,22,14.8,31.4
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C67,Malignant neoplasm of bladder,28,Age-standardised,16.1,10.7,23.3
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C67,Malignant neoplasm of bladder,29,Age-standardised,18.4,12.2,26.6
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C67,Malignant neoplasm of bladder,34,Age-standardised,18.2,12.6,25.5
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C67,Malignant neoplasm of bladder,27,Age-standardised,13.2,8.7,19.2
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C67,Malignant neoplasm of bladder,46,Age-standardised,13,9.5,17.3
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C67,Malignant neoplasm of bladder,134,Age-standardised,16.5,13.9,19.6
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C67,Malignant neoplasm of bladder,69,Age-standardised,18.1,14,22.9
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C67,Malignant neoplasm of bladder,126,Age-standardised,18.1,15.1,21.6
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C67,Malignant neoplasm of bladder,156,Age-standardised,17.8,15.2,20.9
+E38000261,NHS Derby and Derbyshire ICB - 15M,C67,Malignant neoplasm of bladder,175,Age-standardised,15.9,13.7,18.5
+E38000230,NHS Devon ICB - 15N,C67,Malignant neoplasm of bladder,225,Age-standardised,15.6,13.6,17.8
+E38000045,NHS Dorset ICB - 11J,C67,Malignant neoplasm of bladder,158,Age-standardised,16,13.5,18.7
+E38000252,NHS Frimley ICB - D4U1Y,C67,Malignant neoplasm of bladder,128,Age-standardised,20.1,16.8,23.9
+E38000062,NHS Gloucestershire ICB - 11M,C67,Malignant neoplasm of bladder,95,Age-standardised,13.6,11,16.6
+E38000016,NHS Greater Manchester ICB - 00T,C67,Malignant neoplasm of bladder,43,Age-standardised,17.2,12.5,23.2
+E38000024,NHS Greater Manchester ICB - 00V,C67,Malignant neoplasm of bladder,40,Age-standardised,22.6,16.1,30.7
+E38000135,NHS Greater Manchester ICB - 00Y,C67,Malignant neoplasm of bladder,46,Age-standardised,23.2,17,30.9
+E38000080,NHS Greater Manchester ICB - 01D,C67,Malignant neoplasm of bladder,47,Age-standardised,25.4,18.7,33.8
+E38000143,NHS Greater Manchester ICB - 01G,C67,Malignant neoplasm of bladder,33,Age-standardised,17.2,11.8,24.1
+E38000174,NHS Greater Manchester ICB - 01W,C67,Malignant neoplasm of bladder,49,Age-standardised,16.1,11.9,21.3
+E38000263,NHS Greater Manchester ICB - 01Y,C67,Malignant neoplasm of bladder,37,Age-standardised,18.2,12.8,25.1
+E38000187,NHS Greater Manchester ICB - 02A,C67,Malignant neoplasm of bladder,30,Age-standardised,13.6,9.1,19.4
+E38000205,NHS Greater Manchester ICB - 02H,C67,Malignant neoplasm of bladder,59,Age-standardised,19,14.4,24.5
+E38000217,NHS Greater Manchester ICB - 14L,C67,Malignant neoplasm of bladder,46,Age-standardised,16.9,12.3,22.6
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C67,Malignant neoplasm of bladder,25,Age-standardised,15.5,10,22.8
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C67,Malignant neoplasm of bladder,288,Age-standardised,16.3,14.5,18.3
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C67,Malignant neoplasm of bladder,127,Age-standardised,14.1,11.8,16.8
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C67,Malignant neoplasm of bladder,103,Age-standardised,19.4,15.8,23.5
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C67,Malignant neoplasm of bladder,76,Age-standardised,13.8,10.9,17.3
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C67,Malignant neoplasm of bladder,57,Age-standardised,18.9,14.3,24.5
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C67,Malignant neoplasm of bladder,72,Age-standardised,17.3,13.5,21.7
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C67,Malignant neoplasm of bladder,40,Age-standardised,19.7,14.1,26.9
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C67,Malignant neoplasm of bladder,30,Age-standardised,17.9,12,25.5
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C67,Malignant neoplasm of bladder,41,Age-standardised,22.4,16.1,30.4
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C67,Malignant neoplasm of bladder,51,Age-standardised,13.4,10,17.7
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C67,Malignant neoplasm of bladder,73,Age-standardised,13.6,10.7,17.1
+E38000237,NHS Kent and Medway ICB - 91Q,C67,Malignant neoplasm of bladder,339,Age-standardised,18.3,16.4,20.4
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C67,Malignant neoplasm of bladder,26,Age-standardised,23.5,15.3,34.4
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C67,Malignant neoplasm of bladder,41,Age-standardised,28.2,20.2,38.3
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C67,Malignant neoplasm of bladder,27,Age-standardised,15.6,10.3,22.7
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C67,Malignant neoplasm of bladder,75,Age-standardised,20.3,16,25.4
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C67,Malignant neoplasm of bladder,25,Age-standardised,13.9,9,20.5
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C67,Malignant neoplasm of bladder,65,Age-standardised,16.7,12.8,21.2
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C67,Malignant neoplasm of bladder,17,Age-standardised,13.6,7.9,21.8
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C67,Malignant neoplasm of bladder,45,Age-standardised,16.8,12.2,22.5
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C67,Malignant neoplasm of bladder,53,Age-standardised,14.1,10.5,18.4
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C67,Malignant neoplasm of bladder,39,Age-standardised,16.6,11.7,22.8
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C67,Malignant neoplasm of bladder,64,Age-standardised,16,12.3,20.5
+E38000238,NHS Lincolnshire ICB - 71E,C67,Malignant neoplasm of bladder,158,Age-standardised,17.9,15.2,20.9
+E38000106,NHS Mid and South Essex ICB - 06Q,C67,Malignant neoplasm of bladder,62,Age-standardised,15.1,11.6,19.4
+E38000185,NHS Mid and South Essex ICB - 07G,C67,Malignant neoplasm of bladder,26,Age-standardised,21.2,13.8,31.1
+E38000007,NHS Mid and South Essex ICB - 99E,C67,Malignant neoplasm of bladder,35,Age-standardised,14,9.7,19.5
+E38000030,NHS Mid and South Essex ICB - 99F,C67,Malignant neoplasm of bladder,36,Age-standardised,16.5,11.5,22.8
+E38000168,NHS Mid and South Essex ICB - 99G,C67,Malignant neoplasm of bladder,31,Age-standardised,17.4,11.8,24.8
+E38000239,NHS Norfolk and Waveney ICB - 26A,C67,Malignant neoplasm of bladder,208,Age-standardised,16.5,14.3,18.9
+E38000240,NHS North Central London ICB - 93C,C67,Malignant neoplasm of bladder,126,Age-standardised,13,10.8,15.5
+E38000130,NHS North East and North Cumbria ICB - 00L,C67,Malignant neoplasm of bladder,43,Age-standardised,11,8,14.9
+E38000163,NHS North East and North Cumbria ICB - 00N,C67,Malignant neoplasm of bladder,22,Age-standardised,14.5,9.1,21.9
+E38000176,NHS North East and North Cumbria ICB - 00P,C67,Malignant neoplasm of bladder,49,Age-standardised,17.7,13.1,23.4
+E38000215,NHS North East and North Cumbria ICB - 01H,C67,Malignant neoplasm of bladder,53,Age-standardised,13.9,10.4,18.2
+E38000212,NHS North East and North Cumbria ICB - 13T,C67,Malignant neoplasm of bladder,89,Age-standardised,20.2,16.2,24.8
+E38000247,NHS North East and North Cumbria ICB - 16C,C67,Malignant neoplasm of bladder,120,Age-standardised,18.1,15,21.7
+E38000234,NHS North East and North Cumbria ICB - 84H,C67,Malignant neoplasm of bladder,93,Age-standardised,16.9,13.6,20.7
+E38000127,NHS North East and North Cumbria ICB - 99C,C67,Malignant neoplasm of bladder,32,Age-standardised,15.1,10.3,21.3
+E38000255,NHS North East London ICB - A3A8R,C67,Malignant neoplasm of bladder,150,Age-standardised,13.6,11.5,16
+E38000256,NHS North West London ICB - W2U3Z,C67,Malignant neoplasm of bladder,187,Age-standardised,12.6,10.9,14.6
+E38000262,NHS Northamptonshire ICB - 78H,C67,Malignant neoplasm of bladder,114,Age-standardised,16.5,13.6,19.8
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C67,Malignant neoplasm of bladder,26,Age-standardised,20.3,13.3,29.8
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C67,Malignant neoplasm of bladder,169,Age-standardised,17.8,15.2,20.7
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C67,Malignant neoplasm of bladder,93,Age-standardised,17,13.7,20.8
+E38000150,NHS Somerset ICB - 11X,C67,Malignant neoplasm of bladder,108,Age-standardised,15.5,12.7,18.8
+E38000244,NHS South East London ICB - 72Q,C67,Malignant neoplasm of bladder,183,Age-standardised,15.6,13.4,18.1
+E38000245,NHS South West London ICB - 36L,C67,Malignant neoplasm of bladder,174,Age-standardised,16.5,14.1,19.2
+E38000006,NHS South Yorkshire ICB - 02P,C67,Malignant neoplasm of bladder,37,Age-standardised,15.3,10.7,21
+E38000044,NHS South Yorkshire ICB - 02X,C67,Malignant neoplasm of bladder,46,Age-standardised,15.1,11,20.1
+E38000141,NHS South Yorkshire ICB - 03L,C67,Malignant neoplasm of bladder,42,Age-standardised,15.8,11.4,21.4
+E38000146,NHS South Yorkshire ICB - 03N,C67,Malignant neoplasm of bladder,90,Age-standardised,18.4,14.8,22.6
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C67,Malignant neoplasm of bladder,27,Age-standardised,19.5,12.9,28.4
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C67,Malignant neoplasm of bladder,21,Age-standardised,16.4,10.1,25
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C67,Malignant neoplasm of bladder,37,Age-standardised,15.2,10.7,20.9
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C67,Malignant neoplasm of bladder,53,Age-standardised,20.9,15.6,27.3
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C67,Malignant neoplasm of bladder,19,Age-standardised,10.4,6.3,16.3
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C67,Malignant neoplasm of bladder,33,Age-standardised,13.9,9.6,19.5
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C67,Malignant neoplasm of bladder,70,Age-standardised,14.7,11.5,18.6
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C67,Malignant neoplasm of bladder,62,Age-standardised,16.1,12.3,20.7
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C67,Malignant neoplasm of bladder,44,Age-standardised,17.1,12.4,22.9
+E38000264,NHS Surrey Heartlands ICB - 92A,C67,Malignant neoplasm of bladder,175,Age-standardised,16.7,14.3,19.4
+E38000021,NHS Sussex ICB - 09D,C67,Malignant neoplasm of bladder,31,Age-standardised,14.9,10.1,21.2
+E38000265,NHS Sussex ICB - 70F,C67,Malignant neoplasm of bladder,156,Age-standardised,15.3,13,17.9
+E38000235,NHS Sussex ICB - 97R,C67,Malignant neoplasm of bladder,117,Age-standardised,16.3,13.5,19.6
+E38000025,NHS West Yorkshire ICB - 02T,C67,Malignant neoplasm of bladder,40,Age-standardised,20,14.3,27.3
+E38000190,NHS West Yorkshire ICB - 03R,C67,Malignant neoplasm of bladder,74,Age-standardised,22.1,17.3,27.7
+E38000225,NHS West Yorkshire ICB - 15F,C67,Malignant neoplasm of bladder,121,Age-standardised,19,15.8,22.7
+E38000232,NHS West Yorkshire ICB - 36J,C67,Malignant neoplasm of bladder,92,Age-standardised,19,15.3,23.3
+E38000254,NHS West Yorkshire ICB - X2C4Y,C67,Malignant neoplasm of bladder,62,Age-standardised,15.6,12,20
+Grand Total,,,,,,,,
