@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Type_of_rate,Rate,LCI,UCI,Sum of Count
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,12.1,10,14.5,116
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.4,8.3,12.8,85
+E38000258,NHS Birmingham and Solihull ICB - 15E,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.2,9.2,13.4,117
+E38000259,NHS Black Country ICB - D2P2L,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.3,5.8,9.1,80
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.3,9.2,13.8,98
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.8,9.3,14.8,78
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8,5.8,10.7,44
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.9,7.2,13.3,44
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.7,7.7,12.1,82
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,,,,9
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,,,,0
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,5.6,2.7,10.3,10
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,,,,8
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.8,3.6,11.7,13
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.2,3.3,10.6,13
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7,4.5,10.3,25
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.5,5.8,9.6,63
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.6,7.6,14.4,42
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.4,6.4,10.9,61
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.8,7,11,78
+E38000261,NHS Derby and Derbyshire ICB - 15M,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11,9.1,13.1,124
+E38000230,NHS Devon ICB - 15N,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.9,5.6,8.4,100
+E38000045,NHS Dorset ICB - 11J,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.3,7.5,11.4,94
+E38000252,NHS Frimley ICB - D4U1Y,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.3,7.1,12,61
+E38000062,NHS Gloucestershire ICB - 11M,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.2,7.1,11.8,66
+E38000016,NHS Greater Manchester ICB - 00T,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.2,3.5,10,16
+E38000024,NHS Greater Manchester ICB - 00V,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.1,4.5,13.3,15
+E38000135,NHS Greater Manchester ICB - 00Y,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.2,5.5,14.4,19
+E38000080,NHS Greater Manchester ICB - 01D,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.9,4.4,13,15
+E38000143,NHS Greater Manchester ICB - 01G,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.3,4.1,12.1,15
+E38000174,NHS Greater Manchester ICB - 01W,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.8,5.8,12.9,27
+E38000263,NHS Greater Manchester ICB - 01Y,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.1,4,11.7,15
+E38000187,NHS Greater Manchester ICB - 02A,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9,5.5,13.9,20
+E38000205,NHS Greater Manchester ICB - 02H,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.4,3.9,9.7,21
+E38000217,NHS Greater Manchester ICB - 14L,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.8,4.1,10.5,20
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.2,5.9,16.3,17
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.7,8.3,11.2,172
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.8,7.9,12.1,91
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.4,7.8,13.5,56
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.8,8.2,14,59
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9,6,13.1,28
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.4,7.5,13.9,44
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.2,4.8,13,18
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,,,,6
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8,4.5,13.2,15
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.4,8.3,15.3,44
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.6,4.6,9.1,36
+E38000237,NHS Kent and Medway ICB - 91Q,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.5,6.3,8.9,143
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,,,,9
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.2,4.2,14.4,12
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.3,4.6,13.6,15
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.5,5,10.8,29
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.4,4,12.4,14
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.2,4,9.2,25
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,,,,7
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.9,5.6,13.3,24
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,4.9,3,7.7,19
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8,4.9,12.4,20
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.9,4.6,9.9,29
+E38000238,NHS Lincolnshire ICB - 71E,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.6,8.6,12.9,97
+E38000106,NHS Mid and South Essex ICB - 06Q,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.6,6,11.9,36
+E38000185,NHS Mid and South Essex ICB - 07G,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,12.2,7,19.6,17
+E38000007,NHS Mid and South Essex ICB - 99E,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.4,7.6,16.4,29
+E38000030,NHS Mid and South Essex ICB - 99F,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.3,3.5,10.7,14
+E38000168,NHS Mid and South Essex ICB - 99G,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,5.7,2.9,10.3,11
+E38000239,NHS Norfolk and Waveney ICB - 26A,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.6,7,10.3,110
+E38000240,NHS North Central London ICB - 93C,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.9,6.3,9.9,83
+E38000130,NHS North East and North Cumbria ICB - 00L,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.2,4.8,10.3,29
+E38000163,NHS North East and North Cumbria ICB - 00N,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.3,5.2,15.4,15
+E38000176,NHS North East and North Cumbria ICB - 00P,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.1,6,13.4,26
+E38000215,NHS North East and North Cumbria ICB - 01H,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.8,6.9,13.6,37
+E38000212,NHS North East and North Cumbria ICB - 13T,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.2,4.1,9,28
+E38000247,NHS North East and North Cumbria ICB - 16C,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.2,7.1,11.8,63
+E38000234,NHS North East and North Cumbria ICB - 84H,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.2,5.2,9.8,41
+E38000127,NHS North East and North Cumbria ICB - 99C,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.4,7.4,16.9,25
+E38000255,NHS North East London ICB - A3A8R,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10.6,8.8,12.6,135
+E38000256,NHS North West London ICB - W2U3Z,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.8,8.3,11.4,157
+E38000262,NHS Northamptonshire ICB - 78H,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.7,5,8.9,49
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,12.1,6.9,19.7,16
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,12.1,10.1,14.5,119
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,9.4,7,12.2,53
+E38000150,NHS Somerset ICB - 11X,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.3,6.3,10.8,59
+E38000244,NHS South East London ICB - 72Q,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,13.2,11.2,15.3,172
+E38000245,NHS South West London ICB - 36L,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,10,8.3,12,116
+E38000006,NHS South Yorkshire ICB - 02P,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.1,4.2,11.3,18
+E38000044,NHS South Yorkshire ICB - 02X,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.6,5.7,12.5,27
+E38000141,NHS South Yorkshire ICB - 03L,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.4,5.3,12.6,23
+E38000146,NHS South Yorkshire ICB - 03N,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.8,9,15.2,60
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.2,4.2,14.3,12
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,14.1,8.5,22.1,19
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.3,3.6,10.3,16
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.6,5.3,13,22
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,14.2,9.2,20.8,26
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.2,3.5,10.2,15
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,7.5,5.2,10.5,35
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.1,5.6,11.5,32
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,11.9,8.1,16.8,32
+E38000264,NHS Surrey Heartlands ICB - 92A,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.3,6.6,10.2,88
+E38000021,NHS Sussex ICB - 09D,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.5,5,13.4,18
+E38000265,NHS Sussex ICB - 70F,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.6,6.9,10.6,88
+E38000235,NHS Sussex ICB - 97R,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.3,6.3,10.7,60
+E38000025,NHS West Yorkshire ICB - 02T,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.6,5.1,13.7,18
+E38000190,NHS West Yorkshire ICB - 03R,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,5.1,3,8.1,18
+E38000225,NHS West Yorkshire ICB - 15F,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,8.4,6.3,11,55
+E38000232,NHS West Yorkshire ICB - 36J,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.7,4.6,9.4,34
+E38000254,NHS West Yorkshire ICB - X2C4Y,C90,Multiple myeloma and malignant plasma cell neoplasms,Age-standardised,6.6,4.3,9.6,27

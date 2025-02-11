@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Type_of_rate,Rate,LCI,UCI,Sum of Count
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C16,Malignant neoplasm of stomach,Age-standardised,7.3,5.7,9.2,70
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C16,Malignant neoplasm of stomach,Age-standardised,8.4,6.5,10.7,68
+E38000258,NHS Birmingham and Solihull ICB - 15E,C16,Malignant neoplasm of stomach,Age-standardised,12.3,10.2,14.6,130
+E38000259,NHS Black Country ICB - D2P2L,C16,Malignant neoplasm of stomach,Age-standardised,9.8,8.1,11.8,109
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C16,Malignant neoplasm of stomach,Age-standardised,10.5,8.4,12.9,91
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C16,Malignant neoplasm of stomach,Age-standardised,8.7,6.6,11.3,58
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C16,Malignant neoplasm of stomach,Age-standardised,7.6,5.5,10.3,42
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C16,Malignant neoplasm of stomach,Age-standardised,8.7,6.2,12,38
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C16,Malignant neoplasm of stomach,Age-standardised,8.3,6.5,10.5,70
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C16,Malignant neoplasm of stomach,Age-standardised,,,,9
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C16,Malignant neoplasm of stomach,Age-standardised,12.4,7.3,19.6,18
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C16,Malignant neoplasm of stomach,Age-standardised,10,5.9,15.7,18
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C16,Malignant neoplasm of stomach,Age-standardised,,,,6
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C16,Malignant neoplasm of stomach,Age-standardised,9.5,5.6,15.1,18
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C16,Malignant neoplasm of stomach,Age-standardised,9.1,5.5,14.3,19
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C16,Malignant neoplasm of stomach,Age-standardised,12.8,9.4,17,47
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C16,Malignant neoplasm of stomach,Age-standardised,8.1,6.3,10.3,68
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C16,Malignant neoplasm of stomach,Age-standardised,12.8,9.5,16.9,50
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C16,Malignant neoplasm of stomach,Age-standardised,9.9,7.7,12.5,69
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C16,Malignant neoplasm of stomach,Age-standardised,8.8,7,11,79
+E38000261,NHS Derby and Derbyshire ICB - 15M,C16,Malignant neoplasm of stomach,Age-standardised,9.2,7.5,11.1,103
+E38000230,NHS Devon ICB - 15N,C16,Malignant neoplasm of stomach,Age-standardised,6.9,5.6,8.4,99
+E38000045,NHS Dorset ICB - 11J,C16,Malignant neoplasm of stomach,Age-standardised,6.9,5.4,8.8,68
+E38000252,NHS Frimley ICB - D4U1Y,C16,Malignant neoplasm of stomach,Age-standardised,8.5,6.4,11,56
+E38000062,NHS Gloucestershire ICB - 11M,C16,Malignant neoplasm of stomach,Age-standardised,8.2,6.3,10.6,59
+E38000016,NHS Greater Manchester ICB - 00T,C16,Malignant neoplasm of stomach,Age-standardised,8.8,5.6,13.2,23
+E38000024,NHS Greater Manchester ICB - 00V,C16,Malignant neoplasm of stomach,Age-standardised,11.4,7.1,17.5,21
+E38000135,NHS Greater Manchester ICB - 00Y,C16,Malignant neoplasm of stomach,Age-standardised,11.2,7.1,16.8,23
+E38000080,NHS Greater Manchester ICB - 01D,C16,Malignant neoplasm of stomach,Age-standardised,7.7,4.3,12.8,15
+E38000143,NHS Greater Manchester ICB - 01G,C16,Malignant neoplasm of stomach,Age-standardised,12,7.7,17.9,24
+E38000174,NHS Greater Manchester ICB - 01W,C16,Malignant neoplasm of stomach,Age-standardised,8.4,5.5,12.4,26
+E38000263,NHS Greater Manchester ICB - 01Y,C16,Malignant neoplasm of stomach,Age-standardised,10.3,6.4,15.5,22
+E38000187,NHS Greater Manchester ICB - 02A,C16,Malignant neoplasm of stomach,Age-standardised,14.6,10,20.6,32
+E38000205,NHS Greater Manchester ICB - 02H,C16,Malignant neoplasm of stomach,Age-standardised,7.7,4.9,11.3,25
+E38000217,NHS Greater Manchester ICB - 14L,C16,Malignant neoplasm of stomach,Age-standardised,13.4,9.4,18.5,39
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C16,Malignant neoplasm of stomach,Age-standardised,8.6,4.7,14.4,14
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C16,Malignant neoplasm of stomach,Age-standardised,6.8,5.6,8.1,120
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C16,Malignant neoplasm of stomach,Age-standardised,5.1,3.7,6.7,48
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C16,Malignant neoplasm of stomach,Age-standardised,7.5,5.4,10.1,41
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C16,Malignant neoplasm of stomach,Age-standardised,9.3,7,12.3,52
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C16,Malignant neoplasm of stomach,Age-standardised,11.6,8.2,16.1,36
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C16,Malignant neoplasm of stomach,Age-standardised,10.1,7.2,13.7,42
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C16,Malignant neoplasm of stomach,Age-standardised,11.7,7.5,17.3,25
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C16,Malignant neoplasm of stomach,Age-standardised,9.8,5.7,15.7,17
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C16,Malignant neoplasm of stomach,Age-standardised,11.6,7.3,17.6,22
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C16,Malignant neoplasm of stomach,Age-standardised,8.8,6.1,12.3,34
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C16,Malignant neoplasm of stomach,Age-standardised,9.7,7.2,12.7,52
+E38000237,NHS Kent and Medway ICB - 91Q,C16,Malignant neoplasm of stomach,Age-standardised,7,5.9,8.3,134
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C16,Malignant neoplasm of stomach,Age-standardised,9,4.5,16.2,11
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C16,Malignant neoplasm of stomach,Age-standardised,11.4,6.7,18.3,17
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C16,Malignant neoplasm of stomach,Age-standardised,8.9,5.1,14.5,16
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C16,Malignant neoplasm of stomach,Age-standardised,9.7,6.8,13.4,37
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C16,Malignant neoplasm of stomach,Age-standardised,8.4,4.8,13.6,16
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C16,Malignant neoplasm of stomach,Age-standardised,9.5,6.7,13.2,37
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C16,Malignant neoplasm of stomach,Age-standardised,,,,9
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C16,Malignant neoplasm of stomach,Age-standardised,8.2,5.1,12.5,22
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C16,Malignant neoplasm of stomach,Age-standardised,9.9,7.1,13.6,39
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C16,Malignant neoplasm of stomach,Age-standardised,15.1,10.5,20.8,37
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C16,Malignant neoplasm of stomach,Age-standardised,7.7,5.3,10.9,32
+E38000238,NHS Lincolnshire ICB - 71E,C16,Malignant neoplasm of stomach,Age-standardised,10.5,8.5,12.9,94
+E38000106,NHS Mid and South Essex ICB - 06Q,C16,Malignant neoplasm of stomach,Age-standardised,6.8,4.6,9.8,29
+E38000185,NHS Mid and South Essex ICB - 07G,C16,Malignant neoplasm of stomach,Age-standardised,11.9,6.8,19.4,16
+E38000007,NHS Mid and South Essex ICB - 99E,C16,Malignant neoplasm of stomach,Age-standardised,9.6,6.2,14.2,25
+E38000030,NHS Mid and South Essex ICB - 99F,C16,Malignant neoplasm of stomach,Age-standardised,4.6,2.2,8.4,10
+E38000168,NHS Mid and South Essex ICB - 99G,C16,Malignant neoplasm of stomach,Age-standardised,6.6,3.4,11.5,12
+E38000239,NHS Norfolk and Waveney ICB - 26A,C16,Malignant neoplasm of stomach,Age-standardised,9.5,7.9,11.4,125
+E38000240,NHS North Central London ICB - 93C,C16,Malignant neoplasm of stomach,Age-standardised,9.5,7.8,11.6,103
+E38000130,NHS North East and North Cumbria ICB - 00L,C16,Malignant neoplasm of stomach,Age-standardised,8,5.5,11.4,32
+E38000163,NHS North East and North Cumbria ICB - 00N,C16,Malignant neoplasm of stomach,Age-standardised,9.3,5.2,15.3,15
+E38000176,NHS North East and North Cumbria ICB - 00P,C16,Malignant neoplasm of stomach,Age-standardised,13.7,9.8,18.8,39
+E38000215,NHS North East and North Cumbria ICB - 01H,C16,Malignant neoplasm of stomach,Age-standardised,9,6.2,12.5,35
+E38000212,NHS North East and North Cumbria ICB - 13T,C16,Malignant neoplasm of stomach,Age-standardised,13.3,10.1,17.1,59
+E38000247,NHS North East and North Cumbria ICB - 16C,C16,Malignant neoplasm of stomach,Age-standardised,12.8,10.3,15.8,88
+E38000234,NHS North East and North Cumbria ICB - 84H,C16,Malignant neoplasm of stomach,Age-standardised,13.6,10.7,17,77
+E38000127,NHS North East and North Cumbria ICB - 99C,C16,Malignant neoplasm of stomach,Age-standardised,8.7,5.2,13.6,19
+E38000255,NHS North East London ICB - A3A8R,C16,Malignant neoplasm of stomach,Age-standardised,10.9,9.1,13,137
+E38000256,NHS North West London ICB - W2U3Z,C16,Malignant neoplasm of stomach,Age-standardised,9.8,8.3,11.4,159
+E38000262,NHS Northamptonshire ICB - 78H,C16,Malignant neoplasm of stomach,Age-standardised,9.8,7.7,12.4,70
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C16,Malignant neoplasm of stomach,Age-standardised,15.1,9.2,23.3,20
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C16,Malignant neoplasm of stomach,Age-standardised,8.7,6.9,10.8,85
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C16,Malignant neoplasm of stomach,Age-standardised,8.7,6.4,11.5,49
+E38000150,NHS Somerset ICB - 11X,C16,Malignant neoplasm of stomach,Age-standardised,8,6,10.4,56
+E38000244,NHS South East London ICB - 72Q,C16,Malignant neoplasm of stomach,Age-standardised,10.3,8.6,12.3,132
+E38000245,NHS South West London ICB - 36L,C16,Malignant neoplasm of stomach,Age-standardised,10.2,8.4,12.2,118
+E38000006,NHS South Yorkshire ICB - 02P,C16,Malignant neoplasm of stomach,Age-standardised,13.5,9.3,18.8,34
+E38000044,NHS South Yorkshire ICB - 02X,C16,Malignant neoplasm of stomach,Age-standardised,14,10.2,18.8,44
+E38000141,NHS South Yorkshire ICB - 03L,C16,Malignant neoplasm of stomach,Age-standardised,14,9.9,19.2,38
+E38000146,NHS South Yorkshire ICB - 03N,C16,Malignant neoplasm of stomach,Age-standardised,15.7,12.5,19.5,81
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C16,Malignant neoplasm of stomach,Age-standardised,13.3,8,20.8,19
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C16,Malignant neoplasm of stomach,Age-standardised,8.3,4.1,14.9,11
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C16,Malignant neoplasm of stomach,Age-standardised,7.2,4.2,11.4,18
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C16,Malignant neoplasm of stomach,Age-standardised,10.3,6.8,15,27
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C16,Malignant neoplasm of stomach,Age-standardised,7.8,4.2,13.1,14
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C16,Malignant neoplasm of stomach,Age-standardised,15.6,11,21.4,38
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C16,Malignant neoplasm of stomach,Age-standardised,10.3,7.6,13.7,49
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C16,Malignant neoplasm of stomach,Age-standardised,12,8.7,16,45
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C16,Malignant neoplasm of stomach,Age-standardised,6.3,3.6,10.3,16
+E38000264,NHS Surrey Heartlands ICB - 92A,C16,Malignant neoplasm of stomach,Age-standardised,6.1,4.7,7.8,66
+E38000021,NHS Sussex ICB - 09D,C16,Malignant neoplasm of stomach,Age-standardised,6.8,3.8,11.3,15
+E38000265,NHS Sussex ICB - 70F,C16,Malignant neoplasm of stomach,Age-standardised,7.1,5.5,8.9,71
+E38000235,NHS Sussex ICB - 97R,C16,Malignant neoplasm of stomach,Age-standardised,4.2,2.8,6,30
+E38000025,NHS West Yorkshire ICB - 02T,C16,Malignant neoplasm of stomach,Age-standardised,12.5,8.1,18.3,26
+E38000190,NHS West Yorkshire ICB - 03R,C16,Malignant neoplasm of stomach,Age-standardised,12.9,9.4,17.3,45
+E38000225,NHS West Yorkshire ICB - 15F,C16,Malignant neoplasm of stomach,Age-standardised,8,6,10.5,53
+E38000232,NHS West Yorkshire ICB - 36J,C16,Malignant neoplasm of stomach,Age-standardised,8.4,6,11.3,43
+E38000254,NHS West Yorkshire ICB - X2C4Y,C16,Malignant neoplasm of stomach,Age-standardised,11.1,8.1,14.8,46

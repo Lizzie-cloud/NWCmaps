@@ -1,0 +1,108 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,LCI,UCI,Rate
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C91-C95,Leukaemia,174,Age-standardised,15.9,21.6,18.6
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C91-C95,Leukaemia,135,Age-standardised,13.4,18.9,16
+E38000258,NHS Birmingham and Solihull ICB - 15E,C91-C95,Leukaemia,160,Age-standardised,11.9,16.4,14
+E38000259,NHS Black Country ICB - D2P2L,C91-C95,Leukaemia,193,Age-standardised,14.9,19.8,17.2
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C91-C95,Leukaemia,153,Age-standardised,14.7,20.3,17.3
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C91-C95,Leukaemia,72,Age-standardised,8.4,13.6,10.8
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C91-C95,Leukaemia,101,Age-standardised,15.1,22.5,18.5
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C91-C95,Leukaemia,61,Age-standardised,10.6,17.8,13.8
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C91-C95,Leukaemia,115,Age-standardised,11.3,16.4,13.7
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C91-C95,Leukaemia,10,Age-standardised,3.8,14.6,7.9
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C91-C95,Leukaemia,22,Age-standardised,9.7,23.5,15.5
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C91-C95,Leukaemia,25,Age-standardised,9.5,21.7,14.7
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C91-C95,Leukaemia,21,Age-standardised,8.3,20.8,13.5
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C91-C95,Leukaemia,27,Age-standardised,9.5,21,14.4
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C91-C95,Leukaemia,32,Age-standardised,10.6,22,15.6
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C91-C95,Leukaemia,59,Age-standardised,12.5,21.3,16.5
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C91-C95,Leukaemia,140,Age-standardised,14.6,20.5,17.3
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C91-C95,Leukaemia,78,Age-standardised,14.8,23.5,18.8
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C91-C95,Leukaemia,94,Age-standardised,11.3,17.2,14
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C91-C95,Leukaemia,130,Age-standardised,12.1,17.3,14.5
+E38000261,NHS Derby and Derbyshire ICB - 15M,C91-C95,Leukaemia,153,Age-standardised,11.6,16.1,13.7
+E38000230,NHS Devon ICB - 15N,C91-C95,Leukaemia,225,Age-standardised,14,18.3,16
+E38000045,NHS Dorset ICB - 11J,C91-C95,Leukaemia,130,Age-standardised,11.6,16.6,13.9
+E38000252,NHS Frimley ICB - D4U1Y,C91-C95,Leukaemia,88,Age-standardised,10.7,16.4,13.3
+E38000062,NHS Gloucestershire ICB - 11M,C91-C95,Leukaemia,84,Age-standardised,9.7,15,12.1
+E38000016,NHS Greater Manchester ICB - 00T,C91-C95,Leukaemia,37,Age-standardised,9.7,19.1,13.9
+E38000024,NHS Greater Manchester ICB - 00V,C91-C95,Leukaemia,33,Age-standardised,12.3,25.2,17.9
+E38000135,NHS Greater Manchester ICB - 00Y,C91-C95,Leukaemia,34,Age-standardised,11.2,22.6,16.2
+E38000080,NHS Greater Manchester ICB - 01D,C91-C95,Leukaemia,38,Age-standardised,13.2,25.7,18.7
+E38000143,NHS Greater Manchester ICB - 01G,C91-C95,Leukaemia,39,Age-standardised,13.7,26.4,19.3
+E38000174,NHS Greater Manchester ICB - 01W,C91-C95,Leukaemia,46,Age-standardised,11.1,20.3,15.2
+E38000263,NHS Greater Manchester ICB - 01Y,C91-C95,Leukaemia,26,Age-standardised,8.1,18.3,12.5
+E38000187,NHS Greater Manchester ICB - 02A,C91-C95,Leukaemia,34,Age-standardised,10.8,21.8,15.6
+E38000205,NHS Greater Manchester ICB - 02H,C91-C95,Leukaemia,56,Age-standardised,12.8,22.1,17
+E38000217,NHS Greater Manchester ICB - 14L,C91-C95,Leukaemia,74,Age-standardised,18,29.5,23.3
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C91-C95,Leukaemia,20,Age-standardised,7,17.9,11.6
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C91-C95,Leukaemia,242,Age-standardised,12.2,15.7,13.9
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C91-C95,Leukaemia,142,Age-standardised,13.4,18.8,15.9
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C91-C95,Leukaemia,103,Age-standardised,15.6,23.3,19.2
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C91-C95,Leukaemia,92,Age-standardised,13.4,20.5,16.7
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C91-C95,Leukaemia,40,Age-standardised,9.4,18,13.2
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C91-C95,Leukaemia,84,Age-standardised,16.6,26,20.9
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C91-C95,Leukaemia,30,Age-standardised,9.4,20,14
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C91-C95,Leukaemia,27,Age-standardised,10.6,23.5,16.2
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C91-C95,Leukaemia,38,Age-standardised,14.5,28.1,20.5
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C91-C95,Leukaemia,54,Age-standardised,10.6,18.5,14.2
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C91-C95,Leukaemia,83,Age-standardised,12.9,20.2,16.3
+E38000237,NHS Kent and Medway ICB - 91Q,C91-C95,Leukaemia,279,Age-standardised,13.2,16.7,14.9
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C91-C95,Leukaemia,34,Age-standardised,19.3,39.3,28
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C91-C95,Leukaemia,29,Age-standardised,13.3,28.6,19.9
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C91-C95,Leukaemia,38,Age-standardised,14.8,28.7,20.9
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C91-C95,Leukaemia,49,Age-standardised,9.5,17.1,12.9
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C91-C95,Leukaemia,35,Age-standardised,12.9,25.8,18.5
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C91-C95,Leukaemia,67,Age-standardised,13.8,22.7,17.8
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C91-C95,Leukaemia,16,Age-standardised,7.3,21,12.9
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C91-C95,Leukaemia,45,Age-standardised,13.9,26,19.3
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C91-C95,Leukaemia,62,Age-standardised,12.9,21.6,16.8
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C91-C95,Leukaemia,43,Age-standardised,11.8,22.4,16.5
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C91-C95,Leukaemia,73,Age-standardised,13.9,22.3,17.7
+E38000238,NHS Lincolnshire ICB - 71E,C91-C95,Leukaemia,143,Age-standardised,13.9,19.5,16.5
+E38000106,NHS Mid and South Essex ICB - 06Q,C91-C95,Leukaemia,71,Age-standardised,13.4,21.7,17.2
+E38000185,NHS Mid and South Essex ICB - 07G,C91-C95,Leukaemia,26,Age-standardised,12.6,28.5,19.4
+E38000007,NHS Mid and South Essex ICB - 99E,C91-C95,Leukaemia,44,Age-standardised,12.3,22.8,17
+E38000030,NHS Mid and South Essex ICB - 99F,C91-C95,Leukaemia,30,Age-standardised,9.5,20.2,14.1
+E38000168,NHS Mid and South Essex ICB - 99G,C91-C95,Leukaemia,16,Age-standardised,5.1,14.7,9
+E38000239,NHS Norfolk and Waveney ICB - 26A,C91-C95,Leukaemia,190,Age-standardised,13.6,18.3,15.8
+E38000240,NHS North Central London ICB - 93C,C91-C95,Leukaemia,145,Age-standardised,10.7,15.1,12.8
+E38000130,NHS North East and North Cumbria ICB - 00L,C91-C95,Leukaemia,82,Age-standardised,17.2,27.1,21.8
+E38000163,NHS North East and North Cumbria ICB - 00N,C91-C95,Leukaemia,25,Age-standardised,10.2,23.2,15.7
+E38000176,NHS North East and North Cumbria ICB - 00P,C91-C95,Leukaemia,40,Age-standardised,10.1,19.3,14.2
+E38000215,NHS North East and North Cumbria ICB - 01H,C91-C95,Leukaemia,63,Age-standardised,13,21.7,16.9
+E38000212,NHS North East and North Cumbria ICB - 13T,C91-C95,Leukaemia,70,Age-standardised,12,19.4,15.4
+E38000247,NHS North East and North Cumbria ICB - 16C,C91-C95,Leukaemia,120,Age-standardised,14.7,21.2,17.7
+E38000234,NHS North East and North Cumbria ICB - 84H,C91-C95,Leukaemia,80,Age-standardised,11.4,17.9,14.3
+E38000127,NHS North East and North Cumbria ICB - 99C,C91-C95,Leukaemia,54,Age-standardised,18.8,32.7,25
+E38000255,NHS North East London ICB - A3A8R,C91-C95,Leukaemia,198,Age-standardised,12.6,17,14.7
+E38000256,NHS North West London ICB - W2U3Z,C91-C95,Leukaemia,260,Age-standardised,13.7,17.6,15.5
+E38000262,NHS Northamptonshire ICB - 78H,C91-C95,Leukaemia,130,Age-standardised,15,21.3,18
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C91-C95,Leukaemia,17,Age-standardised,7.6,21,13.1
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C91-C95,Leukaemia,143,Age-standardised,12.3,17.2,14.6
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C91-C95,Leukaemia,90,Age-standardised,13.2,20.1,16.4
+E38000150,NHS Somerset ICB - 11X,C91-C95,Leukaemia,103,Age-standardised,12.4,18.5,15.2
+E38000244,NHS South East London ICB - 72Q,C91-C95,Leukaemia,189,Age-standardised,11.8,15.9,13.8
+E38000245,NHS South West London ICB - 36L,C91-C95,Leukaemia,172,Age-standardised,12.5,17,14.6
+E38000006,NHS South Yorkshire ICB - 02P,C91-C95,Leukaemia,49,Age-standardised,14.6,26,19.7
+E38000044,NHS South Yorkshire ICB - 02X,C91-C95,Leukaemia,47,Age-standardised,11.1,20.1,15.1
+E38000141,NHS South Yorkshire ICB - 03L,C91-C95,Leukaemia,39,Age-standardised,10.4,20,14.6
+E38000146,NHS South Yorkshire ICB - 03N,C91-C95,Leukaemia,87,Age-standardised,13.5,20.8,16.8
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C91-C95,Leukaemia,25,Age-standardised,11.5,26.2,17.8
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C91-C95,Leukaemia,29,Age-standardised,14.7,31.5,21.9
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C91-C95,Leukaemia,46,Age-standardised,13.8,25.2,18.9
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C91-C95,Leukaemia,38,Age-standardised,10.8,21,15.3
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C91-C95,Leukaemia,37,Age-standardised,14.8,29.1,21.1
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C91-C95,Leukaemia,60,Age-standardised,18.9,31.9,24.7
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C91-C95,Leukaemia,82,Age-standardised,13.8,21.6,17.4
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C91-C95,Leukaemia,68,Age-standardised,14.2,23.3,18.3
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C91-C95,Leukaemia,37,Age-standardised,10.1,19.8,14.4
+E38000264,NHS Surrey Heartlands ICB - 92A,C91-C95,Leukaemia,161,Age-standardised,12.7,17.5,15
+E38000021,NHS Sussex ICB - 09D,C91-C95,Leukaemia,45,Age-standardised,14.3,26.6,19.8
+E38000265,NHS Sussex ICB - 70F,C91-C95,Leukaemia,162,Age-standardised,14.2,19.5,16.7
+E38000235,NHS Sussex ICB - 97R,C91-C95,Leukaemia,74,Age-standardised,8.6,13.9,11
+E38000025,NHS West Yorkshire ICB - 02T,C91-C95,Leukaemia,47,Age-standardised,16.8,30.4,22.9
+E38000190,NHS West Yorkshire ICB - 03R,C91-C95,Leukaemia,50,Age-standardised,10.7,19,14.4
+E38000225,NHS West Yorkshire ICB - 15F,C91-C95,Leukaemia,104,Age-standardised,12.5,18.6,15.4
+E38000232,NHS West Yorkshire ICB - 36J,C91-C95,Leukaemia,83,Age-standardised,12.4,19.4,15.6
+E38000254,NHS West Yorkshire ICB - X2C4Y,C91-C95,Leukaemia,69,Age-standardised,12.9,21.1,16.6
+Grand Total,,,,,,,,

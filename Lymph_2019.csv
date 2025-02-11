@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,LCI,UCI,Rate
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C82-C86,Non-Hodgkin lymphoma,236,Age-standardised,22.1,28.6,25.2
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C82-C86,Non-Hodgkin lymphoma,190,Age-standardised,20,26.8,23.2
+E38000258,NHS Birmingham and Solihull ICB - 15E,C82-C86,Non-Hodgkin lymphoma,219,Age-standardised,17.5,23,20.1
+E38000259,NHS Black Country ICB - D2P2L,C82-C86,Non-Hodgkin lymphoma,209,Age-standardised,16.3,21.5,18.8
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C82-C86,Non-Hodgkin lymphoma,245,Age-standardised,24.6,31.8,28.1
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C82-C86,Non-Hodgkin lymphoma,149,Age-standardised,19.3,26.8,22.8
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C82-C86,Non-Hodgkin lymphoma,118,Age-standardised,17.9,25.9,21.6
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C82-C86,Non-Hodgkin lymphoma,101,Age-standardised,18.7,28,23
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C82-C86,Non-Hodgkin lymphoma,191,Age-standardised,19.9,26.6,23.1
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C82-C86,Non-Hodgkin lymphoma,19,Age-standardised,9.3,24.2,15.5
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C82-C86,Non-Hodgkin lymphoma,29,Age-standardised,13.8,29.7,20.7
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C82-C86,Non-Hodgkin lymphoma,24,Age-standardised,9.2,21.5,14.4
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C82-C86,Non-Hodgkin lymphoma,35,Age-standardised,16,32.6,23.2
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C82-C86,Non-Hodgkin lymphoma,30,Age-standardised,10.9,23.1,16.2
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C82-C86,Non-Hodgkin lymphoma,47,Age-standardised,16.7,30.3,22.8
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C82-C86,Non-Hodgkin lymphoma,76,Age-standardised,16.9,26.9,21.4
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C82-C86,Non-Hodgkin lymphoma,181,Age-standardised,19,25.6,22.1
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C82-C86,Non-Hodgkin lymphoma,74,Age-standardised,14.1,22.6,18
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C82-C86,Non-Hodgkin lymphoma,144,Age-standardised,17.5,24.5,20.8
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C82-C86,Non-Hodgkin lymphoma,204,Age-standardised,20.1,26.6,23.2
+E38000261,NHS Derby and Derbyshire ICB - 15M,C82-C86,Non-Hodgkin lymphoma,262,Age-standardised,20.8,26.6,23.6
+E38000230,NHS Devon ICB - 15N,C82-C86,Non-Hodgkin lymphoma,326,Age-standardised,20.6,25.7,23
+E38000045,NHS Dorset ICB - 11J,C82-C86,Non-Hodgkin lymphoma,195,Age-standardised,18,24.1,20.9
+E38000252,NHS Frimley ICB - D4U1Y,C82-C86,Non-Hodgkin lymphoma,142,Age-standardised,18,25.2,21.4
+E38000062,NHS Gloucestershire ICB - 11M,C82-C86,Non-Hodgkin lymphoma,166,Age-standardised,20.7,28.2,24.2
+E38000016,NHS Greater Manchester ICB - 00T,C82-C86,Non-Hodgkin lymphoma,50,Age-standardised,14.3,25.4,19.3
+E38000024,NHS Greater Manchester ICB - 00V,C82-C86,Non-Hodgkin lymphoma,37,Age-standardised,14.3,27.9,20.3
+E38000135,NHS Greater Manchester ICB - 00Y,C82-C86,Non-Hodgkin lymphoma,36,Age-standardised,12.5,24.7,17.8
+E38000080,NHS Greater Manchester ICB - 01D,C82-C86,Non-Hodgkin lymphoma,51,Age-standardised,19.1,33.7,25.6
+E38000143,NHS Greater Manchester ICB - 01G,C82-C86,Non-Hodgkin lymphoma,40,Age-standardised,14,26.8,19.6
+E38000174,NHS Greater Manchester ICB - 01W,C82-C86,Non-Hodgkin lymphoma,66,Age-standardised,17,28,22
+E38000263,NHS Greater Manchester ICB - 01Y,C82-C86,Non-Hodgkin lymphoma,34,Age-standardised,11.1,22.3,16
+E38000187,NHS Greater Manchester ICB - 02A,C82-C86,Non-Hodgkin lymphoma,47,Age-standardised,15.8,28.7,21.6
+E38000205,NHS Greater Manchester ICB - 02H,C82-C86,Non-Hodgkin lymphoma,53,Age-standardised,11.9,20.8,15.9
+E38000217,NHS Greater Manchester ICB - 14L,C82-C86,Non-Hodgkin lymphoma,60,Age-standardised,13.6,23.4,18
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C82-C86,Non-Hodgkin lymphoma,47,Age-standardised,20.5,37.3,28
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C82-C86,Non-Hodgkin lymphoma,391,Age-standardised,20.2,24.7,22.4
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C82-C86,Non-Hodgkin lymphoma,190,Age-standardised,18.4,24.6,21.3
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C82-C86,Non-Hodgkin lymphoma,135,Age-standardised,21,29.7,25.1
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C82-C86,Non-Hodgkin lymphoma,122,Age-standardised,18.3,26.4,22.1
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C82-C86,Non-Hodgkin lymphoma,79,Age-standardised,20.4,32.2,25.8
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C82-C86,Non-Hodgkin lymphoma,78,Age-standardised,15.6,24.9,19.9
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C82-C86,Non-Hodgkin lymphoma,59,Age-standardised,20.4,34.7,26.9
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C82-C86,Non-Hodgkin lymphoma,28,Age-standardised,11.1,24.1,16.7
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C82-C86,Non-Hodgkin lymphoma,39,Age-standardised,15.3,29.4,21.5
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C82-C86,Non-Hodgkin lymphoma,79,Age-standardised,16.4,25.9,20.8
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C82-C86,Non-Hodgkin lymphoma,123,Age-standardised,19.7,28.4,23.7
+E38000237,NHS Kent and Medway ICB - 91Q,C82-C86,Non-Hodgkin lymphoma,462,Age-standardised,22.5,27,24.7
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C82-C86,Non-Hodgkin lymphoma,31,Age-standardised,17.5,36.8,25.8
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C82-C86,Non-Hodgkin lymphoma,26,Age-standardised,11.6,26.1,17.8
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C82-C86,Non-Hodgkin lymphoma,40,Age-standardised,15.8,30.1,22.1
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C82-C86,Non-Hodgkin lymphoma,65,Age-standardised,13.2,21.8,17.1
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C82-C86,Non-Hodgkin lymphoma,42,Age-standardised,16.2,30.4,22.5
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C82-C86,Non-Hodgkin lymphoma,93,Age-standardised,20.2,30.8,25.1
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C82-C86,Non-Hodgkin lymphoma,28,Age-standardised,14.7,32.2,22.2
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C82-C86,Non-Hodgkin lymphoma,43,Age-standardised,12.5,23.6,17.4
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C82-C86,Non-Hodgkin lymphoma,76,Age-standardised,16,25.5,20.3
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C82-C86,Non-Hodgkin lymphoma,37,Age-standardised,10.1,20.1,14.5
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C82-C86,Non-Hodgkin lymphoma,81,Age-standardised,15.8,24.8,19.9
+E38000238,NHS Lincolnshire ICB - 71E,C82-C86,Non-Hodgkin lymphoma,171,Age-standardised,16.6,22.6,19.5
+E38000106,NHS Mid and South Essex ICB - 06Q,C82-C86,Non-Hodgkin lymphoma,82,Age-standardised,15.6,24.4,19.6
+E38000185,NHS Mid and South Essex ICB - 07G,C82-C86,Non-Hodgkin lymphoma,23,Age-standardised,9.9,23.8,15.8
+E38000007,NHS Mid and South Essex ICB - 99E,C82-C86,Non-Hodgkin lymphoma,66,Age-standardised,20.1,33,25.9
+E38000030,NHS Mid and South Essex ICB - 99F,C82-C86,Non-Hodgkin lymphoma,41,Age-standardised,14.6,27.8,20.4
+E38000168,NHS Mid and South Essex ICB - 99G,C82-C86,Non-Hodgkin lymphoma,34,Age-standardised,12.9,26.1,18.7
+E38000239,NHS Norfolk and Waveney ICB - 26A,C82-C86,Non-Hodgkin lymphoma,299,Age-standardised,21.7,27.4,24.5
+E38000240,NHS North Central London ICB - 93C,C82-C86,Non-Hodgkin lymphoma,285,Age-standardised,22.4,28.5,25.3
+E38000130,NHS North East and North Cumbria ICB - 00L,C82-C86,Non-Hodgkin lymphoma,94,Age-standardised,19.3,29.3,23.9
+E38000163,NHS North East and North Cumbria ICB - 00N,C82-C86,Non-Hodgkin lymphoma,30,Age-standardised,12.9,27.3,19.1
+E38000176,NHS North East and North Cumbria ICB - 00P,C82-C86,Non-Hodgkin lymphoma,44,Age-standardised,11.3,20.9,15.6
+E38000215,NHS North East and North Cumbria ICB - 01H,C82-C86,Non-Hodgkin lymphoma,87,Age-standardised,18.7,28.9,23.4
+E38000212,NHS North East and North Cumbria ICB - 13T,C82-C86,Non-Hodgkin lymphoma,108,Age-standardised,20,29.4,24.3
+E38000247,NHS North East and North Cumbria ICB - 16C,C82-C86,Non-Hodgkin lymphoma,150,Age-standardised,18.8,26,22.2
+E38000234,NHS North East and North Cumbria ICB - 84H,C82-C86,Non-Hodgkin lymphoma,111,Age-standardised,16.3,23.8,19.8
+E38000127,NHS North East and North Cumbria ICB - 99C,C82-C86,Non-Hodgkin lymphoma,42,Age-standardised,14,26.2,19.4
+E38000255,NHS North East London ICB - A3A8R,C82-C86,Non-Hodgkin lymphoma,280,Age-standardised,19,24.3,21.5
+E38000256,NHS North West London ICB - W2U3Z,C82-C86,Non-Hodgkin lymphoma,355,Age-standardised,19.3,23.9,21.5
+E38000262,NHS Northamptonshire ICB - 78H,C82-C86,Non-Hodgkin lymphoma,152,Age-standardised,18,25,21.3
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C82-C86,Non-Hodgkin lymphoma,24,Age-standardised,11.7,27.2,18.3
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C82-C86,Non-Hodgkin lymphoma,206,Age-standardised,18.3,24.2,21.1
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C82-C86,Non-Hodgkin lymphoma,122,Age-standardised,18.4,26.5,22.2
+E38000150,NHS Somerset ICB - 11X,C82-C86,Non-Hodgkin lymphoma,132,Age-standardised,16.3,23.2,19.5
+E38000244,NHS South East London ICB - 72Q,C82-C86,Non-Hodgkin lymphoma,307,Age-standardised,20.5,25.9,23.1
+E38000245,NHS South West London ICB - 36L,C82-C86,Non-Hodgkin lymphoma,245,Age-standardised,18.2,23.6,20.8
+E38000006,NHS South Yorkshire ICB - 02P,C82-C86,Non-Hodgkin lymphoma,39,Age-standardised,11,21.2,15.5
+E38000044,NHS South Yorkshire ICB - 02X,C82-C86,Non-Hodgkin lymphoma,54,Age-standardised,13.2,22.9,17.6
+E38000141,NHS South Yorkshire ICB - 03L,C82-C86,Non-Hodgkin lymphoma,74,Age-standardised,21.8,34.8,27.7
+E38000146,NHS South Yorkshire ICB - 03N,C82-C86,Non-Hodgkin lymphoma,128,Age-standardised,21.2,30.3,25.5
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C82-C86,Non-Hodgkin lymphoma,29,Age-standardised,13.9,29.8,20.8
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C82-C86,Non-Hodgkin lymphoma,20,Age-standardised,9.3,23.6,15.3
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C82-C86,Non-Hodgkin lymphoma,64,Age-standardised,20.3,33.8,26.4
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C82-C86,Non-Hodgkin lymphoma,60,Age-standardised,18.1,30.7,23.8
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C82-C86,Non-Hodgkin lymphoma,41,Age-standardised,16.1,30.4,22.4
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C82-C86,Non-Hodgkin lymphoma,54,Age-standardised,16.6,28.9,22.1
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C82-C86,Non-Hodgkin lymphoma,104,Age-standardised,18.1,26.9,22.2
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C82-C86,Non-Hodgkin lymphoma,88,Age-standardised,18.5,28.5,23.1
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C82-C86,Non-Hodgkin lymphoma,51,Age-standardised,14.6,25.9,19.7
+E38000264,NHS Surrey Heartlands ICB - 92A,C82-C86,Non-Hodgkin lymphoma,221,Age-standardised,18.5,24.2,21.2
+E38000021,NHS Sussex ICB - 09D,C82-C86,Non-Hodgkin lymphoma,51,Age-standardised,16.9,30.2,22.9
+E38000265,NHS Sussex ICB - 70F,C82-C86,Non-Hodgkin lymphoma,213,Age-standardised,19.1,25.2,22
+E38000235,NHS Sussex ICB - 97R,C82-C86,Non-Hodgkin lymphoma,182,Age-standardised,22.9,30.9,26.7
+E38000025,NHS West Yorkshire ICB - 02T,C82-C86,Non-Hodgkin lymphoma,35,Age-standardised,11.7,23.3,16.8
+E38000190,NHS West Yorkshire ICB - 03R,C82-C86,Non-Hodgkin lymphoma,59,Age-standardised,13,22,17
+E38000225,NHS West Yorkshire ICB - 15F,C82-C86,Non-Hodgkin lymphoma,151,Age-standardised,19.2,26.6,22.7
+E38000232,NHS West Yorkshire ICB - 36J,C82-C86,Non-Hodgkin lymphoma,88,Age-standardised,13.6,20.9,17
+E38000254,NHS West Yorkshire ICB - X2C4Y,C82-C86,Non-Hodgkin lymphoma,65,Age-standardised,12.1,19.9,15.6

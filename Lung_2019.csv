@@ -1,0 +1,108 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,LCI,UCI,Rate
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",492,Age-standardised,47.9,57.3,52.4
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",573,Age-standardised,66.3,78.3,72.1
+E38000258,NHS Birmingham and Solihull ICB - 15E,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",798,Age-standardised,72.2,83.2,77.6
+E38000259,NHS Black Country ICB - D2P2L,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",873,Age-standardised,75.2,86,80.5
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",612,Age-standardised,66.2,77.7,71.8
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",393,Age-standardised,54.5,66.7,60.4
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",287,Age-standardised,47.2,59.7,53.1
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",239,Age-standardised,48.5,62.8,55.3
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",559,Age-standardised,62.3,73.6,67.8
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",105,Age-standardised,70.4,104.4,86.2
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",194,Age-standardised,120.5,160.7,139.5
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",188,Age-standardised,93.8,125.6,108.8
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",92,Age-standardised,46.9,72,58.5
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",179,Age-standardised,81,109.2,94.3
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",171,Age-standardised,71,96.3,82.9
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",298,Age-standardised,73.2,92.2,82.3
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",537,Age-standardised,59.7,70.8,65.1
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",515,Age-standardised,121.2,144.4,132.4
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",518,Age-standardised,66.7,79.4,72.8
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",600,Age-standardised,62.8,73.8,68.1
+E38000261,NHS Derby and Derbyshire ICB - 15M,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",846,Age-standardised,70.7,81,75.7
+E38000230,NHS Devon ICB - 15N,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",977,Age-standardised,63.5,72.1,67.7
+E38000045,NHS Dorset ICB - 11J,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",602,Age-standardised,56.8,66.9,61.7
+E38000252,NHS Frimley ICB - D4U1Y,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",395,Age-standardised,56,68.4,62
+E38000062,NHS Gloucestershire ICB - 11M,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",351,Age-standardised,45.1,55.8,50.2
+E38000016,NHS Greater Manchester ICB - 00T,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",267,Age-standardised,91.2,116.4,103.2
+E38000024,NHS Greater Manchester ICB - 00V,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",152,Age-standardised,71.3,98.6,84.1
+E38000135,NHS Greater Manchester ICB - 00Y,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",213,Age-standardised,92.5,121.6,106.3
+E38000080,NHS Greater Manchester ICB - 01D,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",188,Age-standardised,84.7,113.4,98.3
+E38000143,NHS Greater Manchester ICB - 01G,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",249,Age-standardised,113,145.5,128.5
+E38000174,NHS Greater Manchester ICB - 01W,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",307,Age-standardised,89.6,112.5,100.6
+E38000263,NHS Greater Manchester ICB - 01Y,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",213,Age-standardised,88.9,116.8,102.1
+E38000187,NHS Greater Manchester ICB - 02A,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",199,Age-standardised,79,105,91.3
+E38000205,NHS Greater Manchester ICB - 02H,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",342,Age-standardised,95.2,118.1,106.2
+E38000217,NHS Greater Manchester ICB - 14L,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",459,Age-standardised,146.5,176.8,161.1
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",172,Age-standardised,89.8,121.9,104.9
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",1204,Age-standardised,64.2,72,68
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",518,Age-standardised,51.4,61.2,56.1
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",305,Age-standardised,51.9,65.2,58.3
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",350,Age-standardised,58.2,72,64.8
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",189,Age-standardised,54,72.2,62.6
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",287,Age-standardised,61.2,77.5,69
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",270,Age-standardised,114.9,146.5,130
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",173,Age-standardised,88.1,119.4,102.8
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",179,Age-standardised,82.1,110.7,95.6
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",240,Age-standardised,54.8,70.9,62.5
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",343,Age-standardised,56.6,70.2,63.1
+E38000237,NHS Kent and Medway ICB - 91Q,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",1352,Age-standardised,68.4,76.1,72.2
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",133,Age-standardised,97.2,137.7,116.1
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",155,Age-standardised,89.1,123,105.1
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",140,Age-standardised,65.3,91.6,77.6
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",333,Age-standardised,78.5,97.6,87.7
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",158,Age-standardised,72.5,99.6,85.2
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",248,Age-standardised,56,72.2,63.8
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",113,Age-standardised,72.3,105.6,87.8
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",213,Age-standardised,69.5,91.6,80
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",268,Age-standardised,61.5,78.5,69.6
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",201,Age-standardised,74.1,98.5,85.7
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",291,Age-standardised,62.9,79.5,70.8
+E38000238,NHS Lincolnshire ICB - 71E,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",665,Age-standardised,68.5,79.9,74
+E38000106,NHS Mid and South Essex ICB - 06Q,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",235,Age-standardised,48.7,63.2,55.6
+E38000185,NHS Mid and South Essex ICB - 07G,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",137,Age-standardised,90,127,107.3
+E38000007,NHS Mid and South Essex ICB - 99E,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",170,Age-standardised,57.8,78.6,67.6
+E38000030,NHS Mid and South Essex ICB - 99F,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",155,Age-standardised,61,84.3,72
+E38000168,NHS Mid and South Essex ICB - 99G,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",115,Age-standardised,51.6,75.2,62.6
+E38000239,NHS Norfolk and Waveney ICB - 26A,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",820,Age-standardised,60.4,69.4,64.8
+E38000240,NHS North Central London ICB - 93C,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",815,Age-standardised,74.7,85.9,80.1
+E38000130,NHS North East and North Cumbria ICB - 00L,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",294,Age-standardised,65.1,82.1,73.2
+E38000163,NHS North East and North Cumbria ICB - 00N,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",190,Age-standardised,102.9,137.5,119.3
+E38000176,NHS North East and North Cumbria ICB - 00P,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",304,Age-standardised,94.9,119.3,106.6
+E38000215,NHS North East and North Cumbria ICB - 01H,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",306,Age-standardised,71.1,89.3,79.8
+E38000212,NHS North East and North Cumbria ICB - 13T,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",508,Age-standardised,106.1,126.5,116
+E38000247,NHS North East and North Cumbria ICB - 16C,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",720,Age-standardised,98.8,114.5,106.4
+E38000234,NHS North East and North Cumbria ICB - 84H,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",547,Age-standardised,89,105.4,96.9
+E38000127,NHS North East and North Cumbria ICB - 99C,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",203,Age-standardised,81,107.2,93.4
+E38000255,NHS North East London ICB - A3A8R,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",898,Age-standardised,72.2,82.5,77.2
+E38000256,NHS North West London ICB - W2U3Z,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",959,Age-standardised,59,67.1,62.9
+E38000262,NHS Northamptonshire ICB - 78H,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",529,Age-standardised,68.5,81.4,74.8
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",92,Age-standardised,56.1,85.5,69.7
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",750,Age-standardised,72.5,83.8,78
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C33-C34,"Malignant neoplasm of trachea, bronchus and lung",348,Age-standardised,55.7,69,62.1
+E38000150,NHS Somerset ICB - 11X,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",444,Age-standardised,57.8,69.8,63.6
+E38000244,NHS South East London ICB - 72Q,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",1020,Age-standardised,80.3,91,85.5
+E38000245,NHS South West London ICB - 36L,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",741,Age-standardised,63.4,73.4,68.3
+E38000006,NHS South Yorkshire ICB - 02P,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",232,Age-standardised,81.6,106,93.2
+E38000044,NHS South Yorkshire ICB - 02X,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",322,Age-standardised,93,116.1,104.1
+E38000141,NHS South Yorkshire ICB - 03L,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",270,Age-standardised,88.4,112.6,99.9
+E38000146,NHS South Yorkshire ICB - 03N,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",444,Age-standardised,81.7,98.7,89.9
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",108,Age-standardised,62.7,92.3,76.5
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",76,Age-standardised,45.3,72,57.5
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",170,Age-standardised,58.6,79.6,68.5
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",171,Age-standardised,56.6,76.9,66.2
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",120,Age-standardised,54.3,78.4,65.5
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",223,Age-standardised,81,105.8,92.8
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",257,Age-standardised,47.6,61.1,54
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",291,Age-standardised,66.6,84.2,75.1
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",162,Age-standardised,52.9,72.6,62.2
+E38000264,NHS Surrey Heartlands ICB - 92A,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",572,Age-standardised,50.1,59.2,54.5
+E38000021,NHS Sussex ICB - 09D,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",166,Age-standardised,66.8,91.3,78.3
+E38000265,NHS Sussex ICB - 70F,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",597,Age-standardised,54.8,64.5,59.5
+E38000235,NHS Sussex ICB - 97R,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",456,Age-standardised,58.3,70.4,64.1
+E38000025,NHS West Yorkshire ICB - 02T,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",169,Age-standardised,70.2,95.4,82.1
+E38000190,NHS West Yorkshire ICB - 03R,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",342,Age-standardised,89.3,110.7,99.6
+E38000225,NHS West Yorkshire ICB - 15F,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",705,Age-standardised,101.8,118.1,109.7
+E38000232,NHS West Yorkshire ICB - 36J,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",372,Age-standardised,67.2,82.5,74.6
+E38000254,NHS West Yorkshire ICB - X2C4Y,C33-C34,"Malignant neoplasm of trachea, bronchus and lung",308,Age-standardised,67.7,85,76
+Grand Total,,,,,,,,
