@@ -1,0 +1,108 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,LCI,UCI,Rate
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C18-C20,Malignant neoplasm of colon and rectum,670,Age-standardised,65.8,76.7,71.1
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C18-C20,Malignant neoplasm of colon and rectum,540,Age-standardised,61.3,72.7,66.8
+E38000258,NHS Birmingham and Solihull ICB - 15E,C18-C20,Malignant neoplasm of colon and rectum,760,Age-standardised,67.6,78.1,72.8
+E38000259,NHS Black Country ICB - D2P2L,C18-C20,Malignant neoplasm of colon and rectum,822,Age-standardised,69.9,80.2,74.9
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C18-C20,Malignant neoplasm of colon and rectum,604,Age-standardised,63.8,75,69.2
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C18-C20,Malignant neoplasm of colon and rectum,461,Age-standardised,64.4,77.5,70.7
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C18-C20,Malignant neoplasm of colon and rectum,386,Age-standardised,63.7,78,70.6
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C18-C20,Malignant neoplasm of colon and rectum,318,Age-standardised,65.4,81.7,73.2
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C18-C20,Malignant neoplasm of colon and rectum,551,Age-standardised,60.9,72.1,66.3
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C18-C20,Malignant neoplasm of colon and rectum,87,Age-standardised,56.6,87.3,70.7
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C18-C20,Malignant neoplasm of colon and rectum,102,Age-standardised,58.9,87.9,72.3
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C18-C20,Malignant neoplasm of colon and rectum,110,Age-standardised,51.8,76.1,63.1
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C18-C20,Malignant neoplasm of colon and rectum,91,Age-standardised,47.4,72.7,59
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C18-C20,Malignant neoplasm of colon and rectum,120,Age-standardised,52.8,76.2,63.7
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C18-C20,Malignant neoplasm of colon and rectum,133,Age-standardised,53.9,76.4,64.4
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C18-C20,Malignant neoplasm of colon and rectum,259,Age-standardised,64.5,82.6,73.1
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C18-C20,Malignant neoplasm of colon and rectum,630,Age-standardised,71.2,83.4,77.1
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C18-C20,Malignant neoplasm of colon and rectum,293,Age-standardised,65.7,82.9,73.9
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C18-C20,Malignant neoplasm of colon and rectum,463,Age-standardised,60.9,73.4,66.9
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C18-C20,Malignant neoplasm of colon and rectum,611,Age-standardised,63.8,74.9,69.2
+E38000261,NHS Derby and Derbyshire ICB - 15M,C18-C20,Malignant neoplasm of colon and rectum,843,Age-standardised,70.8,81.2,75.9
+E38000230,NHS Devon ICB - 15N,C18-C20,Malignant neoplasm of colon and rectum,1003,Age-standardised,65.9,74.8,70.2
+E38000045,NHS Dorset ICB - 11J,C18-C20,Malignant neoplasm of colon and rectum,660,Age-standardised,63.4,74.1,68.6
+E38000252,NHS Frimley ICB - D4U1Y,C18-C20,Malignant neoplasm of colon and rectum,489,Age-standardised,68.3,81.8,74.8
+E38000062,NHS Gloucestershire ICB - 11M,C18-C20,Malignant neoplasm of colon and rectum,488,Age-standardised,64.4,77.1,70.5
+E38000016,NHS Greater Manchester ICB - 00T,C18-C20,Malignant neoplasm of colon and rectum,183,Age-standardised,60.8,81.7,70.7
+E38000024,NHS Greater Manchester ICB - 00V,C18-C20,Malignant neoplasm of colon and rectum,141,Age-standardised,65.3,91.5,77.6
+E38000135,NHS Greater Manchester ICB - 00Y,C18-C20,Malignant neoplasm of colon and rectum,167,Age-standardised,70.6,96.2,82.7
+E38000080,NHS Greater Manchester ICB - 01D,C18-C20,Malignant neoplasm of colon and rectum,122,Age-standardised,51.5,74,62
+E38000143,NHS Greater Manchester ICB - 01G,C18-C20,Malignant neoplasm of colon and rectum,140,Age-standardised,59.2,83.2,70.5
+E38000174,NHS Greater Manchester ICB - 01W,C18-C20,Malignant neoplasm of colon and rectum,248,Age-standardised,71.8,92.6,81.7
+E38000263,NHS Greater Manchester ICB - 01Y,C18-C20,Malignant neoplasm of colon and rectum,147,Age-standardised,58.6,81.6,69.4
+E38000187,NHS Greater Manchester ICB - 02A,C18-C20,Malignant neoplasm of colon and rectum,163,Age-standardised,63,86.3,74
+E38000205,NHS Greater Manchester ICB - 02H,C18-C20,Malignant neoplasm of colon and rectum,213,Age-standardised,57.4,75.5,66
+E38000217,NHS Greater Manchester ICB - 14L,C18-C20,Malignant neoplasm of colon and rectum,222,Age-standardised,63.8,83.9,73.3
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C18-C20,Malignant neoplasm of colon and rectum,107,Age-standardised,53.3,78.7,65.1
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C18-C20,Malignant neoplasm of colon and rectum,1137,Age-standardised,60.8,68.4,64.5
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C18-C20,Malignant neoplasm of colon and rectum,717,Age-standardised,73,84.7,78.7
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C18-C20,Malignant neoplasm of colon and rectum,390,Age-standardised,66.2,81,73.3
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C18-C20,Malignant neoplasm of colon and rectum,348,Age-standardised,56.7,70.2,63.1
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C18-C20,Malignant neoplasm of colon and rectum,194,Age-standardised,54.9,73.2,63.6
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C18-C20,Malignant neoplasm of colon and rectum,308,Age-standardised,67,84.2,75.3
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C18-C20,Malignant neoplasm of colon and rectum,169,Age-standardised,68.7,93.6,80.4
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C18-C20,Malignant neoplasm of colon and rectum,116,Age-standardised,56.8,82.5,68.8
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C18-C20,Malignant neoplasm of colon and rectum,125,Age-standardised,56,80.2,67.3
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C18-C20,Malignant neoplasm of colon and rectum,252,Age-standardised,58.2,74.8,66.1
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C18-C20,Malignant neoplasm of colon and rectum,367,Age-standardised,62.5,77.1,69.5
+E38000237,NHS Kent and Medway ICB - 91Q,C18-C20,Malignant neoplasm of colon and rectum,1258,Age-standardised,63.6,71.1,67.3
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C18-C20,Malignant neoplasm of colon and rectum,76,Age-standardised,51.8,82.4,65.8
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C18-C20,Malignant neoplasm of colon and rectum,116,Age-standardised,65.2,94.8,79
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C18-C20,Malignant neoplasm of colon and rectum,157,Age-standardised,74.6,102.7,87.8
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C18-C20,Malignant neoplasm of colon and rectum,266,Age-standardised,61.8,78.9,70
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C18-C20,Malignant neoplasm of colon and rectum,135,Age-standardised,60.8,85.8,72.5
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C18-C20,Malignant neoplasm of colon and rectum,283,Age-standardised,64.1,81.3,72.3
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C18-C20,Malignant neoplasm of colon and rectum,87,Age-standardised,54.2,83.6,67.8
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C18-C20,Malignant neoplasm of colon and rectum,202,Age-standardised,67.2,89.4,77.7
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C18-C20,Malignant neoplasm of colon and rectum,261,Age-standardised,61.1,78.3,69.3
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C18-C20,Malignant neoplasm of colon and rectum,150,Age-standardised,52.8,73.5,62.5
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C18-C20,Malignant neoplasm of colon and rectum,310,Age-standardised,67.3,84.4,75.5
+E38000238,NHS Lincolnshire ICB - 71E,C18-C20,Malignant neoplasm of colon and rectum,668,Age-standardised,69.9,81.5,75.5
+E38000106,NHS Mid and South Essex ICB - 06Q,C18-C20,Malignant neoplasm of colon and rectum,298,Age-standardised,63.3,79.7,71.1
+E38000185,NHS Mid and South Essex ICB - 07G,C18-C20,Malignant neoplasm of colon and rectum,104,Age-standardised,63.8,95,78.3
+E38000007,NHS Mid and South Essex ICB - 99E,C18-C20,Malignant neoplasm of colon and rectum,196,Age-standardised,67.6,90,78.2
+E38000030,NHS Mid and South Essex ICB - 99F,C18-C20,Malignant neoplasm of colon and rectum,157,Age-standardised,62.9,86.8,74.1
+E38000168,NHS Mid and South Essex ICB - 99G,C18-C20,Malignant neoplasm of colon and rectum,100,Age-standardised,44.6,66.8,54.9
+E38000239,NHS Norfolk and Waveney ICB - 26A,C18-C20,Malignant neoplasm of colon and rectum,831,Age-standardised,61.5,70.6,65.9
+E38000240,NHS North Central London ICB - 93C,C18-C20,Malignant neoplasm of colon and rectum,618,Age-standardised,54.1,63.6,58.7
+E38000130,NHS North East and North Cumbria ICB - 00L,C18-C20,Malignant neoplasm of colon and rectum,273,Age-standardised,61.3,78.1,69.3
+E38000163,NHS North East and North Cumbria ICB - 00N,C18-C20,Malignant neoplasm of colon and rectum,128,Age-standardised,66.9,95.4,80.2
+E38000176,NHS North East and North Cumbria ICB - 00P,C18-C20,Malignant neoplasm of colon and rectum,217,Age-standardised,66.3,87,76.1
+E38000215,NHS North East and North Cumbria ICB - 01H,C18-C20,Malignant neoplasm of colon and rectum,242,Age-standardised,55.9,72.3,63.7
+E38000212,NHS North East and North Cumbria ICB - 13T,C18-C20,Malignant neoplasm of colon and rectum,341,Age-standardised,69.2,85.9,77.2
+E38000247,NHS North East and North Cumbria ICB - 16C,C18-C20,Malignant neoplasm of colon and rectum,449,Age-standardised,60.3,72.7,66.3
+E38000234,NHS North East and North Cumbria ICB - 84H,C18-C20,Malignant neoplasm of colon and rectum,418,Age-standardised,67.3,81.8,74.3
+E38000127,NHS North East and North Cumbria ICB - 99C,C18-C20,Malignant neoplasm of colon and rectum,158,Age-standardised,62.2,85.6,73.2
+E38000255,NHS North East London ICB - A3A8R,C18-C20,Malignant neoplasm of colon and rectum,790,Age-standardised,58.2,67.3,62.6
+E38000256,NHS North West London ICB - W2U3Z,C18-C20,Malignant neoplasm of colon and rectum,921,Age-standardised,53.9,61.5,57.6
+E38000262,NHS Northamptonshire ICB - 78H,C18-C20,Malignant neoplasm of colon and rectum,495,Age-standardised,63.8,76.2,69.8
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C18-C20,Malignant neoplasm of colon and rectum,96,Age-standardised,59.6,89.9,73.6
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C18-C20,Malignant neoplasm of colon and rectum,741,Age-standardised,71.2,82.4,76.6
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C18-C20,Malignant neoplasm of colon and rectum,449,Age-standardised,73.2,88.3,80.5
+E38000150,NHS Somerset ICB - 11X,C18-C20,Malignant neoplasm of colon and rectum,551,Age-standardised,73.9,87.6,80.5
+E38000244,NHS South East London ICB - 72Q,C18-C20,Malignant neoplasm of colon and rectum,872,Age-standardised,64.7,74.2,69.3
+E38000245,NHS South West London ICB - 36L,C18-C20,Malignant neoplasm of colon and rectum,803,Age-standardised,66.6,76.7,71.5
+E38000006,NHS South Yorkshire ICB - 02P,C18-C20,Malignant neoplasm of colon and rectum,176,Age-standardised,60.5,81.8,70.6
+E38000044,NHS South Yorkshire ICB - 02X,C18-C20,Malignant neoplasm of colon and rectum,232,Age-standardised,65.5,85.1,74.8
+E38000141,NHS South Yorkshire ICB - 03L,C18-C20,Malignant neoplasm of colon and rectum,197,Age-standardised,63.4,84.2,73.2
+E38000146,NHS South Yorkshire ICB - 03N,C18-C20,Malignant neoplasm of colon and rectum,324,Age-standardised,58.2,72.6,65.1
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C18-C20,Malignant neoplasm of colon and rectum,104,Age-standardised,60.1,89.1,73.6
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C18-C20,Malignant neoplasm of colon and rectum,108,Age-standardised,67.1,98.8,81.8
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C18-C20,Malignant neoplasm of colon and rectum,169,Age-standardised,58.7,79.9,68.7
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C18-C20,Malignant neoplasm of colon and rectum,173,Age-standardised,57.7,78.3,67.5
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C18-C20,Malignant neoplasm of colon and rectum,107,Age-standardised,48.6,71.7,59.3
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C18-C20,Malignant neoplasm of colon and rectum,168,Age-standardised,59.7,81.2,69.8
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C18-C20,Malignant neoplasm of colon and rectum,367,Age-standardised,69.8,86,77.6
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C18-C20,Malignant neoplasm of colon and rectum,261,Age-standardised,61.2,78.4,69.4
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C18-C20,Malignant neoplasm of colon and rectum,186,Age-standardised,60.4,81.1,70.2
+E38000264,NHS Surrey Heartlands ICB - 92A,C18-C20,Malignant neoplasm of colon and rectum,738,Age-standardised,65,75.3,70
+E38000021,NHS Sussex ICB - 09D,C18-C20,Malignant neoplasm of colon and rectum,152,Age-standardised,57.6,80,68.1
+E38000265,NHS Sussex ICB - 70F,C18-C20,Malignant neoplasm of colon and rectum,709,Age-standardised,65.5,76.1,70.6
+E38000235,NHS Sussex ICB - 97R,C18-C20,Malignant neoplasm of colon and rectum,499,Age-standardised,64.1,76.8,70.2
+E38000025,NHS West Yorkshire ICB - 02T,C18-C20,Malignant neoplasm of colon and rectum,131,Age-standardised,52.8,74.9,63.1
+E38000190,NHS West Yorkshire ICB - 03R,C18-C20,Malignant neoplasm of colon and rectum,240,Age-standardised,61.3,79.2,69.8
+E38000225,NHS West Yorkshire ICB - 15F,C18-C20,Malignant neoplasm of colon and rectum,507,Age-standardised,70.7,84.3,77.3
+E38000232,NHS West Yorkshire ICB - 36J,C18-C20,Malignant neoplasm of colon and rectum,334,Age-standardised,59.6,74.1,66.5
+E38000254,NHS West Yorkshire ICB - X2C4Y,C18-C20,Malignant neoplasm of colon and rectum,274,Age-standardised,59.6,75.8,67.4
+Grand Total,,,,,,,,
