@@ -1,213 +1,107 @@
 SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
 E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",141,Age-standardised,28.7,24.1,33.9
-E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,121,Age-standardised,24.9,20.6,29.7
-E38000258,NHS Birmingham and Solihull ICB - 15E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",147,Age-standardised,34.7,29.3,40.8
-E38000259,NHS Black Country ICB - D2P2L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,100,Age-standardised,22.8,18.5,27.7
-E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",199,Age-standardised,35.3,30.5,40.6
-E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,137,Age-standardised,23.8,20,28.2
-E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",182,Age-standardised,31.9,27.4,37
-E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,115,Age-standardised,19.8,16.3,23.8
-E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",147,Age-standardised,32.4,27.3,38.1
-E38000068,NHS Cheshire and Merseyside ICB - 01F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,116,Age-standardised,25.1,20.7,30.1
-E38000091,NHS Cheshire and Merseyside ICB - 01J,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",71,Age-standardised,20.9,16.3,26.4
-E38000161,NHS Cheshire and Merseyside ICB - 01T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,81,Age-standardised,24,19,29.8
-E38000170,NHS Cheshire and Merseyside ICB - 01V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",72,Age-standardised,25.6,20,32.2
-E38000172,NHS Cheshire and Merseyside ICB - 01X,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,54,Age-standardised,18.9,14.2,24.7
-E38000194,NHS Cheshire and Merseyside ICB - 02E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",56,Age-standardised,24.7,18.6,32
-E38000208,NHS Cheshire and Merseyside ICB - 12F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,53,Age-standardised,22.7,17,29.7
-E38000233,NHS Cheshire and Merseyside ICB - 27D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",137,Age-standardised,32.5,27.3,38.4
-E38000101,NHS Cheshire and Merseyside ICB - 99A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,92,Age-standardised,21.2,17.1,26
-E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",21,Age-standardised,31,19.2,47.4
-E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,20,Age-standardised,30.1,18.4,46.6
-E38000261,NHS Derby and Derbyshire ICB - 15M,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",19,Age-standardised,22.9,13.8,35.8
-E38000230,NHS Devon ICB - 15N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,20,Age-standardised,25.2,15.3,39
-E38000045,NHS Dorset ICB - 11J,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,30.3,20.1,43.9
-E38000252,NHS Frimley ICB - D4U1Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,23,Age-standardised,24.3,15.3,36.5
-E38000062,NHS Gloucestershire ICB - 11M,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",12,Age-standardised,14.7,7.4,26
-E38000016,NHS Greater Manchester ICB - 00T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,13,Age-standardised,18.1,9.4,31.2
-E38000024,NHS Greater Manchester ICB - 00V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",41,Age-standardised,40.8,29.3,55.5
-E38000135,NHS Greater Manchester ICB - 00Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,27,Age-standardised,27.8,18.3,40.6
-E38000080,NHS Greater Manchester ICB - 01D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,28.3,19.2,40.1
-E38000143,NHS Greater Manchester ICB - 01G,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,28,Age-standardised,25.3,16.8,36.6
-E38000174,NHS Greater Manchester ICB - 01W,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",54,Age-standardised,29.2,21.9,38.2
-E38000263,NHS Greater Manchester ICB - 01Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,51,Age-standardised,27.3,20.3,36
-E38000187,NHS Greater Manchester ICB - 02A,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",98,Age-standardised,23.3,18.9,28.4
-E38000205,NHS Greater Manchester ICB - 02H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,98,Age-standardised,23.6,19.1,28.8
-E38000217,NHS Greater Manchester ICB - 14L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",62,Age-standardised,29,22.2,37.2
-E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,72,Age-standardised,33.2,26,41.9
-E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",102,Age-standardised,27.5,22.4,33.4
-E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,78,Age-standardised,21.8,17.2,27.3
-E38000049,NHS Hertfordshire and West Essex ICB - 06K,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",133,Age-standardised,29.5,24.7,35
-E38000079,NHS Hertfordshire and West Essex ICB - 06N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,123,Age-standardised,26.4,21.9,31.5
-E38000197,NHS Hertfordshire and West Essex ICB - 07H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",169,Age-standardised,29.5,25.2,34.3
-E38000052,NHS Humber and North Yorkshire ICB - 02Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,133,Age-standardised,23.2,19.4,27.5
-E38000085,NHS Humber and North Yorkshire ICB - 03F,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",206,Age-standardised,27.2,23.5,31.2
-E38000119,NHS Humber and North Yorkshire ICB - 03H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,147,Age-standardised,20.5,17.3,24.1
-E38000122,NHS Humber and North Yorkshire ICB - 03K,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",128,Age-standardised,25.5,21.2,30.4
-E38000188,NHS Humber and North Yorkshire ICB - 03Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,112,Age-standardised,23.8,19.5,28.8
-E38000241,NHS Humber and North Yorkshire ICB - 42D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",88,Age-standardised,25.3,20.3,31.3
-E38000237,NHS Kent and Medway ICB - 91Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,77,Age-standardised,22.4,17.7,28
-E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",93,Age-standardised,25.9,20.9,31.8
-E38000015,NHS Lancashire and South Cumbria ICB - 00R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,78,Age-standardised,21.9,17.2,27.3
-E38000034,NHS Lancashire and South Cumbria ICB - 00X,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",41,Age-standardised,30.2,21.6,40.9
-E38000050,NHS Lancashire and South Cumbria ICB - 01A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,46,Age-standardised,33,24.1,44
-E38000227,NHS Lancashire and South Cumbria ICB - 01E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",27,Age-standardised,27.9,18.4,40.6
-E38000228,NHS Lancashire and South Cumbria ICB - 01K,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,25,Age-standardised,25.5,16.5,37.7
-E38000200,NHS Lancashire and South Cumbria ICB - 02G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",30,Age-standardised,27.1,18.3,38.8
-E38000226,NHS Lancashire and South Cumbria ICB - 02M,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,22,Age-standardised,19.8,12.4,30
-E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",35,Age-standardised,33.9,23.6,47.1
-E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,36,Age-standardised,33.8,23.6,46.7
-E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",38,Age-standardised,36.1,25.5,49.7
-E38000238,NHS Lincolnshire ICB - 71E,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,21.9,14,32.7
-E38000106,NHS Mid and South Essex ICB - 06Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",43,Age-standardised,27.1,19.6,36.6
-E38000185,NHS Mid and South Essex ICB - 07G,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,40,Age-standardised,25.1,17.8,34.2
-E38000007,NHS Mid and South Essex ICB - 99E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,25.5,16.9,36.8
-E38000030,NHS Mid and South Essex ICB - 99F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,31,Age-standardised,27.5,18.7,39.1
-E38000168,NHS Mid and South Essex ICB - 99G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",27,Age-standardised,22.4,14.7,32.7
-E38000239,NHS Norfolk and Waveney ICB - 26A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,29,Age-standardised,24.7,16.5,35.6
-E38000240,NHS North Central London ICB - 93C,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",44,Age-standardised,25.7,18.7,34.6
-E38000130,NHS North East and North Cumbria ICB - 00L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,45,Age-standardised,26.9,19.6,36
-E38000163,NHS North East and North Cumbria ICB - 00N,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",47,Age-standardised,28.1,20.4,37.6
-E38000176,NHS North East and North Cumbria ICB - 00P,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,38,Age-standardised,19.3,13.4,26.9
-E38000215,NHS North East and North Cumbria ICB - 01H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",29,Age-standardised,33.7,22.5,48.5
-E38000212,NHS North East and North Cumbria ICB - 13T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,22,Age-standardised,24.7,15.4,37.4
-E38000247,NHS North East and North Cumbria ICB - 16C,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",243,Age-standardised,27.1,23.8,30.7
-E38000234,NHS North East and North Cumbria ICB - 84H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,222,Age-standardised,25.1,21.9,28.7
-E38000127,NHS North East and North Cumbria ICB - 99C,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",120,Age-standardised,25.2,20.8,30.1
-E38000255,NHS North East London ICB - A3A8R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,100,Age-standardised,21.8,17.7,26.5
-E38000256,NHS North West London ICB - W2U3Z,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",95,Age-standardised,34.4,27.8,42.1
-E38000262,NHS Northamptonshire ICB - 78H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,75,Age-standardised,26.2,20.6,33
-E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",65,Age-standardised,23,17.7,29.4
-E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,66,Age-standardised,22.9,17.7,29.2
-E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",38,Age-standardised,23.9,16.9,32.9
-E38000150,NHS Somerset ICB - 11X,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,37,Age-standardised,22,15.4,30.4
-E38000244,NHS South East London ICB - 72Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",66,Age-standardised,32.8,25.2,41.9
-E38000245,NHS South West London ICB - 36L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,55,Age-standardised,29,21.6,38.1
-E38000006,NHS South Yorkshire ICB - 02P,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,27.3,18.5,38.8
-E38000044,NHS South Yorkshire ICB - 02X,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,16,Age-standardised,13.8,7.8,22.4
-E38000141,NHS South Yorkshire ICB - 03L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",25,Age-standardised,28.2,18.2,41.6
-E38000146,NHS South Yorkshire ICB - 03N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,19,Age-standardised,22.1,13.3,34.7
-E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,32.6,22.1,46.2
-E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,14,Age-standardised,15.4,8.4,25.9
-E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",54,Age-standardised,28.1,21.1,36.7
-E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,51,Age-standardised,26.1,19.4,34.4
-E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",62,Age-standardised,22.9,17.5,29.5
-E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,49,Age-standardised,18.9,13.9,25.2
-E38000086,NHS Suffolk and North East Essex ICB - 06L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",308,Age-standardised,31.5,28,35.2
-E38000117,NHS Suffolk and North East Essex ICB - 06T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,237,Age-standardised,24.3,21.3,27.6
-E38000204,NHS Suffolk and North East Essex ICB - 07K,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",23,Age-standardised,34.4,21.8,51.7
-E38000264,NHS Surrey Heartlands ICB - 92A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,16,Age-standardised,25,14.3,40.7
-E38000021,NHS Sussex ICB - 09D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",29,Age-standardised,37.2,24.9,53.6
-E38000265,NHS Sussex ICB - 70F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,23,Age-standardised,30.8,19.4,46.3
-E38000235,NHS Sussex ICB - 97R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,29.7,19.7,43
-E38000025,NHS West Yorkshire ICB - 02T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,37,Age-standardised,39.1,27.5,53.9
-E38000190,NHS West Yorkshire ICB - 03R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",55,Age-standardised,27.7,20.8,36
-E38000225,NHS West Yorkshire ICB - 15F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,56,Age-standardised,28.1,21.2,36.4
-E38000232,NHS West Yorkshire ICB - 36J,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",36,Age-standardised,36.6,25.6,50.7
-E38000254,NHS West Yorkshire ICB - X2C4Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,36,Age-standardised,36.7,25.6,50.8
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,23.6,17.4,31.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,50,Age-standardised,28.4,21,37.6
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",18,Age-standardised,28,16.5,44.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,9,Age-standardised,[u],[u],[u]
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,34.9,25.3,46.9
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,33,Age-standardised,27.3,18.4,38.8
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",56,Age-standardised,28.6,21.6,37.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,46,Age-standardised,24,17.6,32.1
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",44,Age-standardised,34.1,24.6,45.9
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,35,Age-standardised,25.5,17.6,35.7
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",71,Age-standardised,33.4,26,42.1
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,56,Age-standardised,26.3,19.9,34.2
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",135,Age-standardised,29.8,25,35.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,114,Age-standardised,26.1,21.4,31.4
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",50,Age-standardised,23.8,17.6,31.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,49,Age-standardised,22.7,16.8,30
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",19,Age-standardised,27.6,16.6,43.1
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,17,Age-standardised,22.1,12.8,35.6
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,20.7,13.7,30
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,16,Age-standardised,11.9,6.8,19.4
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",39,Age-standardised,37.5,26.5,51.5
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,17,Age-standardised,15.7,9,25.3
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",23,Age-standardised,24.6,15.6,37
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,18,Age-standardised,18.6,11,29.4
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",178,Age-standardised,28.4,24.3,32.9
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,137,Age-standardised,22.5,18.8,26.7
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",199,Age-standardised,34.2,29.5,39.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,155,Age-standardised,25.1,21.2,29.5
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",47,Age-standardised,22.6,16.5,30
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,40,Age-standardised,19.5,13.8,26.6
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",24,Age-standardised,28,17.9,41.6
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,17,Age-standardised,19.3,11.2,30.9
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,31.1,23,41.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,44,Age-standardised,29.1,21.1,39.1
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",63,Age-standardised,32.3,24.7,41.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,46,Age-standardised,24.6,17.9,32.9
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",66,Age-standardised,28.4,22,36.2
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,53,Age-standardised,22.9,17.2,30
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",102,Age-standardised,28.6,23.3,34.7
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,76,Age-standardised,21.6,17,27.1
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",76,Age-standardised,26,20.4,32.5
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,57,Age-standardised,19.3,14.6,25
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",30,Age-standardised,25.5,17.2,36.5
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,28.8,19.9,40.3
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",188,Age-standardised,27.9,24,32.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,148,Age-standardised,19.6,16.5,23.2
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",246,Age-standardised,28.9,25.4,32.8
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,196,Age-standardised,21.7,18.7,25
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",129,Age-standardised,34.5,28.8,41
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,85,Age-standardised,22.7,18.1,28
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",15,Age-standardised,21.4,11.9,35.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,18,Age-standardised,27.5,16.2,43.7
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",165,Age-standardised,32.6,27.8,38
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,113,Age-standardised,22.3,18.4,26.8
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",89,Age-standardised,31.2,25,38.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,62,Age-standardised,21.4,16.4,27.5
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",109,Age-standardised,30.5,25,36.8
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,83,Age-standardised,24,19,29.8
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",223,Age-standardised,32,27.8,36.6
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,174,Age-standardised,23,19.7,26.8
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",184,Age-standardised,29.2,25.1,33.8
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,154,Age-standardised,23.1,19.5,27.1
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",38,Age-standardised,28.8,20.4,39.5
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,18.2,11.6,27.1
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,29.6,21.8,39.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,45,Age-standardised,27.8,20.2,37.2
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",47,Age-standardised,33.1,24.3,44.1
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,23,Age-standardised,16,10.1,24.1
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",69,Age-standardised,26.7,20.8,33.8
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,58,Age-standardised,21.3,16.2,27.6
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,37.6,25,54.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,16,Age-standardised,21.7,12.4,35.3
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",29,Age-standardised,42.1,28.1,60.5
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,8,Age-standardised,[u],[u],[u]
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",35,Age-standardised,28,19.5,39
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,39,Age-standardised,30.8,21.8,42.2
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,33.1,24.1,44.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,21,Age-standardised,16,9.8,24.6
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",36,Age-standardised,38.3,26.8,53.2
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,22,Age-standardised,23.9,14.9,36.3
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,36.1,26.3,48.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,27,Age-standardised,21.4,14.1,31.1
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",59,Age-standardised,23.8,18.1,30.8
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,58,Age-standardised,24.7,18.7,32
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,25,18.4,33.2
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,41,Age-standardised,21.1,15.1,28.7
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,34.8,25.2,46.7
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,27.3,18.8,38.3
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",157,Age-standardised,28.3,24,33.1
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,124,Age-standardised,22.2,18.4,26.5
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",39,Age-standardised,34.2,24.2,46.9
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,29,Age-standardised,22.5,14.9,32.5
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",153,Age-standardised,30.1,25.5,35.4
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,146,Age-standardised,28.6,24.1,33.7
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",105,Age-standardised,29.4,23.9,35.7
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,87,Age-standardised,24.7,19.6,30.6
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,27.8,18.9,39.5
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,33,Age-standardised,29.8,20.5,41.9
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",49,Age-standardised,27.1,20.1,35.9
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,32,Age-standardised,17.6,12,24.8
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",89,Age-standardised,25.9,20.8,31.9
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,86,Age-standardised,24,19.2,29.7
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",62,Age-standardised,22.9,17.5,29.3
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,51,Age-standardised,18.6,13.9,24.5
-,,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",66,Age-standardised,30.5,23.6,38.8
-,,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,48,Age-standardised,22.5,16.5,29.8
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",147,Age-standardised,34.7,29.3,40.8
+E38000258,NHS Birmingham and Solihull ICB - 15E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",199,Age-standardised,35.3,30.5,40.6
+E38000259,NHS Black Country ICB - D2P2L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",182,Age-standardised,31.9,27.4,37
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",147,Age-standardised,32.4,27.3,38.1
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",71,Age-standardised,20.9,16.3,26.4
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",72,Age-standardised,25.6,20,32.2
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",56,Age-standardised,24.7,18.6,32
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",137,Age-standardised,32.5,27.3,38.4
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",21,Age-standardised,31,19.2,47.4
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",19,Age-standardised,22.9,13.8,35.8
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,30.3,20.1,43.9
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",12,Age-standardised,14.7,7.4,26
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",41,Age-standardised,40.8,29.3,55.5
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,28.3,19.2,40.1
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",54,Age-standardised,29.2,21.9,38.2
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",98,Age-standardised,23.3,18.9,28.4
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",62,Age-standardised,29,22.2,37.2
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",102,Age-standardised,27.5,22.4,33.4
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",133,Age-standardised,29.5,24.7,35
+E38000261,NHS Derby and Derbyshire ICB - 15M,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",169,Age-standardised,29.5,25.2,34.3
+E38000230,NHS Devon ICB - 15N,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",206,Age-standardised,27.2,23.5,31.2
+E38000045,NHS Dorset ICB - 11J,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",128,Age-standardised,25.5,21.2,30.4
+E38000252,NHS Frimley ICB - D4U1Y,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",88,Age-standardised,25.3,20.3,31.3
+E38000062,NHS Gloucestershire ICB - 11M,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",93,Age-standardised,25.9,20.9,31.8
+E38000016,NHS Greater Manchester ICB - 00T,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",41,Age-standardised,30.2,21.6,40.9
+E38000024,NHS Greater Manchester ICB - 00V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",27,Age-standardised,27.9,18.4,40.6
+E38000135,NHS Greater Manchester ICB - 00Y,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",30,Age-standardised,27.1,18.3,38.8
+E38000080,NHS Greater Manchester ICB - 01D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",35,Age-standardised,33.9,23.6,47.1
+E38000143,NHS Greater Manchester ICB - 01G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",38,Age-standardised,36.1,25.5,49.7
+E38000174,NHS Greater Manchester ICB - 01W,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",43,Age-standardised,27.1,19.6,36.6
+E38000263,NHS Greater Manchester ICB - 01Y,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,25.5,16.9,36.8
+E38000187,NHS Greater Manchester ICB - 02A,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",27,Age-standardised,22.4,14.7,32.7
+E38000205,NHS Greater Manchester ICB - 02H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",44,Age-standardised,25.7,18.7,34.6
+E38000217,NHS Greater Manchester ICB - 14L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",47,Age-standardised,28.1,20.4,37.6
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",29,Age-standardised,33.7,22.5,48.5
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",243,Age-standardised,27.1,23.8,30.7
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",120,Age-standardised,25.2,20.8,30.1
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",95,Age-standardised,34.4,27.8,42.1
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",65,Age-standardised,23,17.7,29.4
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",38,Age-standardised,23.9,16.9,32.9
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",66,Age-standardised,32.8,25.2,41.9
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,27.3,18.5,38.8
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",25,Age-standardised,28.2,18.2,41.6
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,32.6,22.1,46.2
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",54,Age-standardised,28.1,21.1,36.7
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",62,Age-standardised,22.9,17.5,29.5
+E38000237,NHS Kent and Medway ICB - 91Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",308,Age-standardised,31.5,28,35.2
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",23,Age-standardised,34.4,21.8,51.7
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",29,Age-standardised,37.2,24.9,53.6
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,29.7,19.7,43
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",55,Age-standardised,27.7,20.8,36
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",36,Age-standardised,36.6,25.6,50.7
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,23.6,17.4,31.4
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",18,Age-standardised,28,16.5,44.3
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,34.9,25.3,46.9
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",56,Age-standardised,28.6,21.6,37.3
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",44,Age-standardised,34.1,24.6,45.9
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",71,Age-standardised,33.4,26,42.1
+E38000238,NHS Lincolnshire ICB - 71E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",135,Age-standardised,29.8,25,35.3
+E38000106,NHS Mid and South Essex ICB - 06Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",50,Age-standardised,23.8,17.6,31.4
+E38000185,NHS Mid and South Essex ICB - 07G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",19,Age-standardised,27.6,16.6,43.1
+E38000007,NHS Mid and South Essex ICB - 99E,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,20.7,13.7,30
+E38000030,NHS Mid and South Essex ICB - 99F,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",39,Age-standardised,37.5,26.5,51.5
+E38000168,NHS Mid and South Essex ICB - 99G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",23,Age-standardised,24.6,15.6,37
+E38000239,NHS Norfolk and Waveney ICB - 26A,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",178,Age-standardised,28.4,24.3,32.9
+E38000240,NHS North Central London ICB - 93C,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",199,Age-standardised,34.2,29.5,39.4
+E38000130,NHS North East and North Cumbria ICB - 00L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",47,Age-standardised,22.6,16.5,30
+E38000163,NHS North East and North Cumbria ICB - 00N,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",24,Age-standardised,28,17.9,41.6
+E38000176,NHS North East and North Cumbria ICB - 00P,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,31.1,23,41.3
+E38000215,NHS North East and North Cumbria ICB - 01H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",63,Age-standardised,32.3,24.7,41.3
+E38000212,NHS North East and North Cumbria ICB - 13T,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",66,Age-standardised,28.4,22,36.2
+E38000247,NHS North East and North Cumbria ICB - 16C,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",102,Age-standardised,28.6,23.3,34.7
+E38000234,NHS North East and North Cumbria ICB - 84H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",76,Age-standardised,26,20.4,32.5
+E38000127,NHS North East and North Cumbria ICB - 99C,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",30,Age-standardised,25.5,17.2,36.5
+E38000255,NHS North East London ICB - A3A8R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",188,Age-standardised,27.9,24,32.3
+E38000256,NHS North West London ICB - W2U3Z,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",246,Age-standardised,28.9,25.4,32.8
+E38000262,NHS Northamptonshire ICB - 78H,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",129,Age-standardised,34.5,28.8,41
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",15,Age-standardised,21.4,11.9,35.4
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",165,Age-standardised,32.6,27.8,38
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",89,Age-standardised,31.2,25,38.4
+E38000150,NHS Somerset ICB - 11X,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",109,Age-standardised,30.5,25,36.8
+E38000244,NHS South East London ICB - 72Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",223,Age-standardised,32,27.8,36.6
+E38000245,NHS South West London ICB - 36L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",184,Age-standardised,29.2,25.1,33.8
+E38000006,NHS South Yorkshire ICB - 02P,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",38,Age-standardised,28.8,20.4,39.5
+E38000044,NHS South Yorkshire ICB - 02X,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,29.6,21.8,39.3
+E38000141,NHS South Yorkshire ICB - 03L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",47,Age-standardised,33.1,24.3,44.1
+E38000146,NHS South Yorkshire ICB - 03N,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",69,Age-standardised,26.7,20.8,33.8
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",28,Age-standardised,37.6,25,54.4
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",29,Age-standardised,42.1,28.1,60.5
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",35,Age-standardised,28,19.5,39
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,33.1,24.1,44.4
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",36,Age-standardised,38.3,26.8,53.2
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,36.1,26.3,48.3
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",59,Age-standardised,23.8,18.1,30.8
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",48,Age-standardised,25,18.4,33.2
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",45,Age-standardised,34.8,25.2,46.7
+E38000264,NHS Surrey Heartlands ICB - 92A,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",157,Age-standardised,28.3,24,33.1
+E38000021,NHS Sussex ICB - 09D,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",39,Age-standardised,34.2,24.2,46.9
+E38000265,NHS Sussex ICB - 70F,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",153,Age-standardised,30.1,25.5,35.4
+E38000235,NHS Sussex ICB - 97R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",105,Age-standardised,29.4,23.9,35.7
+E38000025,NHS West Yorkshire ICB - 02T,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",31,Age-standardised,27.8,18.9,39.5
+E38000190,NHS West Yorkshire ICB - 03R,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",49,Age-standardised,27.1,20.1,35.9
+E38000225,NHS West Yorkshire ICB - 15F,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",89,Age-standardised,25.9,20.8,31.9
+E38000232,NHS West Yorkshire ICB - 36J,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",62,Age-standardised,22.9,17.5,29.3
+E38000254,NHS West Yorkshire ICB - X2C4Y,C54-C55,"Malignant neoplasm of corpus uteri and uterus, part unspecified",66,Age-standardised,30.5,23.6,38.8
