@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,97,Age-standardised,19.5,15.8,23.9
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,85,Age-standardised,19.2,15.3,23.8
+E38000258,NHS Birmingham and Solihull ICB - 15E,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,128,Age-standardised,21.6,18,25.7
+E38000259,NHS Black Country ICB - D2P2L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,107,Age-standardised,18.4,15.1,22.3
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,114,Age-standardised,24.2,19.9,29.1
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,67,Age-standardised,19.3,14.9,24.5
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,60,Age-standardised,20.5,15.6,26.5
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,51,Age-standardised,21.8,16.2,28.7
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,101,Age-standardised,23,18.7,27.9
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,13,Age-standardised,19.4,10.3,33.1
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,19,Age-standardised,24.5,14.7,38.4
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,26.1,16.6,38.9
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,17,Age-standardised,22.1,12.6,35.7
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,29,Age-standardised,29.7,19.9,42.7
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,25,Age-standardised,23.1,15,34.2
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,60,Age-standardised,31.4,23.9,40.5
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,98,Age-standardised,23.1,18.7,28.2
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,51,Age-standardised,23.3,17.4,30.7
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,85,Age-standardised,24,19.1,29.8
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,84,Age-standardised,17.6,14,21.8
+E38000261,NHS Derby and Derbyshire ICB - 15M,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,122,Age-standardised,21.2,17.6,25.3
+E38000230,NHS Devon ICB - 15N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,162,Age-standardised,21.9,18.6,25.7
+E38000045,NHS Dorset ICB - 11J,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,113,Age-standardised,24,19.7,29
+E38000252,NHS Frimley ICB - D4U1Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,79,Age-standardised,22.7,17.9,28.3
+E38000062,NHS Gloucestershire ICB - 11M,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,79,Age-standardised,21.7,17.2,27.1
+E38000016,NHS Greater Manchester ICB - 00T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,17.2,11,25.6
+E38000024,NHS Greater Manchester ICB - 00V,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,24.8,15.9,36.9
+E38000135,NHS Greater Manchester ICB - 00Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,19,Age-standardised,17.3,10.4,27
+E38000080,NHS Greater Manchester ICB - 01D,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,22,Age-standardised,21.1,13.2,31.9
+E38000143,NHS Greater Manchester ICB - 01G,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,26,Age-standardised,22.9,14.9,33.7
+E38000174,NHS Greater Manchester ICB - 01W,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,33,Age-standardised,20.2,13.8,28.4
+E38000263,NHS Greater Manchester ICB - 01Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,36,Age-standardised,31.9,22.3,44.2
+E38000187,NHS Greater Manchester ICB - 02A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,20,Age-standardised,17.2,10.5,26.6
+E38000205,NHS Greater Manchester ICB - 02H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,36,Age-standardised,21,14.7,29.1
+E38000217,NHS Greater Manchester ICB - 14L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,47,Age-standardised,26.2,19,35.2
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,25.8,16.4,38.4
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,219,Age-standardised,23.7,20.6,27.1
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,94,Age-standardised,20.7,16.7,25.4
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,57,Age-standardised,20.3,15.3,26.3
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,65,Age-standardised,22.1,17,28.2
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,21,14.5,29.4
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,29,Age-standardised,13.9,9.2,20.1
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,29,Age-standardised,24.2,16.2,34.9
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,22,Age-standardised,24.3,15.1,36.9
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,18,Age-standardised,19,11.2,30.2
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,47,Age-standardised,23.6,17.3,31.4
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,50,Age-standardised,19.6,14.4,26
+E38000237,NHS Kent and Medway ICB - 91Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,220,Age-standardised,22.5,19.6,25.6
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,36,23,53.7
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,45.4,31.3,63.6
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,20,Age-standardised,21.1,12.9,32.6
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,35,Age-standardised,17.9,12.4,24.9
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,23,Age-standardised,23.4,14.8,35.1
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,47,Age-standardised,24.7,18,32.9
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,14,Age-standardised,21.5,11.7,36.2
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,31,Age-standardised,24.9,16.7,35.7
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,39,Age-standardised,19.7,14,27
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,29,Age-standardised,20.9,13.9,30.2
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,47,Age-standardised,21.7,15.9,28.9
+E38000238,NHS Lincolnshire ICB - 71E,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,96,Age-standardised,21.4,17.3,26.2
+E38000106,NHS Mid and South Essex ICB - 06Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,46,Age-standardised,21,15.3,28
+E38000185,NHS Mid and South Essex ICB - 07G,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,17,Age-standardised,22.7,13.1,36.6
+E38000007,NHS Mid and South Essex ICB - 99E,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,23.9,16.5,33.5
+E38000030,NHS Mid and South Essex ICB - 99F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,15,Age-standardised,14.1,7.7,23.4
+E38000168,NHS Mid and South Essex ICB - 99G,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,19,Age-standardised,19.9,11.9,31.1
+E38000239,NHS Norfolk and Waveney ICB - 26A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,132,Age-standardised,20.8,17.3,24.7
+E38000240,NHS North Central London ICB - 93C,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,109,Age-standardised,17.6,14.4,21.2
+E38000130,NHS North East and North Cumbria ICB - 00L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,37,Age-standardised,19,13.2,26.3
+E38000163,NHS North East and North Cumbria ICB - 00N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,29,Age-standardised,33.6,22.4,48.3
+E38000176,NHS North East and North Cumbria ICB - 00P,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,36,Age-standardised,24,16.8,33.2
+E38000215,NHS North East and North Cumbria ICB - 01H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,52,Age-standardised,26.3,19.5,34.5
+E38000212,NHS North East and North Cumbria ICB - 13T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,54,Age-standardised,22.7,17,29.6
+E38000247,NHS North East and North Cumbria ICB - 16C,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,65,Age-standardised,18.2,14,23.2
+E38000234,NHS North East and North Cumbria ICB - 84H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,79,Age-standardised,26.9,21.2,33.5
+E38000127,NHS North East and North Cumbria ICB - 99C,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,21,Age-standardised,18.4,11.3,28.1
+E38000255,NHS North East London ICB - A3A8R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,152,Age-standardised,20.2,17,23.8
+E38000256,NHS North West London ICB - W2U3Z,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,185,Age-standardised,20.4,17.5,23.5
+E38000262,NHS Northamptonshire ICB - 78H,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,77,Age-standardised,20.2,16,25.3
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,19,Age-standardised,27.9,16.7,43.7
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,95,Age-standardised,18.5,15,22.7
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,74,Age-standardised,25.4,19.9,31.9
+E38000150,NHS Somerset ICB - 11X,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,77,Age-standardised,21.8,17.1,27.4
+E38000244,NHS South East London ICB - 72Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,150,Age-standardised,20.2,17,23.8
+E38000245,NHS South West London ICB - 36L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,121,Age-standardised,18.4,15.2,22
+E38000006,NHS South Yorkshire ICB - 02P,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,25.9,17.9,36.2
+E38000044,NHS South Yorkshire ICB - 02X,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,36,Age-standardised,21.9,15.3,30.3
+E38000141,NHS South Yorkshire ICB - 03L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,26,Age-standardised,18.5,12.1,27.2
+E38000146,NHS South Yorkshire ICB - 03N,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,46,Age-standardised,17.2,12.6,23
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,4,Age-standardised,[u],[u],[u]
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,13,Age-standardised,19,10.1,32.6
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,24,Age-standardised,19,12.1,28.3
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,21,Age-standardised,15.9,9.8,24.4
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,18,Age-standardised,18.3,10.8,29
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,26.9,18.6,37.6
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,62,Age-standardised,25.9,19.8,33.3
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,48,Age-standardised,23.8,17.5,31.6
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,34,Age-standardised,27,18.6,37.9
+E38000264,NHS Surrey Heartlands ICB - 92A,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,109,Age-standardised,19.8,16.3,24
+E38000021,NHS Sussex ICB - 09D,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,26,Age-standardised,21.7,14,31.9
+E38000265,NHS Sussex ICB - 70F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,122,Age-standardised,23.4,19.4,28
+E38000235,NHS Sussex ICB - 97R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,75,Age-standardised,21.1,16.4,26.6
+E38000025,NHS West Yorkshire ICB - 02T,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,16,Age-standardised,14.5,8.3,23.6
+E38000190,NHS West Yorkshire ICB - 03R,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,32,Age-standardised,17.1,11.7,24.2
+E38000225,NHS West Yorkshire ICB - 15F,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,54,Age-standardised,15.1,11.3,19.7
+E38000232,NHS West Yorkshire ICB - 36J,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,47,Age-standardised,16.7,12.3,22.3
+E38000254,NHS West Yorkshire ICB - X2C4Y,C56-C57,Malignant neoplasm of ovary and other unspecified female genital organs,31,Age-standardised,14.5,9.9,20.6

@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C61,Malignant neoplasm of prostate,797,Age-standardised,182.8,170.3,196
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C61,Malignant neoplasm of prostate,892,Age-standardised,238.4,222.9,254.6
+E38000258,NHS Birmingham and Solihull ICB - 15E,C61,Malignant neoplasm of prostate,794,Age-standardised,168.3,156.8,180.5
+E38000259,NHS Black Country ICB - D2P2L,C61,Malignant neoplasm of prostate,977,Age-standardised,195.1,183,207.8
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C61,Malignant neoplasm of prostate,793,Age-standardised,201.4,187.6,215.9
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C61,Malignant neoplasm of prostate,606,Age-standardised,202.9,187,219.7
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C61,Malignant neoplasm of prostate,417,Age-standardised,168.9,153,185.9
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C61,Malignant neoplasm of prostate,502,Age-standardised,245.3,224.2,267.8
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C61,Malignant neoplasm of prostate,730,Age-standardised,189,175.5,203.2
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C61,Malignant neoplasm of prostate,98,Age-standardised,167.8,135.9,204.8
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C61,Malignant neoplasm of prostate,72,Age-standardised,113.9,88.9,143.7
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C61,Malignant neoplasm of prostate,131,Age-standardised,166.3,139,197.4
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C61,Malignant neoplasm of prostate,103,Age-standardised,148.8,121.3,180.7
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C61,Malignant neoplasm of prostate,156,Age-standardised,175.6,149.1,205.5
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C61,Malignant neoplasm of prostate,175,Age-standardised,181.4,155.4,210.5
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C61,Malignant neoplasm of prostate,294,Age-standardised,179.8,159.8,201.6
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C61,Malignant neoplasm of prostate,676,Age-standardised,175.7,162.7,189.5
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C61,Malignant neoplasm of prostate,318,Age-standardised,174.7,155.9,195.2
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C61,Malignant neoplasm of prostate,627,Age-standardised,189.4,174.8,204.9
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C61,Malignant neoplasm of prostate,781,Age-standardised,191.2,178,205.1
+E38000261,NHS Derby and Derbyshire ICB - 15M,C61,Malignant neoplasm of prostate,1032,Age-standardised,198.8,186.8,211.3
+E38000230,NHS Devon ICB - 15N,C61,Malignant neoplasm of prostate,1353,Age-standardised,202.3,191.7,213.4
+E38000045,NHS Dorset ICB - 11J,C61,Malignant neoplasm of prostate,923,Age-standardised,207.4,194.1,221.2
+E38000252,NHS Frimley ICB - D4U1Y,C61,Malignant neoplasm of prostate,534,Age-standardised,180.7,165.6,196.7
+E38000062,NHS Gloucestershire ICB - 11M,C61,Malignant neoplasm of prostate,605,Age-standardised,186.2,171.6,201.6
+E38000016,NHS Greater Manchester ICB - 00T,C61,Malignant neoplasm of prostate,202,Age-standardised,165.5,143.4,190.1
+E38000024,NHS Greater Manchester ICB - 00V,C61,Malignant neoplasm of prostate,128,Age-standardised,152.6,127.2,181.5
+E38000135,NHS Greater Manchester ICB - 00Y,C61,Malignant neoplasm of prostate,154,Age-standardised,166.6,141.2,195.2
+E38000080,NHS Greater Manchester ICB - 01D,C61,Malignant neoplasm of prostate,152,Age-standardised,167.5,141.8,196.6
+E38000143,NHS Greater Manchester ICB - 01G,C61,Malignant neoplasm of prostate,164,Age-standardised,175.9,149.8,205.2
+E38000174,NHS Greater Manchester ICB - 01W,C61,Malignant neoplasm of prostate,255,Age-standardised,181.7,160.1,205.5
+E38000263,NHS Greater Manchester ICB - 01Y,C61,Malignant neoplasm of prostate,178,Age-standardised,177.4,152.1,205.7
+E38000187,NHS Greater Manchester ICB - 02A,C61,Malignant neoplasm of prostate,173,Age-standardised,173.9,148.9,201.9
+E38000205,NHS Greater Manchester ICB - 02H,C61,Malignant neoplasm of prostate,260,Age-standardised,167.4,147.5,189.2
+E38000217,NHS Greater Manchester ICB - 14L,C61,Malignant neoplasm of prostate,261,Age-standardised,191.4,168.4,216.7
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C61,Malignant neoplasm of prostate,136,Age-standardised,181,151.8,214.3
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C61,Malignant neoplasm of prostate,1786,Age-standardised,219.6,209.5,230
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C61,Malignant neoplasm of prostate,927,Age-standardised,215.3,201.7,229.7
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C61,Malignant neoplasm of prostate,547,Age-standardised,229.2,210.3,249.3
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C61,Malignant neoplasm of prostate,428,Age-standardised,176,159.6,193.5
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C61,Malignant neoplasm of prostate,294,Age-standardised,214.1,190.3,240
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C61,Malignant neoplasm of prostate,346,Age-standardised,179.5,161.1,199.6
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C61,Malignant neoplasm of prostate,178,Age-standardised,183.7,157.4,213
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C61,Malignant neoplasm of prostate,124,Age-standardised,159.4,132.6,190.1
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C61,Malignant neoplasm of prostate,151,Age-standardised,171,144.7,200.7
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C61,Malignant neoplasm of prostate,332,Age-standardised,188.9,169.1,210.4
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C61,Malignant neoplasm of prostate,487,Age-standardised,196.2,179.1,214.5
+E38000237,NHS Kent and Medway ICB - 91Q,C61,Malignant neoplasm of prostate,1684,Age-standardised,194,184.9,203.6
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C61,Malignant neoplasm of prostate,79,Age-standardised,147.8,116.6,184.6
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C61,Malignant neoplasm of prostate,121,Age-standardised,172.6,143.1,206.3
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C61,Malignant neoplasm of prostate,169,Age-standardised,192.6,164.5,224.1
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C61,Malignant neoplasm of prostate,303,Age-standardised,167,148.6,186.9
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C61,Malignant neoplasm of prostate,206,Age-standardised,232.2,201.5,266.2
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C61,Malignant neoplasm of prostate,302,Age-standardised,163.8,145.8,183.4
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C61,Malignant neoplasm of prostate,89,Age-standardised,150.3,120.7,185
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C61,Malignant neoplasm of prostate,182,Age-standardised,146.3,125.7,169.2
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C61,Malignant neoplasm of prostate,336,Age-standardised,191.2,171.3,212.8
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C61,Malignant neoplasm of prostate,148,Age-standardised,138.4,116.7,162.9
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C61,Malignant neoplasm of prostate,359,Age-standardised,183.8,165.2,203.9
+E38000238,NHS Lincolnshire ICB - 71E,C61,Malignant neoplasm of prostate,863,Age-standardised,202.5,189.2,216.5
+E38000106,NHS Mid and South Essex ICB - 06Q,C61,Malignant neoplasm of prostate,344,Age-standardised,176.8,158.6,196.6
+E38000185,NHS Mid and South Essex ICB - 07G,C61,Malignant neoplasm of prostate,118,Age-standardised,192,158.5,230.5
+E38000007,NHS Mid and South Essex ICB - 99E,C61,Malignant neoplasm of prostate,176,Age-standardised,155.9,133.7,180.8
+E38000030,NHS Mid and South Essex ICB - 99F,C61,Malignant neoplasm of prostate,194,Age-standardised,197.1,170.3,226.9
+E38000168,NHS Mid and South Essex ICB - 99G,C61,Malignant neoplasm of prostate,161,Age-standardised,193.7,164.9,226
+E38000239,NHS Norfolk and Waveney ICB - 26A,C61,Malignant neoplasm of prostate,1009,Age-standardised,172.9,162.3,183.9
+E38000240,NHS North Central London ICB - 93C,C61,Malignant neoplasm of prostate,937,Age-standardised,198.3,185.6,211.6
+E38000130,NHS North East and North Cumbria ICB - 00L,C61,Malignant neoplasm of prostate,297,Age-standardised,156.9,139.5,175.8
+E38000163,NHS North East and North Cumbria ICB - 00N,C61,Malignant neoplasm of prostate,156,Age-standardised,212,179.9,248.2
+E38000176,NHS North East and North Cumbria ICB - 00P,C61,Malignant neoplasm of prostate,219,Age-standardised,168.3,146.6,192.3
+E38000215,NHS North East and North Cumbria ICB - 01H,C61,Malignant neoplasm of prostate,302,Age-standardised,164.7,146.6,184.4
+E38000212,NHS North East and North Cumbria ICB - 13T,C61,Malignant neoplasm of prostate,313,Age-standardised,154.6,137.9,172.7
+E38000247,NHS North East and North Cumbria ICB - 16C,C61,Malignant neoplasm of prostate,549,Age-standardised,174.9,160.5,190.2
+E38000234,NHS North East and North Cumbria ICB - 84H,C61,Malignant neoplasm of prostate,433,Age-standardised,164.1,148.9,180.4
+E38000127,NHS North East and North Cumbria ICB - 99C,C61,Malignant neoplasm of prostate,143,Age-standardised,145.7,122.7,171.7
+E38000255,NHS North East London ICB - A3A8R,C61,Malignant neoplasm of prostate,1127,Age-standardised,203.1,191.1,215.6
+E38000256,NHS North West London ICB - W2U3Z,C61,Malignant neoplasm of prostate,1287,Age-standardised,182.1,172.2,192.4
+E38000262,NHS Northamptonshire ICB - 78H,C61,Malignant neoplasm of prostate,672,Age-standardised,197.2,182.6,212.8
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C61,Malignant neoplasm of prostate,111,Age-standardised,176.8,145.4,213.1
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C61,Malignant neoplasm of prostate,815,Age-standardised,180.7,168.5,193.6
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C61,Malignant neoplasm of prostate,589,Age-standardised,223.6,205.8,242.4
+E38000150,NHS Somerset ICB - 11X,C61,Malignant neoplasm of prostate,629,Age-standardised,194.3,179.4,210.1
+E38000244,NHS South East London ICB - 72Q,C61,Malignant neoplasm of prostate,1330,Age-standardised,233.9,221.2,247.1
+E38000245,NHS South West London ICB - 36L,C61,Malignant neoplasm of prostate,1214,Age-standardised,242,228.4,256.2
+E38000006,NHS South Yorkshire ICB - 02P,C61,Malignant neoplasm of prostate,214,Age-standardised,183.3,159.4,209.7
+E38000044,NHS South Yorkshire ICB - 02X,C61,Malignant neoplasm of prostate,228,Age-standardised,158.6,138.6,180.7
+E38000141,NHS South Yorkshire ICB - 03L,C61,Malignant neoplasm of prostate,250,Age-standardised,200.3,176.1,226.8
+E38000146,NHS South Yorkshire ICB - 03N,C61,Malignant neoplasm of prostate,411,Age-standardised,182,164.8,200.5
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C61,Malignant neoplasm of prostate,110,Age-standardised,161.8,132.8,195.1
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C61,Malignant neoplasm of prostate,121,Age-standardised,193.9,160.8,231.8
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C61,Malignant neoplasm of prostate,181,Age-standardised,153.6,132,177.7
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C61,Malignant neoplasm of prostate,198,Age-standardised,165.9,143.5,190.8
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C61,Malignant neoplasm of prostate,179,Age-standardised,207.3,178,240
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C61,Malignant neoplasm of prostate,175,Age-standardised,154.5,132.4,179.3
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C61,Malignant neoplasm of prostate,499,Age-standardised,222.6,203.4,243
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C61,Malignant neoplasm of prostate,366,Age-standardised,205.6,185.1,227.9
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C61,Malignant neoplasm of prostate,171,Age-standardised,142.8,122.2,165.9
+E38000264,NHS Surrey Heartlands ICB - 92A,C61,Malignant neoplasm of prostate,1062,Age-standardised,223.1,209.8,236.9
+E38000021,NHS Sussex ICB - 09D,C61,Malignant neoplasm of prostate,167,Age-standardised,167.8,143.1,195.5
+E38000265,NHS Sussex ICB - 70F,C61,Malignant neoplasm of prostate,1029,Age-standardised,229.7,215.8,244.2
+E38000235,NHS Sussex ICB - 97R,C61,Malignant neoplasm of prostate,666,Age-standardised,205.8,190.5,222.1
+E38000025,NHS West Yorkshire ICB - 02T,C61,Malignant neoplasm of prostate,189,Age-standardised,194.9,167.8,225
+E38000190,NHS West Yorkshire ICB - 03R,C61,Malignant neoplasm of prostate,291,Age-standardised,179.6,159.5,201.6
+E38000225,NHS West Yorkshire ICB - 15F,C61,Malignant neoplasm of prostate,604,Age-standardised,207.5,191.3,224.8
+E38000232,NHS West Yorkshire ICB - 36J,C61,Malignant neoplasm of prostate,451,Age-standardised,197.8,179.8,217
+E38000254,NHS West Yorkshire ICB - X2C4Y,C61,Malignant neoplasm of prostate,351,Age-standardised,183.5,164.7,203.8

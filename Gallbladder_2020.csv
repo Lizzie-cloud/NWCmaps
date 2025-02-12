@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C23,Malignant neoplasm of gallbladder,17,Age-standardised,1.8,1,2.8
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C23,Malignant neoplasm of gallbladder,19,Age-standardised,2.3,1.4,3.7
+E38000258,NHS Birmingham and Solihull ICB - 15E,C23,Malignant neoplasm of gallbladder,26,Age-standardised,2.4,1.6,3.6
+E38000259,NHS Black Country ICB - D2P2L,C23,Malignant neoplasm of gallbladder,24,Age-standardised,2.1,1.4,3.2
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C23,Malignant neoplasm of gallbladder,13,Age-standardised,1.4,0.8,2.4
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C23,Malignant neoplasm of gallbladder,19,Age-standardised,2.8,1.7,4.3
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C23,Malignant neoplasm of gallbladder,10,Age-standardised,1.8,0.9,3.3
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C23,Malignant neoplasm of gallbladder,5,Age-standardised,,,
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C23,Malignant neoplasm of gallbladder,14,Age-standardised,1.7,0.9,2.9
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C23,Malignant neoplasm of gallbladder,0,Age-standardised,,,
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C23,Malignant neoplasm of gallbladder,1,Age-standardised,,,
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C23,Malignant neoplasm of gallbladder,3,Age-standardised,,,
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C23,Malignant neoplasm of gallbladder,1,Age-standardised,,,
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C23,Malignant neoplasm of gallbladder,14,Age-standardised,1.7,0.9,2.8
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C23,Malignant neoplasm of gallbladder,5,Age-standardised,,,
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C23,Malignant neoplasm of gallbladder,11,Age-standardised,1.5,0.7,2.6
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C23,Malignant neoplasm of gallbladder,17,Age-standardised,1.8,1.1,3
+E38000261,NHS Derby and Derbyshire ICB - 15M,C23,Malignant neoplasm of gallbladder,20,Age-standardised,1.8,1.1,2.7
+E38000230,NHS Devon ICB - 15N,C23,Malignant neoplasm of gallbladder,18,Age-standardised,1.2,0.7,1.9
+E38000045,NHS Dorset ICB - 11J,C23,Malignant neoplasm of gallbladder,12,Age-standardised,1.1,0.6,2
+E38000252,NHS Frimley ICB - D4U1Y,C23,Malignant neoplasm of gallbladder,9,Age-standardised,,,
+E38000062,NHS Gloucestershire ICB - 11M,C23,Malignant neoplasm of gallbladder,8,Age-standardised,,,
+E38000016,NHS Greater Manchester ICB - 00T,C23,Malignant neoplasm of gallbladder,7,Age-standardised,,,
+E38000024,NHS Greater Manchester ICB - 00V,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000135,NHS Greater Manchester ICB - 00Y,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000080,NHS Greater Manchester ICB - 01D,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000143,NHS Greater Manchester ICB - 01G,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000174,NHS Greater Manchester ICB - 01W,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000263,NHS Greater Manchester ICB - 01Y,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000187,NHS Greater Manchester ICB - 02A,C23,Malignant neoplasm of gallbladder,9,Age-standardised,,,
+E38000205,NHS Greater Manchester ICB - 02H,C23,Malignant neoplasm of gallbladder,13,Age-standardised,4.1,2.2,7
+E38000217,NHS Greater Manchester ICB - 14L,C23,Malignant neoplasm of gallbladder,12,Age-standardised,4.3,2.2,7.6
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C23,Malignant neoplasm of gallbladder,34,Age-standardised,1.9,1.3,2.6
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C23,Malignant neoplasm of gallbladder,15,Age-standardised,1.6,0.9,2.6
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C23,Malignant neoplasm of gallbladder,5,Age-standardised,,,
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C23,Malignant neoplasm of gallbladder,12,Age-standardised,2.1,1.1,3.8
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C23,Malignant neoplasm of gallbladder,1,Age-standardised,,,
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C23,Malignant neoplasm of gallbladder,3,Age-standardised,,,
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C23,Malignant neoplasm of gallbladder,8,Age-standardised,,,
+E38000237,NHS Kent and Medway ICB - 91Q,C23,Malignant neoplasm of gallbladder,20,Age-standardised,1,0.6,1.6
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C23,Malignant neoplasm of gallbladder,3,Age-standardised,,,
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C23,Malignant neoplasm of gallbladder,1,Age-standardised,,,
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C23,Malignant neoplasm of gallbladder,9,Age-standardised,,,
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C23,Malignant neoplasm of gallbladder,7,Age-standardised,,,
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C23,Malignant neoplasm of gallbladder,5,Age-standardised,,,
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C23,Malignant neoplasm of gallbladder,8,Age-standardised,,,
+E38000238,NHS Lincolnshire ICB - 71E,C23,Malignant neoplasm of gallbladder,15,Age-standardised,1.6,0.9,2.7
+E38000106,NHS Mid and South Essex ICB - 06Q,C23,Malignant neoplasm of gallbladder,9,Age-standardised,,,
+E38000185,NHS Mid and South Essex ICB - 07G,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000007,NHS Mid and South Essex ICB - 99E,C23,Malignant neoplasm of gallbladder,5,Age-standardised,,,
+E38000030,NHS Mid and South Essex ICB - 99F,C23,Malignant neoplasm of gallbladder,5,Age-standardised,,,
+E38000168,NHS Mid and South Essex ICB - 99G,C23,Malignant neoplasm of gallbladder,3,Age-standardised,,,
+E38000239,NHS Norfolk and Waveney ICB - 26A,C23,Malignant neoplasm of gallbladder,15,Age-standardised,1.1,0.6,1.8
+E38000240,NHS North Central London ICB - 93C,C23,Malignant neoplasm of gallbladder,18,Age-standardised,1.7,1,2.7
+E38000130,NHS North East and North Cumbria ICB - 00L,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000163,NHS North East and North Cumbria ICB - 00N,C23,Malignant neoplasm of gallbladder,5,Age-standardised,,,
+E38000176,NHS North East and North Cumbria ICB - 00P,C23,Malignant neoplasm of gallbladder,7,Age-standardised,,,
+E38000215,NHS North East and North Cumbria ICB - 01H,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000212,NHS North East and North Cumbria ICB - 13T,C23,Malignant neoplasm of gallbladder,9,Age-standardised,,,
+E38000247,NHS North East and North Cumbria ICB - 16C,C23,Malignant neoplasm of gallbladder,14,Age-standardised,2,1.1,3.4
+E38000234,NHS North East and North Cumbria ICB - 84H,C23,Malignant neoplasm of gallbladder,12,Age-standardised,2.1,1.1,3.7
+E38000127,NHS North East and North Cumbria ICB - 99C,C23,Malignant neoplasm of gallbladder,0,Age-standardised,,,
+E38000255,NHS North East London ICB - A3A8R,C23,Malignant neoplasm of gallbladder,34,Age-standardised,2.9,2,4
+E38000256,NHS North West London ICB - W2U3Z,C23,Malignant neoplasm of gallbladder,36,Age-standardised,2.2,1.6,3.1
+E38000262,NHS Northamptonshire ICB - 78H,C23,Malignant neoplasm of gallbladder,7,Age-standardised,,,
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C23,Malignant neoplasm of gallbladder,1,Age-standardised,,,
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C23,Malignant neoplasm of gallbladder,16,Age-standardised,1.6,0.9,2.6
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C23,Malignant neoplasm of gallbladder,12,Age-standardised,2.1,1.1,3.6
+E38000150,NHS Somerset ICB - 11X,C23,Malignant neoplasm of gallbladder,9,Age-standardised,,,
+E38000244,NHS South East London ICB - 72Q,C23,Malignant neoplasm of gallbladder,15,Age-standardised,1.1,0.6,1.9
+E38000245,NHS South West London ICB - 36L,C23,Malignant neoplasm of gallbladder,18,Age-standardised,1.6,1,2.6
+E38000006,NHS South Yorkshire ICB - 02P,C23,Malignant neoplasm of gallbladder,1,Age-standardised,,,
+E38000044,NHS South Yorkshire ICB - 02X,C23,Malignant neoplasm of gallbladder,14,Age-standardised,4.5,2.5,7.5
+E38000141,NHS South Yorkshire ICB - 03L,C23,Malignant neoplasm of gallbladder,7,Age-standardised,,,
+E38000146,NHS South Yorkshire ICB - 03N,C23,Malignant neoplasm of gallbladder,12,Age-standardised,2.5,1.3,4.3
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C23,Malignant neoplasm of gallbladder,3,Age-standardised,,,
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C23,Malignant neoplasm of gallbladder,3,Age-standardised,,,
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C23,Malignant neoplasm of gallbladder,11,Age-standardised,4.5,2.3,8.1
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C23,Malignant neoplasm of gallbladder,0,Age-standardised,,,
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C23,Malignant neoplasm of gallbladder,6,Age-standardised,,,
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C23,Malignant neoplasm of gallbladder,8,Age-standardised,,,
+E38000264,NHS Surrey Heartlands ICB - 92A,C23,Malignant neoplasm of gallbladder,12,Age-standardised,1.1,0.6,2
+E38000021,NHS Sussex ICB - 09D,C23,Malignant neoplasm of gallbladder,2,Age-standardised,,,
+E38000265,NHS Sussex ICB - 70F,C23,Malignant neoplasm of gallbladder,20,Age-standardised,1.9,1.2,3
+E38000235,NHS Sussex ICB - 97R,C23,Malignant neoplasm of gallbladder,8,Age-standardised,,,
+E38000025,NHS West Yorkshire ICB - 02T,C23,Malignant neoplasm of gallbladder,4,Age-standardised,,,
+E38000190,NHS West Yorkshire ICB - 03R,C23,Malignant neoplasm of gallbladder,11,Age-standardised,3.2,1.6,5.7
+E38000225,NHS West Yorkshire ICB - 15F,C23,Malignant neoplasm of gallbladder,12,Age-standardised,1.8,0.9,3.2
+E38000232,NHS West Yorkshire ICB - 36J,C23,Malignant neoplasm of gallbladder,11,Age-standardised,2.2,1.1,4
+E38000254,NHS West Yorkshire ICB - X2C4Y,C23,Malignant neoplasm of gallbladder,8,Age-standardised,,,

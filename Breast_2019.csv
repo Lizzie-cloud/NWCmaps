@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C50,Malignant neoplasm of breast,933,Age-standardised,194.3,181.9,207.2
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C50,Malignant neoplasm of breast,693,Age-standardised,156.3,144.9,168.5
+E38000258,NHS Birmingham and Solihull ICB - 15E,C50,Malignant neoplasm of breast,971,Age-standardised,167.9,157.4,178.9
+E38000259,NHS Black Country ICB - D2P2L,C50,Malignant neoplasm of breast,946,Age-standardised,162.5,152.3,173.3
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C50,Malignant neoplasm of breast,854,Age-standardised,187.1,174.7,200.2
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C50,Malignant neoplasm of breast,613,Age-standardised,182.2,168,197.3
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C50,Malignant neoplasm of breast,521,Age-standardised,185.2,169.6,201.9
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C50,Malignant neoplasm of breast,444,Age-standardised,190.5,173.2,209.2
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C50,Malignant neoplasm of breast,751,Age-standardised,174.8,162.5,187.8
+E38000068,NHS Cheshire and Merseyside ICB - 01F,C50,Malignant neoplasm of breast,103,Age-standardised,154.3,125.9,187.2
+E38000091,NHS Cheshire and Merseyside ICB - 01J,C50,Malignant neoplasm of breast,131,Age-standardised,167.4,139.8,198.8
+E38000161,NHS Cheshire and Merseyside ICB - 01T,C50,Malignant neoplasm of breast,179,Age-standardised,196,168,227.2
+E38000170,NHS Cheshire and Merseyside ICB - 01V,C50,Malignant neoplasm of breast,105,Age-standardised,141.5,114.8,172.3
+E38000172,NHS Cheshire and Merseyside ICB - 01X,C50,Malignant neoplasm of breast,140,Age-standardised,146.1,122.8,172.5
+E38000194,NHS Cheshire and Merseyside ICB - 02E,C50,Malignant neoplasm of breast,207,Age-standardised,191.4,166.2,219.4
+E38000208,NHS Cheshire and Merseyside ICB - 12F,C50,Malignant neoplasm of breast,321,Age-standardised,173.7,155,194
+E38000233,NHS Cheshire and Merseyside ICB - 27D,C50,Malignant neoplasm of breast,744,Age-standardised,182.2,169.3,196
+E38000101,NHS Cheshire and Merseyside ICB - 99A,C50,Malignant neoplasm of breast,351,Age-standardised,160,143.6,177.8
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C50,Malignant neoplasm of breast,564,Age-standardised,166.1,152.4,180.7
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C50,Malignant neoplasm of breast,785,Age-standardised,171.4,159.6,183.8
+E38000261,NHS Derby and Derbyshire ICB - 15M,C50,Malignant neoplasm of breast,993,Age-standardised,172.4,161.8,183.5
+E38000230,NHS Devon ICB - 15N,C50,Malignant neoplasm of breast,1222,Age-standardised,173.9,164.1,184.1
+E38000045,NHS Dorset ICB - 11J,C50,Malignant neoplasm of breast,811,Age-standardised,173.4,161.4,186
+E38000252,NHS Frimley ICB - D4U1Y,C50,Malignant neoplasm of breast,619,Age-standardised,175.4,161.8,189.9
+E38000062,NHS Gloucestershire ICB - 11M,C50,Malignant neoplasm of breast,641,Age-standardised,183.1,169.1,198
+E38000016,NHS Greater Manchester ICB - 00T,C50,Malignant neoplasm of breast,244,Age-standardised,176.4,154.9,200
+E38000024,NHS Greater Manchester ICB - 00V,C50,Malignant neoplasm of breast,149,Age-standardised,152.9,129.3,179.5
+E38000135,NHS Greater Manchester ICB - 00Y,C50,Malignant neoplasm of breast,167,Age-standardised,150.6,128.6,175.3
+E38000080,NHS Greater Manchester ICB - 01D,C50,Malignant neoplasm of breast,159,Age-standardised,150,127.6,175.2
+E38000143,NHS Greater Manchester ICB - 01G,C50,Malignant neoplasm of breast,146,Age-standardised,134.2,113.1,158
+E38000174,NHS Greater Manchester ICB - 01W,C50,Malignant neoplasm of breast,280,Age-standardised,179.3,158.8,201.7
+E38000263,NHS Greater Manchester ICB - 01Y,C50,Malignant neoplasm of breast,213,Age-standardised,190.7,166,218.2
+E38000187,NHS Greater Manchester ICB - 02A,C50,Malignant neoplasm of breast,191,Age-standardised,161.8,139.5,186.6
+E38000205,NHS Greater Manchester ICB - 02H,C50,Malignant neoplasm of breast,258,Age-standardised,153.1,135,173
+E38000217,NHS Greater Manchester ICB - 14L,C50,Malignant neoplasm of breast,274,Age-standardised,144,126.7,162.9
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C50,Malignant neoplasm of breast,183,Age-standardised,201.5,173.2,233.1
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C50,Malignant neoplasm of breast,1586,Age-standardised,180.8,171.9,190
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C50,Malignant neoplasm of breast,739,Age-standardised,164.6,152.8,177
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,C50,Malignant neoplasm of breast,508,Age-standardised,178.7,163.4,195
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,C50,Malignant neoplasm of breast,542,Age-standardised,185.1,169.7,201.5
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,C50,Malignant neoplasm of breast,322,Age-standardised,199.5,178.2,222.6
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,C50,Malignant neoplasm of breast,311,Age-standardised,159.7,142,179
+E38000085,NHS Humber and North Yorkshire ICB - 03F,C50,Malignant neoplasm of breast,221,Age-standardised,189.4,165.2,216.1
+E38000119,NHS Humber and North Yorkshire ICB - 03H,C50,Malignant neoplasm of breast,114,Age-standardised,132,108.7,158.8
+E38000122,NHS Humber and North Yorkshire ICB - 03K,C50,Malignant neoplasm of breast,158,Age-standardised,167.6,142.4,196.1
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,C50,Malignant neoplasm of breast,311,Age-standardised,160.1,142.7,179.1
+E38000241,NHS Humber and North Yorkshire ICB - 42D,C50,Malignant neoplasm of breast,418,Age-standardised,164.3,148.5,181.2
+E38000237,NHS Kent and Medway ICB - 91Q,C50,Malignant neoplasm of breast,1750,Age-standardised,181.3,172.9,190.1
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C50,Malignant neoplasm of breast,108,Age-standardised,166,136.1,200.6
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,C50,Malignant neoplasm of breast,112,Age-standardised,148.6,122.2,179
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,C50,Malignant neoplasm of breast,163,Age-standardised,174.8,149,203.9
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,C50,Malignant neoplasm of breast,345,Age-standardised,175.6,157.6,195.2
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,C50,Malignant neoplasm of breast,185,Age-standardised,190.2,163.7,219.7
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,C50,Malignant neoplasm of breast,288,Age-standardised,154.7,137,173.9
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,C50,Malignant neoplasm of breast,107,Age-standardised,165.3,135.2,200.1
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,C50,Malignant neoplasm of breast,222,Age-standardised,181.6,157.5,208.1
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C50,Malignant neoplasm of breast,330,Age-standardised,171.8,153.5,191.6
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C50,Malignant neoplasm of breast,170,Age-standardised,124.4,106.2,144.9
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C50,Malignant neoplasm of breast,380,Age-standardised,181.5,163.7,200.7
+E38000238,NHS Lincolnshire ICB - 71E,C50,Malignant neoplasm of breast,698,Age-standardised,161.7,149.8,174.3
+E38000106,NHS Mid and South Essex ICB - 06Q,C50,Malignant neoplasm of breast,368,Age-standardised,171.6,154.5,190.2
+E38000185,NHS Mid and South Essex ICB - 07G,C50,Malignant neoplasm of breast,134,Age-standardised,180.9,151.3,214.6
+E38000007,NHS Mid and South Essex ICB - 99E,C50,Malignant neoplasm of breast,220,Age-standardised,162.9,142,186
+E38000030,NHS Mid and South Essex ICB - 99F,C50,Malignant neoplasm of breast,170,Age-standardised,165.5,141.1,192.8
+E38000168,NHS Mid and South Essex ICB - 99G,C50,Malignant neoplasm of breast,166,Age-standardised,173,147.5,201.6
+E38000239,NHS Norfolk and Waveney ICB - 26A,C50,Malignant neoplasm of breast,1056,Age-standardised,177.4,166.6,188.6
+E38000240,NHS North Central London ICB - 93C,C50,Malignant neoplasm of breast,956,Age-standardised,153,143.3,163.2
+E38000130,NHS North East and North Cumbria ICB - 00L,C50,Malignant neoplasm of breast,320,Age-standardised,162.8,145.2,182
+E38000163,NHS North East and North Cumbria ICB - 00N,C50,Malignant neoplasm of breast,160,Age-standardised,189.1,160.8,220.9
+E38000176,NHS North East and North Cumbria ICB - 00P,C50,Malignant neoplasm of breast,252,Age-standardised,165.4,145.6,187.2
+E38000215,NHS North East and North Cumbria ICB - 01H,C50,Malignant neoplasm of breast,281,Age-standardised,149.3,132.1,168.1
+E38000212,NHS North East and North Cumbria ICB - 13T,C50,Malignant neoplasm of breast,392,Age-standardised,168.5,152.2,186.1
+E38000247,NHS North East and North Cumbria ICB - 16C,C50,Malignant neoplasm of breast,605,Age-standardised,170.6,157.2,184.8
+E38000234,NHS North East and North Cumbria ICB - 84H,C50,Malignant neoplasm of breast,422,Age-standardised,146.4,132.7,161.1
+E38000127,NHS North East and North Cumbria ICB - 99C,C50,Malignant neoplasm of breast,242,Age-standardised,208.9,183.3,237.1
+E38000255,NHS North East London ICB - A3A8R,C50,Malignant neoplasm of breast,1173,Age-standardised,158,148.7,167.6
+E38000256,NHS North West London ICB - W2U3Z,C50,Malignant neoplasm of breast,1354,Age-standardised,151.1,143.1,159.5
+E38000262,NHS Northamptonshire ICB - 78H,C50,Malignant neoplasm of breast,621,Age-standardised,164.7,152,178.2
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C50,Malignant neoplasm of breast,121,Age-standardised,190.4,157.7,227.9
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C50,Malignant neoplasm of breast,875,Age-standardised,172.3,161,184.1
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C50,Malignant neoplasm of breast,488,Age-standardised,173.8,158.6,190.1
+E38000150,NHS Somerset ICB - 11X,C50,Malignant neoplasm of breast,544,Age-standardised,163,149.3,177.5
+E38000244,NHS South East London ICB - 72Q,C50,Malignant neoplasm of breast,1239,Age-standardised,160.5,151.5,170
+E38000245,NHS South West London ICB - 36L,C50,Malignant neoplasm of breast,1131,Age-standardised,171.6,161.5,182.1
+E38000006,NHS South Yorkshire ICB - 02P,C50,Malignant neoplasm of breast,199,Age-standardised,152.8,132.3,175.7
+E38000044,NHS South Yorkshire ICB - 02X,C50,Malignant neoplasm of breast,259,Age-standardised,159.4,140.5,180.1
+E38000141,NHS South Yorkshire ICB - 03L,C50,Malignant neoplasm of breast,241,Age-standardised,173.9,152.5,197.3
+E38000146,NHS South Yorkshire ICB - 03N,C50,Malignant neoplasm of breast,446,Age-standardised,166.4,151.2,182.7
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C50,Malignant neoplasm of breast,107,Age-standardised,144.3,118.2,174.4
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C50,Malignant neoplasm of breast,102,Age-standardised,149.8,122,182
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C50,Malignant neoplasm of breast,193,Age-standardised,155.4,134,179.1
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C50,Malignant neoplasm of breast,194,Age-standardised,153.5,132.4,176.9
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C50,Malignant neoplasm of breast,150,Age-standardised,165.8,140.1,194.8
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C50,Malignant neoplasm of breast,203,Age-standardised,160,138.7,183.6
+E38000086,NHS Suffolk and North East Essex ICB - 06L,C50,Malignant neoplasm of breast,361,Age-standardised,153.4,137.8,170.3
+E38000117,NHS Suffolk and North East Essex ICB - 06T,C50,Malignant neoplasm of breast,381,Age-standardised,201.6,181.7,223.1
+E38000204,NHS Suffolk and North East Essex ICB - 07K,C50,Malignant neoplasm of breast,235,Age-standardised,184.9,161.7,210.4
+E38000264,NHS Surrey Heartlands ICB - 92A,C50,Malignant neoplasm of breast,1052,Age-standardised,194,182.4,206.2
+E38000021,NHS Sussex ICB - 09D,C50,Malignant neoplasm of breast,216,Age-standardised,175.6,152.6,201
+E38000265,NHS Sussex ICB - 70F,C50,Malignant neoplasm of breast,938,Age-standardised,190.1,178,202.8
+E38000235,NHS Sussex ICB - 97R,C50,Malignant neoplasm of breast,628,Age-standardised,182.4,168,197.7
+E38000025,NHS West Yorkshire ICB - 02T,C50,Malignant neoplasm of breast,204,Age-standardised,187,162.2,214.6
+E38000190,NHS West Yorkshire ICB - 03R,C50,Malignant neoplasm of breast,325,Age-standardised,179.4,160.4,200
+E38000225,NHS West Yorkshire ICB - 15F,C50,Malignant neoplasm of breast,663,Age-standardised,187,172.9,201.8
+E38000232,NHS West Yorkshire ICB - 36J,C50,Malignant neoplasm of breast,383,Age-standardised,139,125.4,153.7
+E38000254,NHS West Yorkshire ICB - X2C4Y,C50,Malignant neoplasm of breast,327,Age-standardised,152,135.9,169.4

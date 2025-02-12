@@ -1,0 +1,107 @@
+SICBL23CD,SICBL23NM,Age_at_Diagnosis,Geography_code,Geography_name,ICD10_code,Site_description,Count,Type_of_rate,Rate,LCI,UCI
+E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",All ages,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",C53,Malignant neoplasm of cervix uteri,50,Age-standardised,11.2,8.3,14.8
+E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",All ages,E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",C53,Malignant neoplasm of cervix uteri,26,Age-standardised,5.5,3.6,8.1
+E38000258,NHS Birmingham and Solihull ICB - 15E,All ages,E38000258,NHS Birmingham and Solihull ICB - 15E,C53,Malignant neoplasm of cervix uteri,57,Age-standardised,8.9,6.7,11.5
+E38000259,NHS Black Country ICB - D2P2L,All ages,E38000259,NHS Black Country ICB - D2P2L,C53,Malignant neoplasm of cervix uteri,58,Age-standardised,10,7.6,12.9
+E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",All ages,E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",C53,Malignant neoplasm of cervix uteri,53,Age-standardised,11.1,8.3,14.5
+E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",All ages,E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",C53,Malignant neoplasm of cervix uteri,31,Age-standardised,9.5,6.5,13.5
+E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",All ages,E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",C53,Malignant neoplasm of cervix uteri,12,Age-standardised,4.3,2.2,7.4
+E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",All ages,E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",C53,Malignant neoplasm of cervix uteri,18,Age-standardised,7.5,4.4,11.8
+E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,All ages,E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,C53,Malignant neoplasm of cervix uteri,36,Age-standardised,8.4,5.9,11.6
+E38000068,NHS Cheshire and Merseyside ICB - 01F,All ages,E38000068,NHS Cheshire and Merseyside ICB - 01F,C53,Malignant neoplasm of cervix uteri,8,Age-standardised,,,
+E38000091,NHS Cheshire and Merseyside ICB - 01J,All ages,E38000091,NHS Cheshire and Merseyside ICB - 01J,C53,Malignant neoplasm of cervix uteri,9,Age-standardised,,,
+E38000161,NHS Cheshire and Merseyside ICB - 01T,All ages,E38000161,NHS Cheshire and Merseyside ICB - 01T,C53,Malignant neoplasm of cervix uteri,11,Age-standardised,14.2,7,25.5
+E38000170,NHS Cheshire and Merseyside ICB - 01V,All ages,E38000170,NHS Cheshire and Merseyside ICB - 01V,C53,Malignant neoplasm of cervix uteri,7,Age-standardised,,,
+E38000172,NHS Cheshire and Merseyside ICB - 01X,All ages,E38000172,NHS Cheshire and Merseyside ICB - 01X,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,17.8,10.1,28.9
+E38000194,NHS Cheshire and Merseyside ICB - 02E,All ages,E38000194,NHS Cheshire and Merseyside ICB - 02E,C53,Malignant neoplasm of cervix uteri,17,Age-standardised,16.2,9.4,25.9
+E38000208,NHS Cheshire and Merseyside ICB - 12F,All ages,E38000208,NHS Cheshire and Merseyside ICB - 12F,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,10.4,5.9,17
+E38000233,NHS Cheshire and Merseyside ICB - 27D,All ages,E38000233,NHS Cheshire and Merseyside ICB - 27D,C53,Malignant neoplasm of cervix uteri,57,Age-standardised,16.2,12.3,21.1
+E38000101,NHS Cheshire and Merseyside ICB - 99A,All ages,E38000101,NHS Cheshire and Merseyside ICB - 99A,C53,Malignant neoplasm of cervix uteri,23,Age-standardised,9.7,6.1,14.6
+E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,All ages,E38000089,NHS Cornwall and The Isles Of Scilly ICB - 11N,C53,Malignant neoplasm of cervix uteri,38,Age-standardised,13.2,9.2,18.2
+E38000251,NHS Coventry and Warwickshire ICB - B2M3M,All ages,E38000251,NHS Coventry and Warwickshire ICB - B2M3M,C53,Malignant neoplasm of cervix uteri,42,Age-standardised,9.2,6.7,12.5
+E38000261,NHS Derby and Derbyshire ICB - 15M,All ages,E38000261,NHS Derby and Derbyshire ICB - 15M,C53,Malignant neoplasm of cervix uteri,67,Age-standardised,12.7,9.8,16.1
+E38000230,NHS Devon ICB - 15N,All ages,E38000230,NHS Devon ICB - 15N,C53,Malignant neoplasm of cervix uteri,74,Age-standardised,13.1,10.2,16.4
+E38000045,NHS Dorset ICB - 11J,All ages,E38000045,NHS Dorset ICB - 11J,C53,Malignant neoplasm of cervix uteri,32,Age-standardised,8.4,5.7,11.9
+E38000252,NHS Frimley ICB - D4U1Y,All ages,E38000252,NHS Frimley ICB - D4U1Y,C53,Malignant neoplasm of cervix uteri,34,Age-standardised,9.2,6.4,12.9
+E38000062,NHS Gloucestershire ICB - 11M,All ages,E38000062,NHS Gloucestershire ICB - 11M,C53,Malignant neoplasm of cervix uteri,23,Age-standardised,7.5,4.7,11.2
+E38000016,NHS Greater Manchester ICB - 00T,All ages,E38000016,NHS Greater Manchester ICB - 00T,C53,Malignant neoplasm of cervix uteri,10,Age-standardised,7.2,3.4,13.2
+E38000024,NHS Greater Manchester ICB - 00V,All ages,E38000024,NHS Greater Manchester ICB - 00V,C53,Malignant neoplasm of cervix uteri,15,Age-standardised,15.6,8.7,25.7
+E38000135,NHS Greater Manchester ICB - 00Y,All ages,E38000135,NHS Greater Manchester ICB - 00Y,C53,Malignant neoplasm of cervix uteri,14,Age-standardised,12.5,6.8,20.9
+E38000080,NHS Greater Manchester ICB - 01D,All ages,E38000080,NHS Greater Manchester ICB - 01D,C53,Malignant neoplasm of cervix uteri,21,Age-standardised,19.3,12,29.6
+E38000143,NHS Greater Manchester ICB - 01G,All ages,E38000143,NHS Greater Manchester ICB - 01G,C53,Malignant neoplasm of cervix uteri,29,Age-standardised,22.3,14.9,32.2
+E38000174,NHS Greater Manchester ICB - 01W,All ages,E38000174,NHS Greater Manchester ICB - 01W,C53,Malignant neoplasm of cervix uteri,11,Age-standardised,7.5,3.8,13.5
+E38000263,NHS Greater Manchester ICB - 01Y,All ages,E38000263,NHS Greater Manchester ICB - 01Y,C53,Malignant neoplasm of cervix uteri,10,Age-standardised,8.9,4.3,16.4
+E38000187,NHS Greater Manchester ICB - 02A,All ages,E38000187,NHS Greater Manchester ICB - 02A,C53,Malignant neoplasm of cervix uteri,14,Age-standardised,12,6.6,20.2
+E38000205,NHS Greater Manchester ICB - 02H,All ages,E38000205,NHS Greater Manchester ICB - 02H,C53,Malignant neoplasm of cervix uteri,30,Age-standardised,18.3,12.4,26.2
+E38000217,NHS Greater Manchester ICB - 14L,All ages,E38000217,NHS Greater Manchester ICB - 14L,C53,Malignant neoplasm of cervix uteri,25,Age-standardised,10.3,6.5,15.4
+E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,All ages,E38000137,NHS Hampshire and Isle Of Wight ICB - 10R,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,16.3,9.3,26.6
+E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,All ages,E38000253,NHS Hampshire and Isle Of Wight ICB - D9Y0V,C53,Malignant neoplasm of cervix uteri,83,Age-standardised,10.4,8.3,13
+E38000236,NHS Herefordshire and Worcestershire ICB - 18C,All ages,E38000236,NHS Herefordshire and Worcestershire ICB - 18C,C53,Malignant neoplasm of cervix uteri,28,Age-standardised,7.2,4.7,10.4
+E38000049,NHS Hertfordshire and West Essex ICB - 06K,All ages,E38000049,NHS Hertfordshire and West Essex ICB - 06K,C53,Malignant neoplasm of cervix uteri,26,Age-standardised,8.8,5.8,13
+E38000079,NHS Hertfordshire and West Essex ICB - 06N,All ages,E38000079,NHS Hertfordshire and West Essex ICB - 06N,C53,Malignant neoplasm of cervix uteri,24,Age-standardised,8.2,5.2,12.2
+E38000197,NHS Hertfordshire and West Essex ICB - 07H,All ages,E38000197,NHS Hertfordshire and West Essex ICB - 07H,C53,Malignant neoplasm of cervix uteri,15,Age-standardised,9.6,5.3,15.8
+E38000052,NHS Humber and North Yorkshire ICB - 02Y,All ages,E38000052,NHS Humber and North Yorkshire ICB - 02Y,C53,Malignant neoplasm of cervix uteri,18,Age-standardised,11.1,6.4,17.7
+E38000085,NHS Humber and North Yorkshire ICB - 03F,All ages,E38000085,NHS Humber and North Yorkshire ICB - 03F,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,12.9,7.4,21
+E38000119,NHS Humber and North Yorkshire ICB - 03H,All ages,E38000119,NHS Humber and North Yorkshire ICB - 03H,C53,Malignant neoplasm of cervix uteri,9,Age-standardised,,,
+E38000122,NHS Humber and North Yorkshire ICB - 03K,All ages,E38000122,NHS Humber and North Yorkshire ICB - 03K,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,19.5,11.1,31.7
+E38000188,NHS Humber and North Yorkshire ICB - 03Q,All ages,E38000188,NHS Humber and North Yorkshire ICB - 03Q,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,9.1,5.2,14.8
+E38000241,NHS Humber and North Yorkshire ICB - 42D,All ages,E38000241,NHS Humber and North Yorkshire ICB - 42D,C53,Malignant neoplasm of cervix uteri,27,Age-standardised,12.4,8,18.2
+E38000237,NHS Kent and Medway ICB - 91Q,All ages,E38000237,NHS Kent and Medway ICB - 91Q,C53,Malignant neoplasm of cervix uteri,62,Age-standardised,6.7,5.1,8.6
+E38000014,NHS Lancashire and South Cumbria ICB - 00Q,All ages,E38000014,NHS Lancashire and South Cumbria ICB - 00Q,C53,Malignant neoplasm of cervix uteri,9,Age-standardised,,,
+E38000015,NHS Lancashire and South Cumbria ICB - 00R,All ages,E38000015,NHS Lancashire and South Cumbria ICB - 00R,C53,Malignant neoplasm of cervix uteri,11,Age-standardised,16.9,8.4,30.3
+E38000034,NHS Lancashire and South Cumbria ICB - 00X,All ages,E38000034,NHS Lancashire and South Cumbria ICB - 00X,C53,Malignant neoplasm of cervix uteri,10,Age-standardised,11.1,5.3,20.5
+E38000050,NHS Lancashire and South Cumbria ICB - 01A,All ages,E38000050,NHS Lancashire and South Cumbria ICB - 01A,C53,Malignant neoplasm of cervix uteri,21,Age-standardised,11.1,6.9,17
+E38000227,NHS Lancashire and South Cumbria ICB - 01E,All ages,E38000227,NHS Lancashire and South Cumbria ICB - 01E,C53,Malignant neoplasm of cervix uteri,20,Age-standardised,20.9,12.8,32.3
+E38000228,NHS Lancashire and South Cumbria ICB - 01K,All ages,E38000228,NHS Lancashire and South Cumbria ICB - 01K,C53,Malignant neoplasm of cervix uteri,20,Age-standardised,13.2,8,20.5
+E38000200,NHS Lancashire and South Cumbria ICB - 02G,All ages,E38000200,NHS Lancashire and South Cumbria ICB - 02G,C53,Malignant neoplasm of cervix uteri,8,Age-standardised,,,
+E38000226,NHS Lancashire and South Cumbria ICB - 02M,All ages,E38000226,NHS Lancashire and South Cumbria ICB - 02M,C53,Malignant neoplasm of cervix uteri,9,Age-standardised,,,
+E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",All ages,E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",C53,Malignant neoplasm of cervix uteri,9,Age-standardised,,,
+E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",All ages,E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",C53,Malignant neoplasm of cervix uteri,11,Age-standardised,6.5,3.2,11.7
+E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",All ages,E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",C53,Malignant neoplasm of cervix uteri,19,Age-standardised,9.7,5.8,15.1
+E38000238,NHS Lincolnshire ICB - 71E,All ages,E38000238,NHS Lincolnshire ICB - 71E,C53,Malignant neoplasm of cervix uteri,51,Age-standardised,14.4,10.7,18.9
+E38000106,NHS Mid and South Essex ICB - 06Q,All ages,E38000106,NHS Mid and South Essex ICB - 06Q,C53,Malignant neoplasm of cervix uteri,28,Age-standardised,14.1,9.3,20.4
+E38000185,NHS Mid and South Essex ICB - 07G,All ages,E38000185,NHS Mid and South Essex ICB - 07G,C53,Malignant neoplasm of cervix uteri,6,Age-standardised,,,
+E38000007,NHS Mid and South Essex ICB - 99E,All ages,E38000007,NHS Mid and South Essex ICB - 99E,C53,Malignant neoplasm of cervix uteri,15,Age-standardised,11.1,6.2,18.4
+E38000030,NHS Mid and South Essex ICB - 99F,All ages,E38000030,NHS Mid and South Essex ICB - 99F,C53,Malignant neoplasm of cervix uteri,4,Age-standardised,,,
+E38000168,NHS Mid and South Essex ICB - 99G,All ages,E38000168,NHS Mid and South Essex ICB - 99G,C53,Malignant neoplasm of cervix uteri,5,Age-standardised,,,
+E38000239,NHS Norfolk and Waveney ICB - 26A,All ages,E38000239,NHS Norfolk and Waveney ICB - 26A,C53,Malignant neoplasm of cervix uteri,37,Age-standardised,7.2,5.1,10
+E38000240,NHS North Central London ICB - 93C,All ages,E38000240,NHS North Central London ICB - 93C,C53,Malignant neoplasm of cervix uteri,45,Age-standardised,5.7,4.1,7.6
+E38000130,NHS North East and North Cumbria ICB - 00L,All ages,E38000130,NHS North East and North Cumbria ICB - 00L,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,10.5,5.9,17.2
+E38000163,NHS North East and North Cumbria ICB - 00N,All ages,E38000163,NHS North East and North Cumbria ICB - 00N,C53,Malignant neoplasm of cervix uteri,7,Age-standardised,,,
+E38000176,NHS North East and North Cumbria ICB - 00P,All ages,E38000176,NHS North East and North Cumbria ICB - 00P,C53,Malignant neoplasm of cervix uteri,21,Age-standardised,15,9.3,22.9
+E38000215,NHS North East and North Cumbria ICB - 01H,All ages,E38000215,NHS North East and North Cumbria ICB - 01H,C53,Malignant neoplasm of cervix uteri,20,Age-standardised,12.1,7.3,18.8
+E38000212,NHS North East and North Cumbria ICB - 13T,All ages,E38000212,NHS North East and North Cumbria ICB - 13T,C53,Malignant neoplasm of cervix uteri,21,Age-standardised,9,5.6,13.8
+E38000247,NHS North East and North Cumbria ICB - 16C,All ages,E38000247,NHS North East and North Cumbria ICB - 16C,C53,Malignant neoplasm of cervix uteri,46,Age-standardised,13.7,10,18.3
+E38000234,NHS North East and North Cumbria ICB - 84H,All ages,E38000234,NHS North East and North Cumbria ICB - 84H,C53,Malignant neoplasm of cervix uteri,26,Age-standardised,10.1,6.6,14.8
+E38000127,NHS North East and North Cumbria ICB - 99C,All ages,E38000127,NHS North East and North Cumbria ICB - 99C,C53,Malignant neoplasm of cervix uteri,14,Age-standardised,13.1,7.2,22
+E38000255,NHS North East London ICB - A3A8R,All ages,E38000255,NHS North East London ICB - A3A8R,C53,Malignant neoplasm of cervix uteri,83,Age-standardised,9.4,7.4,11.8
+E38000256,NHS North West London ICB - W2U3Z,All ages,E38000256,NHS North West London ICB - W2U3Z,C53,Malignant neoplasm of cervix uteri,65,Age-standardised,6.4,4.9,8.1
+E38000262,NHS Northamptonshire ICB - 78H,All ages,E38000262,NHS Northamptonshire ICB - 78H,C53,Malignant neoplasm of cervix uteri,35,Age-standardised,9.4,6.5,13
+E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,All ages,E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,C53,Malignant neoplasm of cervix uteri,5,Age-standardised,,,
+E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,All ages,E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,C53,Malignant neoplasm of cervix uteri,68,Age-standardised,13.6,10.6,17.3
+E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",All ages,E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",C53,Malignant neoplasm of cervix uteri,30,Age-standardised,12.2,8.2,17.4
+E38000150,NHS Somerset ICB - 11X,All ages,E38000150,NHS Somerset ICB - 11X,C53,Malignant neoplasm of cervix uteri,38,Age-standardised,13.5,9.4,18.6
+E38000244,NHS South East London ICB - 72Q,All ages,E38000244,NHS South East London ICB - 72Q,C53,Malignant neoplasm of cervix uteri,73,Age-standardised,8.5,6.6,10.8
+E38000245,NHS South West London ICB - 36L,All ages,E38000245,NHS South West London ICB - 36L,C53,Malignant neoplasm of cervix uteri,61,Age-standardised,8.1,6.2,10.5
+E38000006,NHS South Yorkshire ICB - 02P,All ages,E38000006,NHS South Yorkshire ICB - 02P,C53,Malignant neoplasm of cervix uteri,14,Age-standardised,11.4,6.2,19.1
+E38000044,NHS South Yorkshire ICB - 02X,All ages,E38000044,NHS South Yorkshire ICB - 02X,C53,Malignant neoplasm of cervix uteri,14,Age-standardised,8.8,4.8,14.9
+E38000141,NHS South Yorkshire ICB - 03L,All ages,E38000141,NHS South Yorkshire ICB - 03L,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,12.3,7,20
+E38000146,NHS South Yorkshire ICB - 03N,All ages,E38000146,NHS South Yorkshire ICB - 03N,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,5.5,3.2,9
+E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,All ages,E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,C53,Malignant neoplasm of cervix uteri,10,Age-standardised,14.8,7.1,27.1
+E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,All ages,E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,C53,Malignant neoplasm of cervix uteri,3,Age-standardised,,,
+E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,All ages,E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,C53,Malignant neoplasm of cervix uteri,12,Age-standardised,11.7,6,20.5
+E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,All ages,E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,C53,Malignant neoplasm of cervix uteri,13,Age-standardised,11.9,6.3,20.4
+E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,All ages,E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,C53,Malignant neoplasm of cervix uteri,9,Age-standardised,,,
+E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,All ages,E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,C53,Malignant neoplasm of cervix uteri,20,Age-standardised,16,9.8,24.7
+E38000086,NHS Suffolk and North East Essex ICB - 06L,All ages,E38000086,NHS Suffolk and North East Essex ICB - 06L,C53,Malignant neoplasm of cervix uteri,16,Age-standardised,8.2,4.6,13.3
+E38000117,NHS Suffolk and North East Essex ICB - 06T,All ages,E38000117,NHS Suffolk and North East Essex ICB - 06T,C53,Malignant neoplasm of cervix uteri,24,Age-standardised,14.9,9.5,22.2
+E38000204,NHS Suffolk and North East Essex ICB - 07K,All ages,E38000204,NHS Suffolk and North East Essex ICB - 07K,C53,Malignant neoplasm of cervix uteri,11,Age-standardised,9.8,4.8,17.6
+E38000264,NHS Surrey Heartlands ICB - 92A,All ages,E38000246,NHS Surrey Heartlands ICB - 92A,C53,Malignant neoplasm of cervix uteri,37,Age-standardised,7.1,5,9.8
+E38000021,NHS Sussex ICB - 09D,All ages,E38000021,NHS Sussex ICB - 09D,C53,Malignant neoplasm of cervix uteri,15,Age-standardised,9.9,5.5,16.4
+E38000265,NHS Sussex ICB - 70F,All ages,E38000248,NHS Sussex ICB - 70F,C53,Malignant neoplasm of cervix uteri,52,Age-standardised,11.4,8.4,15
+E38000235,NHS Sussex ICB - 97R,All ages,E38000235,NHS Sussex ICB - 97R,C53,Malignant neoplasm of cervix uteri,26,Age-standardised,8.6,5.5,12.7
+E38000025,NHS West Yorkshire ICB - 02T,All ages,E38000025,NHS West Yorkshire ICB - 02T,C53,Malignant neoplasm of cervix uteri,9,Age-standardised,,,
+E38000190,NHS West Yorkshire ICB - 03R,All ages,E38000190,NHS West Yorkshire ICB - 03R,C53,Malignant neoplasm of cervix uteri,22,Age-standardised,12.5,7.8,18.9
+E38000225,NHS West Yorkshire ICB - 15F,All ages,E38000225,NHS West Yorkshire ICB - 15F,C53,Malignant neoplasm of cervix uteri,33,Age-standardised,8.7,6,12.3
+E38000232,NHS West Yorkshire ICB - 36J,All ages,E38000232,NHS West Yorkshire ICB - 36J,C53,Malignant neoplasm of cervix uteri,22,Age-standardised,7.8,4.9,11.8
+E38000254,NHS West Yorkshire ICB - X2C4Y,All ages,E38000254,NHS West Yorkshire ICB - X2C4Y,C53,Malignant neoplasm of cervix uteri,26,Age-standardised,12.2,7.9,17.8
