@@ -1,4 +1,4 @@
-Geography_name,Geography_code,Gender,Year,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
+Geography_name,ICB23NM,Gender,Year,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
 "NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Females,2022,Pancreas,All Pancreas,84,Age-standardised,15.4,12.3,19.1
 "NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Females,2022,Pancreas,All Pancreas,67,Age-standardised,14.7,11.4,18.7
 NHS Birmingham and Solihull Integrated Care Board,E54000055,Females,2022,Pancreas,All Pancreas,86,Age-standardised,14.9,11.9,18.4
