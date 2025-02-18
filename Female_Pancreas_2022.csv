@@ -1,0 +1,43 @@
+Geography_name,Geography_code,Gender,Year,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Females,2022,Pancreas,All Pancreas,84,Age-standardised,15.4,12.3,19.1
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Females,2022,Pancreas,All Pancreas,67,Age-standardised,14.7,11.4,18.7
+NHS Birmingham and Solihull Integrated Care Board,E54000055,Females,2022,Pancreas,All Pancreas,86,Age-standardised,14.9,11.9,18.4
+NHS Black Country Integrated Care Board,E54000062,Females,2022,Pancreas,All Pancreas,92,Age-standardised,15.2,12.2,18.7
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Females,2022,Pancreas,All Pancreas,79,Age-standardised,16,12.6,20
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Females,2022,Pancreas,All Pancreas,156,Age-standardised,16.4,13.9,19.2
+NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Females,2022,Pancreas,All Pancreas,86,Age-standardised,18.6,14.8,23
+NHS Cheshire and Merseyside Integrated Care Board,E54000008,Females,2022,Pancreas,All Pancreas,224,Age-standardised,15.6,13.6,17.8
+NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Females,2022,Pancreas,All Pancreas,66,Age-standardised,16.5,12.7,21
+NHS Coventry and Warwickshire Integrated Care Board,E54000018,Females,2022,Pancreas,All Pancreas,69,Age-standardised,13.9,10.8,17.6
+NHS Derby and Derbyshire Integrated Care Board,E54000058,Females,2022,Pancreas,All Pancreas,91,Age-standardised,14.7,11.8,18
+NHS Devon Integrated Care Board,E54000037,Females,2022,Pancreas,All Pancreas,123,Age-standardised,14.7,12.2,17.6
+NHS Dorset Integrated Care Board,E54000041,Females,2022,Pancreas,All Pancreas,119,Age-standardised,22,18.1,26.4
+NHS Frimley Integrated Care Board,E54000034,Females,2022,Pancreas,All Pancreas,59,Age-standardised,15.9,12.1,20.5
+NHS Gloucestershire Integrated Care Board,E54000043,Females,2022,Pancreas,All Pancreas,65,Age-standardised,16.2,12.5,20.7
+NHS Greater Manchester Integrated Care Board,E54000057,Females,2022,Pancreas,All Pancreas,203,Age-standardised,15.5,13.4,17.8
+NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Females,2022,Pancreas,All Pancreas,157,Age-standardised,14.5,12.3,17
+NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Females,2022,Pancreas,All Pancreas,77,Age-standardised,15,11.8,18.8
+NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Females,2022,Pancreas,All Pancreas,118,Age-standardised,15.2,12.5,18.2
+NHS Humber and North Yorkshire Integrated Care Board,E54000051,Females,2022,Pancreas,All Pancreas,160,Age-standardised,14.8,12.6,17.3
+NHS Kent and Medway Integrated Care Board,E54000032,Females,2022,Pancreas,All Pancreas,178,Age-standardised,17,14.5,19.7
+NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Females,2022,Pancreas,All Pancreas,141,Age-standardised,14,11.8,16.6
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Females,2022,Pancreas,All Pancreas,86,Age-standardised,14.7,11.8,18.2
+NHS Lincolnshire Integrated Care Board,E54000013,Females,2022,Pancreas,All Pancreas,85,Age-standardised,17.5,13.9,21.6
+NHS Mid and South Essex Integrated Care Board,E54000026,Females,2022,Pancreas,All Pancreas,93,Age-standardised,13.8,11.1,16.9
+NHS Norfolk and Waveney Integrated Care Board,E54000022,Females,2022,Pancreas,All Pancreas,132,Age-standardised,18.8,15.7,22.4
+NHS North Central London Integrated Care Board,E54000028,Females,2022,Pancreas,All Pancreas,80,Age-standardised,14.2,11.3,17.8
+NHS North East and North Cumbria Integrated Care Board,E54000050,Females,2022,Pancreas,All Pancreas,310,Age-standardised,17.8,15.9,19.9
+NHS North East London Integrated Care Board,E54000029,Females,2022,Pancreas,All Pancreas,108,Age-standardised,17.5,14.3,21.2
+NHS North West London Integrated Care Board,E54000027,Females,2022,Pancreas,All Pancreas,130,Age-standardised,15.5,12.9,18.4
+NHS Northamptonshire Integrated Care Board,E54000059,Females,2022,Pancreas,All Pancreas,66,Age-standardised,16.6,12.8,21.1
+NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Females,2022,Pancreas,All Pancreas,99,Age-standardised,16.2,13.1,19.7
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Females,2022,Pancreas,All Pancreas,47,Age-standardised,14.7,10.8,19.6
+NHS Somerset Integrated Care Board,E54000038,Females,2022,Pancreas,All Pancreas,67,Age-standardised,16.8,13,21.3
+NHS South East London Integrated Care Board,E54000030,Females,2022,Pancreas,All Pancreas,123,Age-standardised,18.4,15.3,22.1
+NHS South West London Integrated Care Board,E54000031,Females,2022,Pancreas,All Pancreas,91,Age-standardised,14.8,11.9,18.1
+NHS South Yorkshire Integrated Care Board,E54000061,Females,2022,Pancreas,All Pancreas,127,Age-standardised,17.5,14.6,20.9
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Females,2022,Pancreas,All Pancreas,118,Age-standardised,17.6,14.6,21.1
+NHS Suffolk and North East Essex Integrated Care Board,E54000023,Females,2022,Pancreas,All Pancreas,94,Age-standardised,14.2,11.5,17.5
+NHS Surrey Heartlands Integrated Care Board,E54000063,Females,2022,Pancreas,All Pancreas,103,Age-standardised,17.4,14.2,21.2
+NHS Sussex Integrated Care Board,E54000064,Females,2022,Pancreas,All Pancreas,186,Age-standardised,16.9,14.5,19.5
+NHS West Yorkshire Integrated Care Board,E54000054,Females,2022,Pancreas,All Pancreas,188,Age-standardised,15.9,13.7,18.3

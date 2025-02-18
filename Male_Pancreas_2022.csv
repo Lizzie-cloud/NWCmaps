@@ -1,0 +1,43 @@
+Geography_name,Geography_code,Gender,Year,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Males,2022,Pancreas,All Pancreas,97,Age-standardised,21.3,17.3,26
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Males,2022,Pancreas,All Pancreas,74,Age-standardised,18.8,14.7,23.7
+NHS Birmingham and Solihull Integrated Care Board,E54000055,Males,2022,Pancreas,All Pancreas,89,Age-standardised,18.5,14.8,22.8
+NHS Black Country Integrated Care Board,E54000062,Males,2022,Pancreas,All Pancreas,97,Age-standardised,18.8,15.2,22.9
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Males,2022,Pancreas,All Pancreas,67,Age-standardised,16,12.4,20.3
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Males,2022,Pancreas,All Pancreas,142,Age-standardised,18.3,15.4,21.6
+NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Males,2022,Pancreas,All Pancreas,82,Age-standardised,19.9,15.8,24.7
+NHS Cheshire and Merseyside Integrated Care Board,E54000008,Males,2022,Pancreas,All Pancreas,235,Age-standardised,19.3,16.9,22
+NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Males,2022,Pancreas,All Pancreas,56,Age-standardised,16.4,12.4,21.3
+NHS Coventry and Warwickshire Integrated Care Board,E54000018,Males,2022,Pancreas,All Pancreas,89,Age-standardised,21.1,16.9,26.1
+NHS Derby and Derbyshire Integrated Care Board,E54000058,Males,2022,Pancreas,All Pancreas,104,Age-standardised,19.2,15.6,23.3
+NHS Devon Integrated Care Board,E54000037,Males,2022,Pancreas,All Pancreas,149,Age-standardised,21.7,18.3,25.5
+NHS Dorset Integrated Care Board,E54000041,Males,2022,Pancreas,All Pancreas,84,Age-standardised,17.9,14.2,22.2
+NHS Frimley Integrated Care Board,E54000034,Males,2022,Pancreas,All Pancreas,61,Age-standardised,19.5,14.9,25.1
+NHS Gloucestershire Integrated Care Board,E54000043,Males,2022,Pancreas,All Pancreas,63,Age-standardised,18.7,14.3,23.9
+NHS Greater Manchester Integrated Care Board,E54000057,Males,2022,Pancreas,All Pancreas,216,Age-standardised,19.1,16.6,21.9
+NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Males,2022,Pancreas,All Pancreas,197,Age-standardised,21.7,18.7,24.9
+NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Males,2022,Pancreas,All Pancreas,88,Age-standardised,20,16,24.6
+NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Males,2022,Pancreas,All Pancreas,130,Age-standardised,20.2,16.8,24
+NHS Humber and North Yorkshire Integrated Care Board,E54000051,Males,2022,Pancreas,All Pancreas,209,Age-standardised,23,19.9,26.3
+NHS Kent and Medway Integrated Care Board,E54000032,Males,2022,Pancreas,All Pancreas,195,Age-standardised,22.3,19.2,25.6
+NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Males,2022,Pancreas,All Pancreas,153,Age-standardised,17.5,14.8,20.5
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Males,2022,Pancreas,All Pancreas,93,Age-standardised,18.9,15.2,23.2
+NHS Lincolnshire Integrated Care Board,E54000013,Males,2022,Pancreas,All Pancreas,114,Age-standardised,25.8,21.2,31
+NHS Mid and South Essex Integrated Care Board,E54000026,Males,2022,Pancreas,All Pancreas,100,Age-standardised,17.8,14.5,21.7
+NHS Norfolk and Waveney Integrated Care Board,E54000022,Males,2022,Pancreas,All Pancreas,124,Age-standardised,20.8,17.3,24.9
+NHS North Central London Integrated Care Board,E54000028,Males,2022,Pancreas,All Pancreas,106,Age-standardised,23.9,19.5,29
+NHS North East and North Cumbria Integrated Care Board,E54000050,Males,2022,Pancreas,All Pancreas,322,Age-standardised,21.7,19.4,24.3
+NHS North East London Integrated Care Board,E54000029,Males,2022,Pancreas,All Pancreas,95,Age-standardised,18.5,14.9,22.8
+NHS North West London Integrated Care Board,E54000027,Males,2022,Pancreas,All Pancreas,145,Age-standardised,21.2,17.8,25
+NHS Northamptonshire Integrated Care Board,E54000059,Males,2022,Pancreas,All Pancreas,69,Age-standardised,20.4,15.8,25.9
+NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Males,2022,Pancreas,All Pancreas,97,Age-standardised,18.5,15,22.6
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Males,2022,Pancreas,All Pancreas,39,Age-standardised,13.8,9.8,18.9
+NHS Somerset Integrated Care Board,E54000038,Males,2022,Pancreas,All Pancreas,75,Age-standardised,22.4,17.6,28.2
+NHS South East London Integrated Care Board,E54000030,Males,2022,Pancreas,All Pancreas,127,Age-standardised,21.8,18,26
+NHS South West London Integrated Care Board,E54000031,Males,2022,Pancreas,All Pancreas,91,Age-standardised,17.8,14.3,22
+NHS South Yorkshire Integrated Care Board,E54000061,Males,2022,Pancreas,All Pancreas,140,Age-standardised,22.2,18.7,26.2
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Males,2022,Pancreas,All Pancreas,97,Age-standardised,17.2,13.9,21.1
+NHS Suffolk and North East Essex Integrated Care Board,E54000023,Males,2022,Pancreas,All Pancreas,103,Age-standardised,19.7,16,23.9
+NHS Surrey Heartlands Integrated Care Board,E54000063,Males,2022,Pancreas,All Pancreas,106,Age-standardised,21.6,17.7,26.2
+NHS Sussex Integrated Care Board,E54000064,Males,2022,Pancreas,All Pancreas,178,Age-standardised,19.6,16.8,22.8
+NHS West Yorkshire Integrated Care Board,E54000054,Males,2022,Pancreas,All Pancreas,196,Age-standardised,19.8,17.1,22.9
