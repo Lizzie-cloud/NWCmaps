@@ -1,0 +1,43 @@
+Geography_name,icb23cd,Gender,Year,Main_group,Detailed_group,type_of_rate,Rate,LCI,UCI,Count
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Females,2021,Lung,All Lung,Age-standardised,52.2,46.2,58.8,273
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Females,2021,Lung,All Lung,Age-standardised,62.7,55.4,70.6,273
+NHS Birmingham and Solihull Integrated Care Board,E54000055,Females,2021,Lung,All Lung,Age-standardised,71.3,64.5,78.7,405
+NHS Black Country Integrated Care Board,E54000062,Females,2021,Lung,All Lung,Age-standardised,64.9,58.5,71.7,381
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Females,2021,Lung,All Lung,Age-standardised,66,58.8,73.9,309
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Females,2021,Lung,All Lung,Age-standardised,55.1,50.3,60.2,493
+NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Females,2021,Lung,All Lung,Age-standardised,52.9,46.4,60.1,238
+NHS Cheshire and Merseyside Integrated Care Board,E54000008,Females,2021,Lung,All Lung,Age-standardised,86.1,81.4,91.1,1221
+NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Females,2021,Lung,All Lung,Age-standardised,57.4,50.1,65.5,224
+NHS Coventry and Warwickshire Integrated Care Board,E54000018,Females,2021,Lung,All Lung,Age-standardised,70.6,63.2,78.5,340
+NHS Derby and Derbyshire Integrated Care Board,E54000058,Females,2021,Lung,All Lung,Age-standardised,65.8,59.4,72.7,392
+NHS Devon Integrated Care Board,E54000037,Females,2021,Lung,All Lung,Age-standardised,61.6,56.2,67.3,493
+NHS Dorset Integrated Care Board,E54000041,Females,2021,Lung,All Lung,Age-standardised,51,45,57.5,272
+NHS Frimley Integrated Care Board,E54000034,Females,2021,Lung,All Lung,Age-standardised,55.1,47.5,63.5,192
+NHS Gloucestershire Integrated Care Board,E54000043,Females,2021,Lung,All Lung,Age-standardised,43.8,37.4,51,168
+NHS Greater Manchester Integrated Care Board,E54000057,Females,2021,Lung,All Lung,Age-standardised,100.6,95.2,106.2,1298
+NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Females,2021,Lung,All Lung,Age-standardised,61.4,56.8,66.4,650
+NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Females,2021,Lung,All Lung,Age-standardised,48.3,42.4,54.8,244
+NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Females,2021,Lung,All Lung,Age-standardised,57.1,51.8,62.9,429
+NHS Humber and North Yorkshire Integrated Care Board,E54000051,Females,2021,Lung,All Lung,Age-standardised,76.2,71,81.8,786
+NHS Kent and Medway Integrated Care Board,E54000032,Females,2021,Lung,All Lung,Age-standardised,63.1,58.3,68.2,643
+NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Females,2021,Lung,All Lung,Age-standardised,77.7,72.2,83.4,759
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Females,2021,Lung,All Lung,Age-standardised,61.7,55.3,68.5,346
+NHS Lincolnshire Integrated Care Board,E54000013,Females,2021,Lung,All Lung,Age-standardised,66.4,59.3,74.1,324
+NHS Mid and South Essex Integrated Care Board,E54000026,Females,2021,Lung,All Lung,Age-standardised,61.5,55.6,67.8,402
+NHS Norfolk and Waveney Integrated Care Board,E54000022,Females,2021,Lung,All Lung,Age-standardised,57.1,51.5,63.1,389
+NHS North Central London Integrated Care Board,E54000028,Females,2021,Lung,All Lung,Age-standardised,55.4,49.2,62.1,297
+NHS North East and North Cumbria Integrated Care Board,E54000050,Females,2021,Lung,All Lung,Age-standardised,91.5,87,96.2,1562
+NHS North East London Integrated Care Board,E54000029,Females,2021,Lung,All Lung,Age-standardised,62.3,56.1,69,380
+NHS North West London Integrated Care Board,E54000027,Females,2021,Lung,All Lung,Age-standardised,54.9,49.9,60.3,441
+NHS Northamptonshire Integrated Care Board,E54000059,Females,2021,Lung,All Lung,Age-standardised,70.7,62.6,79.7,272
+NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Females,2021,Lung,All Lung,Age-standardised,73.3,66.5,80.6,432
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Females,2021,Lung,All Lung,Age-standardised,47.9,40.5,56.3,149
+NHS Somerset Integrated Care Board,E54000038,Females,2021,Lung,All Lung,Age-standardised,49.8,42.9,57.5,190
+NHS South East London Integrated Care Board,E54000030,Females,2021,Lung,All Lung,Age-standardised,68.9,62.6,75.7,448
+NHS South West London Integrated Care Board,E54000031,Females,2021,Lung,All Lung,Age-standardised,57.6,51.7,64,348
+NHS South Yorkshire Integrated Care Board,E54000061,Females,2021,Lung,All Lung,Age-standardised,85.1,78.4,92.1,606
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Females,2021,Lung,All Lung,Age-standardised,67.3,61.1,73.9,436
+NHS Suffolk and North East Essex Integrated Care Board,E54000023,Females,2021,Lung,All Lung,Age-standardised,54.4,48.6,60.6,332
+NHS Surrey Heartlands Integrated Care Board,E54000063,Females,2021,Lung,All Lung,Age-standardised,47.5,42,53.6,271
+NHS Sussex Integrated Care Board,E54000064,Females,2021,Lung,All Lung,Age-standardised,51,46.8,55.6,543
+NHS West Yorkshire Integrated Care Board,E54000054,Females,2021,Lung,All Lung,Age-standardised,83.9,78.7,89.4,963

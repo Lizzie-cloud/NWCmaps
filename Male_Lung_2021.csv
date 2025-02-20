@@ -1,0 +1,43 @@
+Geography_name,icb23cd,Gender,Year,Main_group,Detailed_group,type_of_rate,Rate,LCI,UCI,Count
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Males,2021,Lung,All Lung,Age-standardised,63.8,56.6,71.7,286
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Males,2021,Lung,All Lung,Age-standardised,77.4,68.5,87.1,284
+NHS Birmingham and Solihull Integrated Care Board,E54000055,Males,2021,Lung,All Lung,Age-standardised,98.7,89.9,108.2,466
+NHS Black Country Integrated Care Board,E54000062,Males,2021,Lung,All Lung,Age-standardised,80,72.3,88.4,399
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Males,2021,Lung,All Lung,Age-standardised,91.1,81.9,100.9,366
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Males,2021,Lung,All Lung,Age-standardised,66.9,61.2,73,510
+NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Males,2021,Lung,All Lung,Age-standardised,64.7,56.9,73.3,251
+NHS Cheshire and Merseyside Integrated Care Board,E54000008,Males,2021,Lung,All Lung,Age-standardised,97.9,92.3,103.7,1169
+NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Males,2021,Lung,All Lung,Age-standardised,72.8,63.9,82.5,247
+NHS Coventry and Warwickshire Integrated Care Board,E54000018,Males,2021,Lung,All Lung,Age-standardised,72.9,65,81.6,308
+NHS Derby and Derbyshire Integrated Care Board,E54000058,Males,2021,Lung,All Lung,Age-standardised,78,70.6,85.9,411
+NHS Devon Integrated Care Board,E54000037,Males,2021,Lung,All Lung,Age-standardised,74.1,67.8,80.9,511
+NHS Dorset Integrated Care Board,E54000041,Males,2021,Lung,All Lung,Age-standardised,70.3,62.8,78.4,325
+NHS Frimley Integrated Care Board,E54000034,Males,2021,Lung,All Lung,Age-standardised,69.9,60.6,80.3,206
+NHS Gloucestershire Integrated Care Board,E54000043,Males,2021,Lung,All Lung,Age-standardised,49.3,42,57.4,164
+NHS Greater Manchester Integrated Care Board,E54000057,Males,2021,Lung,All Lung,Age-standardised,114.5,108.1,121.1,1258
+NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Males,2021,Lung,All Lung,Age-standardised,87.2,81.2,93.5,790
+NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Males,2021,Lung,All Lung,Age-standardised,63.4,56.2,71.3,281
+NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Males,2021,Lung,All Lung,Age-standardised,66.3,60,73,413
+NHS Humber and North Yorkshire Integrated Care Board,E54000051,Males,2021,Lung,All Lung,Age-standardised,84.2,78.3,90.5,761
+NHS Kent and Medway Integrated Care Board,E54000032,Males,2021,Lung,All Lung,Age-standardised,77.4,71.6,83.5,671
+NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Males,2021,Lung,All Lung,Age-standardised,92.5,86.1,99.3,783
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Males,2021,Lung,All Lung,Age-standardised,71.9,64.5,79.9,348
+NHS Lincolnshire Integrated Care Board,E54000013,Males,2021,Lung,All Lung,Age-standardised,75.6,67.5,84.4,325
+NHS Mid and South Essex Integrated Care Board,E54000026,Males,2021,Lung,All Lung,Age-standardised,75.8,68.6,83.5,414
+NHS Norfolk and Waveney Integrated Care Board,E54000022,Males,2021,Lung,All Lung,Age-standardised,74.7,67.9,81.9,456
+NHS North Central London Integrated Care Board,E54000028,Males,2021,Lung,All Lung,Age-standardised,91.8,82.8,101.4,398
+NHS North East and North Cumbria Integrated Care Board,E54000050,Males,2021,Lung,All Lung,Age-standardised,101.1,95.9,106.4,1473
+NHS North East London Integrated Care Board,E54000029,Males,2021,Lung,All Lung,Age-standardised,105.9,96.8,115.6,533
+NHS North West London Integrated Care Board,E54000027,Males,2021,Lung,All Lung,Age-standardised,79,72.2,86.2,523
+NHS Northamptonshire Integrated Care Board,E54000059,Males,2021,Lung,All Lung,Age-standardised,86.1,76.4,96.8,290
+NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Males,2021,Lung,All Lung,Age-standardised,90.1,82,98.8,460
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Males,2021,Lung,All Lung,Age-standardised,66.8,57.4,77.3,183
+NHS Somerset Integrated Care Board,E54000038,Males,2021,Lung,All Lung,Age-standardised,61.2,53,70.2,204
+NHS South East London Integrated Care Board,E54000030,Males,2021,Lung,All Lung,Age-standardised,84.7,76.8,93.2,447
+NHS South West London Integrated Care Board,E54000031,Males,2021,Lung,All Lung,Age-standardised,71.4,63.9,79.4,345
+NHS South Yorkshire Integrated Care Board,E54000061,Males,2021,Lung,All Lung,Age-standardised,96.8,89.1,105,592
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Males,2021,Lung,All Lung,Age-standardised,78.2,71.1,85.8,451
+NHS Suffolk and North East Essex Integrated Care Board,E54000023,Males,2021,Lung,All Lung,Age-standardised,65.5,58.7,72.8,347
+NHS Surrey Heartlands Integrated Care Board,E54000063,Males,2021,Lung,All Lung,Age-standardised,66.7,59.5,74.4,319
+NHS Sussex Integrated Care Board,E54000064,Males,2021,Lung,All Lung,Age-standardised,70.3,64.9,76.1,626
+NHS West Yorkshire Integrated Care Board,E54000054,Males,2021,Lung,All Lung,Age-standardised,101.3,95,107.9,981
