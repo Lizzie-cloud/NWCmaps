@@ -1,0 +1,43 @@
+Geography_name,icb23cd,Gender,Year,Main_group,Detailed_group,type_of_rate,Rate,UCI,LCI,Count
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Females,2021,Ovary,All Ovary,Age-standardised,24.1,28.9,20,122
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Females,2021,Ovary,All Ovary,Age-standardised,24.1,29.2,19.8,109
+NHS Birmingham and Solihull Integrated Care Board,E54000055,Females,2021,Ovary,All Ovary,Age-standardised,21.9,26.1,18.3,128
+NHS Black Country Integrated Care Board,E54000062,Females,2021,Ovary,All Ovary,Age-standardised,26.1,30.6,22.1,151
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Females,2021,Ovary,All Ovary,Age-standardised,25.1,30.1,20.7,117
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Females,2021,Ovary,All Ovary,Age-standardised,22.8,26.2,19.8,202
+NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Females,2021,Ovary,All Ovary,Age-standardised,26.4,31.6,21.8,118
+NHS Cheshire and Merseyside Integrated Care Board,E54000008,Females,2021,Ovary,All Ovary,Age-standardised,26.5,29.4,23.8,362
+NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Females,2021,Ovary,All Ovary,Age-standardised,25.1,31,20.1,90
+NHS Coventry and Warwickshire Integrated Care Board,E54000018,Females,2021,Ovary,All Ovary,Age-standardised,24.8,29.8,20.5,118
+NHS Derby and Derbyshire Integrated Care Board,E54000058,Females,2021,Ovary,All Ovary,Age-standardised,24,28.4,20.2,140
+NHS Devon Integrated Care Board,E54000037,Females,2021,Ovary,All Ovary,Age-standardised,24.7,28.7,21.2,179
+NHS Dorset Integrated Care Board,E54000041,Females,2021,Ovary,All Ovary,Age-standardised,27,32.1,22.4,132
+NHS Frimley Integrated Care Board,E54000034,Females,2021,Ovary,All Ovary,Age-standardised,26.4,32.2,21.3,95
+NHS Gloucestershire Integrated Care Board,E54000043,Females,2021,Ovary,All Ovary,Age-standardised,22.8,28.3,18.2,84
+NHS Greater Manchester Integrated Care Board,E54000057,Females,2021,Ovary,All Ovary,Age-standardised,24.7,27.6,22.1,325
+NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Females,2021,Ovary,All Ovary,Age-standardised,26.8,30.2,23.7,269
+NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Females,2021,Ovary,All Ovary,Age-standardised,22.5,27.3,18.4,107
+NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Females,2021,Ovary,All Ovary,Age-standardised,22.7,26.4,19.5,173
+NHS Humber and North Yorkshire Integrated Care Board,E54000051,Females,2021,Ovary,All Ovary,Age-standardised,27,30.5,23.8,264
+NHS Kent and Medway Integrated Care Board,E54000032,Females,2021,Ovary,All Ovary,Age-standardised,24.9,28.2,21.8,244
+NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Females,2021,Ovary,All Ovary,Age-standardised,25.9,29.4,22.7,238
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Females,2021,Ovary,All Ovary,Age-standardised,25.2,29.7,21.2,140
+NHS Lincolnshire Integrated Care Board,E54000013,Females,2021,Ovary,All Ovary,Age-standardised,23,27.9,18.7,105
+NHS Mid and South Essex Integrated Care Board,E54000026,Females,2021,Ovary,All Ovary,Age-standardised,22,26,18.5,140
+NHS Norfolk and Waveney Integrated Care Board,E54000022,Females,2021,Ovary,All Ovary,Age-standardised,27.8,32.3,23.7,171
+NHS North Central London Integrated Care Board,E54000028,Females,2021,Ovary,All Ovary,Age-standardised,23.2,27.4,19.4,139
+NHS North East and North Cumbria Integrated Care Board,E54000050,Females,2021,Ovary,All Ovary,Age-standardised,27,29.6,24.5,445
+NHS North East London Integrated Care Board,E54000029,Females,2021,Ovary,All Ovary,Age-standardised,24.8,28.8,21.1,178
+NHS North West London Integrated Care Board,E54000027,Females,2021,Ovary,All Ovary,Age-standardised,27.7,31.4,24.3,250
+NHS Northamptonshire Integrated Care Board,E54000059,Females,2021,Ovary,All Ovary,Age-standardised,28.7,34.6,23.7,112
+NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Females,2021,Ovary,All Ovary,Age-standardised,25.8,30.3,21.8,148
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Females,2021,Ovary,All Ovary,Age-standardised,24.1,30.4,18.8,72
+NHS Somerset Integrated Care Board,E54000038,Females,2021,Ovary,All Ovary,Age-standardised,22.3,28,17.5,78
+NHS South East London Integrated Care Board,E54000030,Females,2021,Ovary,All Ovary,Age-standardised,20.4,23.9,17.2,152
+NHS South West London Integrated Care Board,E54000031,Females,2021,Ovary,All Ovary,Age-standardised,23,27,19.4,151
+NHS South Yorkshire Integrated Care Board,E54000061,Females,2021,Ovary,All Ovary,Age-standardised,27.8,32,24,195
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Females,2021,Ovary,All Ovary,Age-standardised,22,26,18.5,139
+NHS Suffolk and North East Essex Integrated Care Board,E54000023,Females,2021,Ovary,All Ovary,Age-standardised,24.2,28.7,20.3,135
+NHS Surrey Heartlands Integrated Care Board,E54000063,Females,2021,Ovary,All Ovary,Age-standardised,26.7,31.4,22.6,150
+NHS Sussex Integrated Care Board,E54000064,Females,2021,Ovary,All Ovary,Age-standardised,24,27.3,21,237
+NHS West Yorkshire Integrated Care Board,E54000054,Females,2021,Ovary,All Ovary,Age-standardised,23.9,26.9,21.2,277
