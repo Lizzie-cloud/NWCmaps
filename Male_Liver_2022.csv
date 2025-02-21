@@ -1,4 +1,4 @@
-Geography_name,Geography_code,Gender,Year,Main_group,Detailed_group,type_of_rate,Rate,LCI,UCI,Count
+Geography_name,icb23cd,Gender,Year,Main_group,Detailed_group,type_of_rate,Rate,LCI,UCI,Count
 "NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Males,2022,Liver and biliary tract,All Liver and biliary tract,Age-standardised,17.3,13.8,21.6,81
 "NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Males,2022,Liver and biliary tract,All Liver and biliary tract,Age-standardised,16.9,13,21.7,64
 NHS Birmingham and Solihull Integrated Care Board,E54000055,Males,2022,Liver and biliary tract,All Liver and biliary tract,Age-standardised,18.6,15,22.9,91
