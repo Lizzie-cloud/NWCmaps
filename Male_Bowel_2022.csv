@@ -1,0 +1,43 @@
+icb23cd,Count,Gender,Year,Geography_name,Main_group,Detailed_group,type_of_rate,Rate,LCI,UCI
+E54000008,1137,Males,2022,NHS Cheshire and Merseyside Integrated Care Board,Bowel,All Bowel,Age-standardised,93.7,88.3,99.3
+E54000010,557,Males,2022,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,Bowel,All Bowel,Age-standardised,96.2,88.3,104.6
+E54000011,234,Males,2022,"NHS Shropshire, Telford and Wrekin Integrated Care Board",Bowel,All Bowel,Age-standardised,85.5,74.8,97.3
+E54000013,383,Males,2022,NHS Lincolnshire Integrated Care Board,Bowel,All Bowel,Age-standardised,88.7,79.9,98.1
+E54000015,350,Males,2022,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",Bowel,All Bowel,Age-standardised,70,62.8,77.8
+E54000018,354,Males,2022,NHS Coventry and Warwickshire Integrated Care Board,Bowel,All Bowel,Age-standardised,82.5,74.1,91.6
+E54000019,425,Males,2022,NHS Herefordshire and Worcestershire Integrated Care Board,Bowel,All Bowel,Age-standardised,95.9,86.9,105.5
+E54000022,502,Males,2022,NHS Norfolk and Waveney Integrated Care Board,Bowel,All Bowel,Age-standardised,83.3,76.1,91
+E54000023,439,Males,2022,NHS Suffolk and North East Essex Integrated Care Board,Bowel,All Bowel,Age-standardised,82.5,74.9,90.7
+E54000024,334,Males,2022,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",Bowel,All Bowel,Age-standardised,85.6,76.5,95.4
+E54000025,518,Males,2022,NHS Hertfordshire and West Essex Integrated Care Board,Bowel,All Bowel,Age-standardised,79.2,72.5,86.3
+E54000026,458,Males,2022,NHS Mid and South Essex Integrated Care Board,Bowel,All Bowel,Age-standardised,81.9,74.5,89.8
+E54000027,537,Males,2022,NHS North West London Integrated Care Board,Bowel,All Bowel,Age-standardised,75.9,69.4,82.8
+E54000028,346,Males,2022,NHS North Central London Integrated Care Board,Bowel,All Bowel,Age-standardised,76,67.9,84.6
+E54000029,428,Males,2022,NHS North East London Integrated Care Board,Bowel,All Bowel,Age-standardised,77.4,69.9,85.5
+E54000030,482,Males,2022,NHS South East London Integrated Care Board,Bowel,All Bowel,Age-standardised,86.1,78.4,94.5
+E54000031,416,Males,2022,NHS South West London Integrated Care Board,Bowel,All Bowel,Age-standardised,78.7,71.2,86.9
+E54000032,780,Males,2022,NHS Kent and Medway Integrated Care Board,Bowel,All Bowel,Age-standardised,88.2,82.1,94.7
+E54000034,271,Males,2022,NHS Frimley Integrated Care Board,Bowel,All Bowel,Age-standardised,86.3,76.3,97.3
+E54000036,301,Males,2022,NHS Cornwall and the Isles of Scilly Integrated Care Board,Bowel,All Bowel,Age-standardised,91.6,81.4,102.7
+E54000037,595,Males,2022,NHS Devon Integrated Care Board,Bowel,All Bowel,Age-standardised,86.8,79.9,94.1
+E54000038,271,Males,2022,NHS Somerset Integrated Care Board,Bowel,All Bowel,Age-standardised,82.5,72.9,93.1
+E54000039,313,Males,2022,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",Bowel,All Bowel,Age-standardised,76.2,67.9,85.2
+E54000040,424,Males,2022,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",Bowel,All Bowel,Age-standardised,92,83.4,101.2
+E54000041,385,Males,2022,NHS Dorset Integrated Care Board,Bowel,All Bowel,Age-standardised,83,74.8,91.8
+E54000042,768,Males,2022,NHS Hampshire and Isle of Wight Integrated Care Board,Bowel,All Bowel,Age-standardised,83.7,77.9,89.9
+E54000043,311,Males,2022,NHS Gloucestershire Integrated Care Board,Bowel,All Bowel,Age-standardised,93.1,82.9,104.1
+E54000044,671,Males,2022,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Bowel,All Bowel,Age-standardised,84.7,78.4,91.4
+E54000048,813,Males,2022,NHS Lancashire and South Cumbria Integrated Care Board,Bowel,All Bowel,Age-standardised,94.2,87.8,101
+E54000050,1368,Males,2022,NHS North East and North Cumbria Integrated Care Board,Bowel,All Bowel,Age-standardised,91.9,87,96.9
+E54000051,789,Males,2022,NHS Humber and North Yorkshire Integrated Care Board,Bowel,All Bowel,Age-standardised,86.4,80.4,92.7
+E54000054,829,Males,2022,NHS West Yorkshire Integrated Care Board,Bowel,All Bowel,Age-standardised,82.9,77.3,88.9
+E54000055,450,Males,2022,NHS Birmingham and Solihull Integrated Care Board,Bowel,All Bowel,Age-standardised,92,83.6,101
+E54000056,346,Males,2022,NHS Cambridgeshire and Peterborough Integrated Care Board,Bowel,All Bowel,Age-standardised,85.4,76.6,94.9
+E54000057,1023,Males,2022,NHS Greater Manchester Integrated Care Board,Bowel,All Bowel,Age-standardised,90,84.5,95.8
+E54000058,451,Males,2022,NHS Derby and Derbyshire Integrated Care Board,Bowel,All Bowel,Age-standardised,84.1,76.4,92.3
+E54000059,313,Males,2022,NHS Northamptonshire Integrated Care Board,Bowel,All Bowel,Age-standardised,88.7,79.1,99.2
+E54000060,460,Males,2022,NHS Nottingham and Nottinghamshire Integrated Care Board,Bowel,All Bowel,Age-standardised,87.3,79.5,95.7
+E54000061,571,Males,2022,NHS South Yorkshire Integrated Care Board,Bowel,All Bowel,Age-standardised,92.1,84.6,100.1
+E54000062,409,Males,2022,NHS Black Country Integrated Care Board,Bowel,All Bowel,Age-standardised,79.6,72,87.8
+E54000063,407,Males,2022,NHS Surrey Heartlands Integrated Care Board,Bowel,All Bowel,Age-standardised,83,75.1,91.5
+E54000064,817,Males,2022,NHS Sussex Integrated Care Board,Bowel,All Bowel,Age-standardised,91.5,85.3,98
