@@ -1,0 +1,43 @@
+Geography_name,Year,icb23cd,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI,Gender
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2021,E54000040,Brain,All Brain,102,Age-standardised,21.9,17.9,26.6,Males
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2021,E54000024,Brain,All Brain,62,Age-standardised,14,10.7,18,Males
+NHS Birmingham and Solihull Integrated Care Board,2021,E54000055,Brain,All Brain,107,Age-standardised,20,16.3,24.2,Males
+NHS Black Country Integrated Care Board,2021,E54000062,Brain,All Brain,83,Age-standardised,15.7,12.4,19.5,Males
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2021,E54000039,Brain,All Brain,87,Age-standardised,20.2,16.2,25,Males
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2021,E54000044,Brain,All Brain,162,Age-standardised,19.9,16.9,23.2,Males
+NHS Cambridgeshire and Peterborough Integrated Care Board,2021,E54000056,Brain,All Brain,63,Age-standardised,15.2,11.7,19.5,Males
+NHS Cheshire and Merseyside Integrated Care Board,2021,E54000008,Brain,All Brain,221,Age-standardised,18.1,15.8,20.6,Males
+NHS Cornwall and the Isles of Scilly Integrated Care Board,2021,E54000036,Brain,All Brain,83,Age-standardised,26.5,21,32.9,Males
+NHS Coventry and Warwickshire Integrated Care Board,2021,E54000018,Brain,All Brain,89,Age-standardised,20.4,16.4,25.2,Males
+NHS Derby and Derbyshire Integrated Care Board,2021,E54000058,Brain,All Brain,77,Age-standardised,15,11.8,18.8,Males
+NHS Devon Integrated Care Board,2021,E54000037,Brain,All Brain,146,Age-standardised,22.5,18.9,26.4,Males
+NHS Dorset Integrated Care Board,2021,E54000041,Brain,All Brain,81,Age-standardised,19.2,15.2,23.9,Males
+NHS Frimley Integrated Care Board,2021,E54000034,Brain,All Brain,65,Age-standardised,19.3,14.8,24.7,Males
+NHS Gloucestershire Integrated Care Board,2021,E54000043,Brain,All Brain,66,Age-standardised,20.1,15.5,25.6,Males
+NHS Greater Manchester Integrated Care Board,2021,E54000057,Brain,All Brain,219,Age-standardised,18.4,16,21.1,Males
+NHS Hampshire and Isle of Wight Integrated Care Board,2021,E54000042,Brain,All Brain,199,Age-standardised,22.4,19.4,25.7,Males
+NHS Herefordshire and Worcestershire Integrated Care Board,2021,E54000019,Brain,All Brain,83,Age-standardised,20.3,16.1,25.2,Males
+NHS Hertfordshire and West Essex Integrated Care Board,2021,E54000025,Brain,All Brain,126,Age-standardised,18.3,15.2,21.8,Males
+NHS Humber and North Yorkshire Integrated Care Board,2021,E54000051,Brain,All Brain,253,Age-standardised,29,25.5,32.9,Males
+NHS Kent and Medway Integrated Care Board,2021,E54000032,Brain,All Brain,108,Age-standardised,12.3,10.1,14.9,Males
+NHS Lancashire and South Cumbria Integrated Care Board,2021,E54000048,Brain,All Brain,104,Age-standardised,12.3,10,14.9,Males
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2021,E54000015,Brain,All Brain,82,Age-standardised,15.9,12.6,19.8,Males
+NHS Lincolnshire Integrated Care Board,2021,E54000013,Brain,All Brain,82,Age-standardised,20.3,16.1,25.3,Males
+NHS Mid and South Essex Integrated Care Board,2021,E54000026,Brain,All Brain,109,Age-standardised,19.3,15.8,23.3,Males
+NHS Norfolk and Waveney Integrated Care Board,2021,E54000022,Brain,All Brain,94,Age-standardised,17,13.7,20.8,Males
+NHS North Central London Integrated Care Board,2021,E54000028,Brain,All Brain,83,Age-standardised,15.7,12.4,19.6,Males
+NHS North East and North Cumbria Integrated Care Board,2021,E54000050,Brain,All Brain,265,Age-standardised,18.4,16.2,20.8,Males
+NHS North East London Integrated Care Board,2021,E54000029,Brain,All Brain,115,Age-standardised,17.4,14.1,21.2,Males
+NHS North West London Integrated Care Board,2021,E54000027,Brain,All Brain,139,Age-standardised,16.6,13.9,19.8,Males
+NHS Northamptonshire Integrated Care Board,2021,E54000059,Brain,All Brain,66,Age-standardised,18.5,14.3,23.5,Males
+NHS Nottingham and Nottinghamshire Integrated Care Board,2021,E54000060,Brain,All Brain,89,Age-standardised,16.9,13.6,20.9,Males
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",2021,E54000011,Brain,All Brain,60,Age-standardised,22.7,17.3,29.2,Males
+NHS Somerset Integrated Care Board,2021,E54000038,Brain,All Brain,66,Age-standardised,22.2,17.1,28.3,Males
+NHS South East London Integrated Care Board,2021,E54000030,Brain,All Brain,95,Age-standardised,14,11.2,17.3,Males
+NHS South West London Integrated Care Board,2021,E54000031,Brain,All Brain,86,Age-standardised,15.1,12,18.8,Males
+NHS South Yorkshire Integrated Care Board,2021,E54000061,Brain,All Brain,95,Age-standardised,14.9,12.1,18.3,Males
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2021,E54000010,Brain,All Brain,111,Age-standardised,19.7,16.2,23.8,Males
+NHS Suffolk and North East Essex Integrated Care Board,2021,E54000023,Brain,All Brain,77,Age-standardised,15,11.8,18.8,Males
+NHS Surrey Heartlands Integrated Care Board,2021,E54000063,Brain,All Brain,72,Age-standardised,14.7,11.5,18.5,Males
+NHS Sussex Integrated Care Board,2021,E54000064,Brain,All Brain,143,Age-standardised,16.5,13.9,19.4,Males
+NHS West Yorkshire Integrated Care Board,2021,E54000054,Brain,All Brain,374,Age-standardised,35.6,32.1,39.5,Males
