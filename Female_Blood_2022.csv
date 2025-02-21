@@ -1,0 +1,43 @@
+icb23cd,Geography_name,Year,Main_group,Detailed_group,Gender,Rate,type_of_rate,LCI,UCI,Sum of Count
+E54000008,NHS Cheshire and Merseyside Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,56.8,Age-standardised,52.9,60.9,805
+E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,54.5,Age-standardised,49,60.5,357
+E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",2022,Blood cancer,All Blood cancer,Females,50.8,Age-standardised,43.1,59.4,160
+E54000013,NHS Lincolnshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,54,Age-standardised,47.5,61.2,255
+E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2022,Blood cancer,All Blood cancer,Females,54.8,Age-standardised,48.9,61.2,315
+E54000018,NHS Coventry and Warwickshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,45.6,Age-standardised,39.7,52,223
+E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,53.1,Age-standardised,46.8,60.1,262
+E54000022,NHS Norfolk and Waveney Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,47.6,Age-standardised,42.4,53.3,313
+E54000023,NHS Suffolk and North East Essex Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,50.3,Age-standardised,44.6,56.4,299
+E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2022,Blood cancer,All Blood cancer,Females,46.3,Age-standardised,40.3,53,213
+E54000025,NHS Hertfordshire and West Essex Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,51.6,Age-standardised,46.6,56.9,399
+E54000026,NHS Mid and South Essex Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,44.5,Age-standardised,39.5,49.9,295
+E54000027,NHS North West London Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,53.3,Age-standardised,48.5,58.5,464
+E54000028,NHS North Central London Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,56.3,Age-standardised,50.2,62.9,327
+E54000029,NHS North East London Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,54.5,Age-standardised,49,60.5,386
+E54000030,NHS South East London Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,55.2,Age-standardised,49.9,60.9,415
+E54000031,NHS South West London Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,49.3,Age-standardised,43.9,55,321
+E54000032,NHS Kent and Medway Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,51.7,Age-standardised,47.4,56.3,532
+E54000034,NHS Frimley Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,50.8,Age-standardised,43.7,58.7,184
+E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,50.9,Age-standardised,43.8,58.8,190
+E54000037,NHS Devon Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,50.1,Age-standardised,45.2,55.4,392
+E54000038,NHS Somerset Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,51.1,Age-standardised,43.9,59.1,188
+E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2022,Blood cancer,All Blood cancer,Females,48.5,Age-standardised,42.4,55.2,234
+E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2022,Blood cancer,All Blood cancer,Females,57.7,Age-standardised,51.3,64.7,300
+E54000041,NHS Dorset Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,45.8,Age-standardised,40,52,243
+E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,48.1,Age-standardised,43.9,52.5,506
+E54000043,NHS Gloucestershire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,45.7,Age-standardised,39.2,53.1,177
+E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2022,Blood cancer,All Blood cancer,Females,47,Age-standardised,42.6,51.6,434
+E54000048,NHS Lancashire and South Cumbria Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,49.4,Age-standardised,45,54,475
+E54000050,NHS North East and North Cumbria Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,52.4,Age-standardised,49,55.9,890
+E54000051,NHS Humber and North Yorkshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,53.1,Age-standardised,48.7,57.8,545
+E54000054,NHS West Yorkshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,53.8,Age-standardised,49.7,58.2,639
+E54000055,NHS Birmingham and Solihull Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,53.8,Age-standardised,48,60.1,320
+E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,50.5,Age-standardised,44.2,57.4,234
+E54000057,NHS Greater Manchester Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,46.6,Age-standardised,43,50.4,629
+E54000058,NHS Derby and Derbyshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,54.3,Age-standardised,48.5,60.5,329
+E54000059,NHS Northamptonshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,50.9,Age-standardised,44.1,58.5,200
+E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,45.8,Age-standardised,40.6,51.6,277
+E54000061,NHS South Yorkshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,54.9,Age-standardised,49.6,60.6,395
+E54000062,NHS Black Country Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,48.8,Age-standardised,43.4,54.8,295
+E54000063,NHS Surrey Heartlands Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,48.5,Age-standardised,42.9,54.6,278
+E54000064,NHS Sussex Integrated Care Board,2022,Blood cancer,All Blood cancer,Females,47.5,Age-standardised,43.3,51.9,501

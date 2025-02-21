@@ -1,0 +1,43 @@
+icb23cd,Geography_name,Year,Main_group,Detailed_group,Gender,Rate,type_of_rate,LCI,UCI,Sum of Count
+E54000008,NHS Cheshire and Merseyside Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,91.2,Age-standardised,85.8,96.7,1112
+E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,75.7,Age-standardised,68.6,83.3,431
+E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",2022,Blood cancer,All Blood cancer,Males,87.2,Age-standardised,76.4,99.1,240
+E54000013,NHS Lincolnshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,86.6,Age-standardised,77.9,96.1,369
+E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2022,Blood cancer,All Blood cancer,Males,80.4,Age-standardised,72.7,88.7,407
+E54000018,NHS Coventry and Warwickshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,68,Age-standardised,60.4,76.3,293
+E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,72.7,Age-standardised,64.9,81.2,320
+E54000022,NHS Norfolk and Waveney Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,76,Age-standardised,69.1,83.4,451
+E54000023,NHS Suffolk and North East Essex Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,86.1,Age-standardised,78.4,94.4,459
+E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2022,Blood cancer,All Blood cancer,Males,72.2,Age-standardised,64,81.1,293
+E54000025,NHS Hertfordshire and West Essex Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,80,Age-standardised,73.3,87.2,527
+E54000026,NHS Mid and South Essex Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,83.2,Age-standardised,75.7,91.2,462
+E54000027,NHS North West London Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,81.5,Age-standardised,74.9,88.5,612
+E54000028,NHS North Central London Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,88,Age-standardised,79.5,97.1,419
+E54000029,NHS North East London Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,71.2,Age-standardised,64.1,78.9,419
+E54000030,NHS South East London Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,87.7,Age-standardised,80,95.8,525
+E54000031,NHS South West London Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,70.5,Age-standardised,63.4,78.2,379
+E54000032,NHS Kent and Medway Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,81.9,Age-standardised,76,88.1,726
+E54000034,NHS Frimley Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,71.9,Age-standardised,62.8,81.9,230
+E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,69.7,Age-standardised,60.9,79.5,231
+E54000037,NHS Devon Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,71.2,Age-standardised,65,77.9,490
+E54000038,NHS Somerset Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,76.8,Age-standardised,67.5,87,253
+E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2022,Blood cancer,All Blood cancer,Males,81.6,Age-standardised,73.1,90.7,347
+E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2022,Blood cancer,All Blood cancer,Males,77.6,Age-standardised,69.7,86.1,359
+E54000041,NHS Dorset Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,75.6,Age-standardised,67.6,84.2,337
+E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,74.6,Age-standardised,69,80.4,679
+E54000043,NHS Gloucestershire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,68.5,Age-standardised,59.9,78.1,228
+E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2022,Blood cancer,All Blood cancer,Males,71.9,Age-standardised,66.1,78,576
+E54000048,NHS Lancashire and South Cumbria Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,72.6,Age-standardised,67,78.5,634
+E54000050,NHS North East and North Cumbria Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,82.3,Age-standardised,77.7,87.1,1223
+E54000051,NHS Humber and North Yorkshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,83.5,Age-standardised,77.6,89.8,752
+E54000054,NHS West Yorkshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,78,Age-standardised,72.7,83.7,801
+E54000055,NHS Birmingham and Solihull Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,86.9,Age-standardised,78.8,95.6,436
+E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,92.2,Age-standardised,83.1,102,378
+E54000057,NHS Greater Manchester Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,72.4,Age-standardised,67.5,77.5,845
+E54000058,NHS Derby and Derbyshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,80.3,Age-standardised,72.8,88.5,423
+E54000059,NHS Northamptonshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,86,Age-standardised,76.5,96.4,301
+E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,73.7,Age-standardised,66.6,81.5,392
+E54000061,NHS South Yorkshire Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,76.1,Age-standardised,69.4,83.4,478
+E54000062,NHS Black Country Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,67.2,Age-standardised,60.2,74.7,351
+E54000063,NHS Surrey Heartlands Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,77.2,Age-standardised,69.6,85.4,379
+E54000064,NHS Sussex Integrated Care Board,2022,Blood cancer,All Blood cancer,Males,78.9,Age-standardised,73.1,85,703
