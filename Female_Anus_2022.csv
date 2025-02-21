@@ -1,0 +1,43 @@
+icb23cd,Year,Geography_name,Gender,Main_group,Detailed_group,type_of_rate,Rate,LCI,UCI,Sum of Count
+E54000008,2022,NHS Cheshire and Merseyside Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.8,3.7,6.1,65
+E54000010,2022,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.2,2.8,6.2,26
+E54000011,2022,"NHS Shropshire, Telford and Wrekin Integrated Care Board",Females,Anus,All Anus,Age-standardised,,,,8
+E54000013,2022,NHS Lincolnshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.1,2.5,6.5,19
+E54000015,2022,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",Females,Anus,All Anus,Age-standardised,3,1.8,4.9,17
+E54000018,2022,NHS Coventry and Warwickshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.6,2.9,7,22
+E54000019,2022,NHS Herefordshire and Worcestershire Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.5,2,5.7,17
+E54000022,2022,NHS Norfolk and Waveney Integrated Care Board,Females,Anus,All Anus,Age-standardised,2.2,1.2,3.8,13
+E54000023,2022,NHS Suffolk and North East Essex Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.6,2.2,5.6,20
+E54000024,2022,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",Females,Anus,All Anus,Age-standardised,2.4,1.2,4.4,11
+E54000025,2022,NHS Hertfordshire and West Essex Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.4,2.2,5,25
+E54000026,2022,NHS Mid and South Essex Integrated Care Board,Females,Anus,All Anus,Age-standardised,2.9,1.7,4.5,18
+E54000027,2022,NHS North West London Integrated Care Board,Females,Anus,All Anus,Age-standardised,2.7,1.7,4.1,22
+E54000028,2022,NHS North Central London Integrated Care Board,Females,Anus,All Anus,Age-standardised,2,1,3.7,11
+E54000029,2022,NHS North East London Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.8,2.5,5.6,26
+E54000030,2022,NHS South East London Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.3,2,5,22
+E54000031,2022,NHS South West London Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.4,2,5.2,20
+E54000032,2022,NHS Kent and Medway Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.4,2.3,4.7,34
+E54000034,2022,NHS Frimley Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.4,1.8,5.9,12
+E54000036,2022,NHS Cornwall and the Isles of Scilly Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.5,2.6,7.3,17
+E54000037,2022,NHS Devon Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.4,2.1,5.1,23
+E54000038,2022,NHS Somerset Integrated Care Board,Females,Anus,All Anus,Age-standardised,5.1,3,8.2,18
+E54000039,2022,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",Females,Anus,All Anus,Age-standardised,3.8,2.2,6,17
+E54000040,2022,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",Females,Anus,All Anus,Age-standardised,2.6,1.4,4.5,13
+E54000041,2022,NHS Dorset Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.5,2.8,6.9,22
+E54000042,2022,NHS Hampshire and Isle of Wight Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.7,2.5,5.1,36
+E54000043,2022,NHS Gloucestershire Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.3,2.4,7,16
+E54000044,2022,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Females,Anus,All Anus,Age-standardised,4,2.8,5.6,36
+E54000048,2022,NHS Lancashire and South Cumbria Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.9,2.7,5.4,37
+E54000050,2022,NHS North East and North Cumbria Integrated Care Board,Females,Anus,All Anus,Age-standardised,2.9,2.1,3.8,47
+E54000051,2022,NHS Humber and North Yorkshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.7,3.4,6.3,46
+E54000054,2022,NHS West Yorkshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.6,2.6,4.9,41
+E54000055,2022,NHS Birmingham and Solihull Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.4,2,5.3,19
+E54000056,2022,NHS Cambridgeshire and Peterborough Integrated Care Board,Females,Anus,All Anus,Age-standardised,2.2,1,4,10
+E54000057,2022,NHS Greater Manchester Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.5,2.5,4.6,46
+E54000058,2022,NHS Derby and Derbyshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,2.7,1.6,4.5,16
+E54000059,2022,NHS Northamptonshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.4,2.6,7.1,17
+E54000060,2022,NHS Nottingham and Nottinghamshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.1,2.6,6.1,23
+E54000061,2022,NHS South Yorkshire Integrated Care Board,Females,Anus,All Anus,Age-standardised,5.3,3.8,7.3,38
+E54000062,2022,NHS Black Country Integrated Care Board,Females,Anus,All Anus,Age-standardised,3.3,2,5.1,19
+E54000063,2022,NHS Surrey Heartlands Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.5,2.9,6.7,26
+E54000064,2022,NHS Sussex Integrated Care Board,Females,Anus,All Anus,Age-standardised,4.1,2.9,5.5,41

@@ -1,0 +1,43 @@
+Geography_name,Year,Main_group,icb23cd,Detailed_group,Gender,Count,type_of_rate,Rate,LCI,UCI
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2022,Bladder,E54000040,All Bladder,Females,80,Age-standardised,14.8,11.7,18.4
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2022,Bladder,E54000024,All Bladder,Females,70,Age-standardised,15.6,12.1,19.7
+NHS Birmingham and Solihull Integrated Care Board,2022,Bladder,E54000055,All Bladder,Females,80,Age-standardised,13.9,11,17.3
+NHS Black Country Integrated Care Board,2022,Bladder,E54000062,All Bladder,Females,85,Age-standardised,13.9,11.1,17.2
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2022,Bladder,E54000039,All Bladder,Females,74,Age-standardised,15.3,12,19.3
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2022,Bladder,E54000044,All Bladder,Females,114,Age-standardised,12.1,10,14.6
+NHS Cambridgeshire and Peterborough Integrated Care Board,2022,Bladder,E54000056,All Bladder,Females,71,Age-standardised,15,11.7,18.9
+NHS Cheshire and Merseyside Integrated Care Board,2022,Bladder,E54000008,All Bladder,Females,199,Age-standardised,13.7,11.8,15.7
+NHS Cornwall and the Isles of Scilly Integrated Care Board,2022,Bladder,E54000036,All Bladder,Females,67,Age-standardised,16.6,12.8,21.1
+NHS Coventry and Warwickshire Integrated Care Board,2022,Bladder,E54000018,All Bladder,Females,73,Age-standardised,14.7,11.5,18.5
+NHS Derby and Derbyshire Integrated Care Board,2022,Bladder,E54000058,All Bladder,Females,96,Age-standardised,15.3,12.4,18.7
+NHS Devon Integrated Care Board,2022,Bladder,E54000037,All Bladder,Females,110,Age-standardised,13.3,10.9,16.1
+NHS Dorset Integrated Care Board,2022,Bladder,E54000041,All Bladder,Females,95,Age-standardised,17.3,13.9,21.3
+NHS Frimley Integrated Care Board,2022,Bladder,E54000034,All Bladder,Females,53,Age-standardised,14.5,10.8,19
+NHS Gloucestershire Integrated Care Board,2022,Bladder,E54000043,All Bladder,Females,69,Age-standardised,17,13.2,21.6
+NHS Greater Manchester Integrated Care Board,2022,Bladder,E54000057,All Bladder,Females,204,Age-standardised,15.5,13.4,17.8
+NHS Hampshire and Isle of Wight Integrated Care Board,2022,Bladder,E54000042,All Bladder,Females,163,Age-standardised,14.9,12.7,17.4
+NHS Herefordshire and Worcestershire Integrated Care Board,2022,Bladder,E54000019,All Bladder,Females,72,Age-standardised,14.1,11,17.8
+NHS Hertfordshire and West Essex Integrated Care Board,2022,Bladder,E54000025,All Bladder,Females,110,Age-standardised,13.8,11.3,16.7
+NHS Humber and North Yorkshire Integrated Care Board,2022,Bladder,E54000051,All Bladder,Females,185,Age-standardised,17.2,14.8,19.9
+NHS Kent and Medway Integrated Care Board,2022,Bladder,E54000032,All Bladder,Females,180,Age-standardised,17,14.6,19.7
+NHS Lancashire and South Cumbria Integrated Care Board,2022,Bladder,E54000048,All Bladder,Females,147,Age-standardised,14.6,12.3,17.1
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2022,Bladder,E54000015,All Bladder,Females,92,Age-standardised,15.9,12.8,19.5
+NHS Lincolnshire Integrated Care Board,2022,Bladder,E54000013,All Bladder,Females,82,Age-standardised,16.7,13.3,20.8
+NHS Mid and South Essex Integrated Care Board,2022,Bladder,E54000026,All Bladder,Females,101,Age-standardised,14.7,12,17.9
+NHS Norfolk and Waveney Integrated Care Board,2022,Bladder,E54000022,All Bladder,Females,112,Age-standardised,15.7,12.9,18.9
+NHS North Central London Integrated Care Board,2022,Bladder,E54000028,All Bladder,Females,74,Age-standardised,13.3,10.4,16.7
+NHS North East and North Cumbria Integrated Care Board,2022,Bladder,E54000050,All Bladder,Females,326,Age-standardised,18.5,16.5,20.6
+NHS North East London Integrated Care Board,2022,Bladder,E54000029,All Bladder,Females,88,Age-standardised,13.9,11.1,17.2
+NHS North West London Integrated Care Board,2022,Bladder,E54000027,All Bladder,Females,109,Age-standardised,13.6,11.2,16.4
+NHS Northamptonshire Integrated Care Board,2022,Bladder,E54000059,All Bladder,Females,61,Age-standardised,15.4,11.8,19.8
+NHS Nottingham and Nottinghamshire Integrated Care Board,2022,Bladder,E54000060,All Bladder,Females,78,Age-standardised,12.6,9.9,15.7
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",2022,Bladder,E54000011,All Bladder,Females,53,Age-standardised,16.3,12.1,21.3
+NHS Somerset Integrated Care Board,2022,Bladder,E54000038,All Bladder,Females,48,Age-standardised,12.4,9.1,16.5
+NHS South East London Integrated Care Board,2022,Bladder,E54000030,All Bladder,Females,64,Age-standardised,9.1,7,11.7
+NHS South West London Integrated Care Board,2022,Bladder,E54000031,All Bladder,Females,79,Age-standardised,12.9,10.2,16
+NHS South Yorkshire Integrated Care Board,2022,Bladder,E54000061,All Bladder,Females,122,Age-standardised,16.7,13.8,19.9
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2022,Bladder,E54000010,All Bladder,Females,101,Age-standardised,15,12.2,18.3
+NHS Suffolk and North East Essex Integrated Care Board,2022,Bladder,E54000023,All Bladder,Females,120,Age-standardised,18.9,15.6,22.6
+NHS Surrey Heartlands Integrated Care Board,2022,Bladder,E54000063,All Bladder,Females,87,Age-standardised,14.9,11.9,18.4
+NHS Sussex Integrated Care Board,2022,Bladder,E54000064,All Bladder,Females,152,Age-standardised,13.7,11.6,16.1
+NHS West Yorkshire Integrated Care Board,2022,Bladder,E54000054,All Bladder,Females,209,Age-standardised,17.5,15.2,20.1
