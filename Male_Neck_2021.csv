@@ -1,0 +1,43 @@
+Geography_name,Year,icb23cd,Gender,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2021,E54000040,Males,Head and neck,All Head and neck,106,Age-standardised,23,18.8,27.9
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2021,E54000024,Males,Head and neck,All Head and neck,124,Age-standardised,29.9,24.8,35.7
+NHS Birmingham and Solihull Integrated Care Board,2021,E54000055,Males,Head and neck,All Head and neck,147,Age-standardised,28.2,23.8,33.2
+NHS Black Country Integrated Care Board,2021,E54000062,Males,Head and neck,All Head and neck,159,Age-standardised,30.1,25.6,35.1
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2021,E54000039,Males,Head and neck,All Head and neck,107,Age-standardised,25.5,20.9,30.8
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2021,E54000044,Males,Head and neck,All Head and neck,181,Age-standardised,22.4,19.2,25.9
+NHS Cambridgeshire and Peterborough Integrated Care Board,2021,E54000056,Males,Head and neck,All Head and neck,95,Age-standardised,23.2,18.8,28.4
+NHS Cheshire and Merseyside Integrated Care Board,2021,E54000008,Males,Head and neck,All Head and neck,451,Age-standardised,36.7,33.4,40.3
+NHS Cornwall and the Isles of Scilly Integrated Care Board,2021,E54000036,Males,Head and neck,All Head and neck,111,Age-standardised,34.6,28.3,41.7
+NHS Coventry and Warwickshire Integrated Care Board,2021,E54000018,Males,Head and neck,All Head and neck,128,Age-standardised,29.9,24.9,35.5
+NHS Derby and Derbyshire Integrated Care Board,2021,E54000058,Males,Head and neck,All Head and neck,160,Age-standardised,29.8,25.3,34.8
+NHS Devon Integrated Care Board,2021,E54000037,Males,Head and neck,All Head and neck,218,Age-standardised,32.8,28.5,37.4
+NHS Dorset Integrated Care Board,2021,E54000041,Males,Head and neck,All Head and neck,135,Age-standardised,31.4,26.3,37.2
+NHS Frimley Integrated Care Board,2021,E54000034,Males,Head and neck,All Head and neck,109,Age-standardised,33.7,27.6,40.8
+NHS Gloucestershire Integrated Care Board,2021,E54000043,Males,Head and neck,All Head and neck,78,Age-standardised,23.7,18.7,29.7
+NHS Greater Manchester Integrated Care Board,2021,E54000057,Males,Head and neck,All Head and neck,433,Age-standardised,36.1,32.7,39.7
+NHS Hampshire and Isle of Wight Integrated Care Board,2021,E54000042,Males,Head and neck,All Head and neck,269,Age-standardised,29.8,26.3,33.6
+NHS Herefordshire and Worcestershire Integrated Care Board,2021,E54000019,Males,Head and neck,All Head and neck,122,Age-standardised,28.5,23.6,34
+NHS Hertfordshire and West Essex Integrated Care Board,2021,E54000025,Males,Head and neck,All Head and neck,173,Age-standardised,26,22.3,30.2
+NHS Humber and North Yorkshire Integrated Care Board,2021,E54000051,Males,Head and neck,All Head and neck,270,Age-standardised,30,26.5,33.9
+NHS Kent and Medway Integrated Care Board,2021,E54000032,Males,Head and neck,All Head and neck,247,Age-standardised,28,24.6,31.7
+NHS Lancashire and South Cumbria Integrated Care Board,2021,E54000048,Males,Head and neck,All Head and neck,311,Age-standardised,36,32.1,40.3
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2021,E54000015,Males,Head and neck,All Head and neck,150,Age-standardised,29.7,25.1,34.8
+NHS Lincolnshire Integrated Care Board,2021,E54000013,Males,Head and neck,All Head and neck,128,Age-standardised,30.3,25.3,36.1
+NHS Mid and South Essex Integrated Care Board,2021,E54000026,Males,Head and neck,All Head and neck,139,Age-standardised,24.6,20.6,29
+NHS Norfolk and Waveney Integrated Care Board,2021,E54000022,Males,Head and neck,All Head and neck,160,Age-standardised,28.2,23.9,32.9
+NHS North Central London Integrated Care Board,2021,E54000028,Males,Head and neck,All Head and neck,128,Age-standardised,26.6,22.1,31.8
+NHS North East and North Cumbria Integrated Care Board,2021,E54000050,Males,Head and neck,All Head and neck,544,Age-standardised,36.2,33.2,39.4
+NHS North East London Integrated Care Board,2021,E54000029,Males,Head and neck,All Head and neck,182,Age-standardised,29.2,24.9,34.1
+NHS North West London Integrated Care Board,2021,E54000027,Males,Head and neck,All Head and neck,239,Age-standardised,32.4,28.3,36.9
+NHS Northamptonshire Integrated Care Board,2021,E54000059,Males,Head and neck,All Head and neck,95,Age-standardised,26.6,21.5,32.5
+NHS Nottingham and Nottinghamshire Integrated Care Board,2021,E54000060,Males,Head and neck,All Head and neck,167,Age-standardised,32.4,27.6,37.8
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",2021,E54000011,Males,Head and neck,All Head and neck,76,Age-standardised,27.9,22,35
+NHS Somerset Integrated Care Board,2021,E54000038,Males,Head and neck,All Head and neck,104,Age-standardised,33.5,27.3,40.7
+NHS South East London Integrated Care Board,2021,E54000030,Males,Head and neck,All Head and neck,176,Age-standardised,29.4,25.1,34.3
+NHS South West London Integrated Care Board,2021,E54000031,Males,Head and neck,All Head and neck,171,Age-standardised,31,26.4,36.1
+NHS South Yorkshire Integrated Care Board,2021,E54000061,Males,Head and neck,All Head and neck,217,Age-standardised,34.2,29.8,39.1
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2021,E54000010,Males,Head and neck,All Head and neck,194,Age-standardised,33.7,29.1,38.8
+NHS Suffolk and North East Essex Integrated Care Board,2021,E54000023,Males,Head and neck,All Head and neck,140,Age-standardised,27.1,22.8,32
+NHS Surrey Heartlands Integrated Care Board,2021,E54000063,Males,Head and neck,All Head and neck,123,Age-standardised,25,20.7,29.8
+NHS Sussex Integrated Care Board,2021,E54000064,Males,Head and neck,All Head and neck,244,Age-standardised,28,24.6,31.7
+NHS West Yorkshire Integrated Care Board,2021,E54000054,Males,Head and neck,All Head and neck,376,Age-standardised,36.2,32.6,40.1

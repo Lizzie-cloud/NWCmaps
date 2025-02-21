@@ -1,0 +1,43 @@
+Geography_name,Year,icb23cd,Gender,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2022,E54000040,Females,Head and neck,All Head and neck,38,Age-standardised,7.3,5.1,10
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2022,E54000024,Females,Head and neck,All Head and neck,76,Age-standardised,16.8,13.2,21
+NHS Birmingham and Solihull Integrated Care Board,2022,E54000055,Females,Head and neck,All Head and neck,74,Age-standardised,12.5,9.8,15.7
+NHS Black Country Integrated Care Board,2022,E54000062,Females,Head and neck,All Head and neck,75,Age-standardised,12.7,10,15.9
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2022,E54000039,Females,Head and neck,All Head and neck,51,Age-standardised,10.7,7.9,14
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2022,E54000044,Females,Head and neck,All Head and neck,98,Age-standardised,10.9,8.8,13.3
+NHS Cambridgeshire and Peterborough Integrated Care Board,2022,E54000056,Females,Head and neck,All Head and neck,47,Age-standardised,10.3,7.6,13.7
+NHS Cheshire and Merseyside Integrated Care Board,2022,E54000008,Females,Head and neck,All Head and neck,199,Age-standardised,14.4,12.4,16.5
+NHS Cornwall and the Isles of Scilly Integrated Care Board,2022,E54000036,Females,Head and neck,All Head and neck,39,Age-standardised,10.6,7.5,14.5
+NHS Coventry and Warwickshire Integrated Care Board,2022,E54000018,Females,Head and neck,All Head and neck,55,Age-standardised,11.5,8.6,14.9
+NHS Derby and Derbyshire Integrated Care Board,2022,E54000058,Females,Head and neck,All Head and neck,79,Age-standardised,13.4,10.6,16.8
+NHS Devon Integrated Care Board,2022,E54000037,Females,Head and neck,All Head and neck,89,Age-standardised,12,9.6,14.9
+NHS Dorset Integrated Care Board,2022,E54000041,Females,Head and neck,All Head and neck,64,Age-standardised,13.7,10.5,17.6
+NHS Frimley Integrated Care Board,2022,E54000034,Females,Head and neck,All Head and neck,51,Age-standardised,14,10.4,18.4
+NHS Gloucestershire Integrated Care Board,2022,E54000043,Females,Head and neck,All Head and neck,52,Age-standardised,14,10.4,18.4
+NHS Greater Manchester Integrated Care Board,2022,E54000057,Females,Head and neck,All Head and neck,162,Age-standardised,12.3,10.5,14.4
+NHS Hampshire and Isle of Wight Integrated Care Board,2022,E54000042,Females,Head and neck,All Head and neck,105,Age-standardised,10.2,8.4,12.4
+NHS Herefordshire and Worcestershire Integrated Care Board,2022,E54000019,Females,Head and neck,All Head and neck,55,Age-standardised,11.8,8.8,15.4
+NHS Hertfordshire and West Essex Integrated Care Board,2022,E54000025,Females,Head and neck,All Head and neck,68,Age-standardised,8.8,6.8,11.1
+NHS Humber and North Yorkshire Integrated Care Board,2022,E54000051,Females,Head and neck,All Head and neck,122,Age-standardised,12.3,10.2,14.7
+NHS Kent and Medway Integrated Care Board,2022,E54000032,Females,Head and neck,All Head and neck,111,Age-standardised,11.3,9.3,13.6
+NHS Lancashire and South Cumbria Integrated Care Board,2022,E54000048,Females,Head and neck,All Head and neck,150,Age-standardised,15.9,13.4,18.7
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2022,E54000015,Females,Head and neck,All Head and neck,73,Age-standardised,13.1,10.3,16.5
+NHS Lincolnshire Integrated Care Board,2022,E54000013,Females,Head and neck,All Head and neck,41,Age-standardised,8.7,6.2,11.9
+NHS Mid and South Essex Integrated Care Board,2022,E54000026,Females,Head and neck,All Head and neck,68,Age-standardised,10.6,8.2,13.5
+NHS Norfolk and Waveney Integrated Care Board,2022,E54000022,Females,Head and neck,All Head and neck,84,Age-standardised,12.8,10.2,15.9
+NHS North Central London Integrated Care Board,2022,E54000028,Females,Head and neck,All Head and neck,63,Age-standardised,11,8.4,14.1
+NHS North East and North Cumbria Integrated Care Board,2022,E54000050,Females,Head and neck,All Head and neck,231,Age-standardised,14.1,12.3,16
+NHS North East London Integrated Care Board,2022,E54000029,Females,Head and neck,All Head and neck,82,Age-standardised,11.7,9.3,14.6
+NHS North West London Integrated Care Board,2022,E54000027,Females,Head and neck,All Head and neck,105,Age-standardised,12.2,9.9,14.8
+NHS Northamptonshire Integrated Care Board,2022,E54000059,Females,Head and neck,All Head and neck,50,Age-standardised,12.7,9.4,16.7
+NHS Nottingham and Nottinghamshire Integrated Care Board,2022,E54000060,Females,Head and neck,All Head and neck,70,Age-standardised,12,9.4,15.2
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",2022,E54000011,Females,Head and neck,All Head and neck,39,Age-standardised,12.9,9.1,17.7
+NHS Somerset Integrated Care Board,2022,E54000038,Females,Head and neck,All Head and neck,37,Age-standardised,10.1,7,14
+NHS South East London Integrated Care Board,2022,E54000030,Females,Head and neck,All Head and neck,95,Age-standardised,13,10.5,16
+NHS South West London Integrated Care Board,2022,E54000031,Females,Head and neck,All Head and neck,82,Age-standardised,12.3,9.8,15.4
+NHS South Yorkshire Integrated Care Board,2022,E54000061,Females,Head and neck,All Head and neck,99,Age-standardised,14.1,11.4,17.2
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2022,E54000010,Females,Head and neck,All Head and neck,87,Age-standardised,13.9,11.1,17.2
+NHS Suffolk and North East Essex Integrated Care Board,2022,E54000023,Females,Head and neck,All Head and neck,72,Age-standardised,12.2,9.5,15.4
+NHS Surrey Heartlands Integrated Care Board,2022,E54000063,Females,Head and neck,All Head and neck,66,Age-standardised,12,9.3,15.3
+NHS Sussex Integrated Care Board,2022,E54000064,Females,Head and neck,All Head and neck,119,Age-standardised,11.8,9.7,14.1
+NHS West Yorkshire Integrated Care Board,2022,E54000054,Females,Head and neck,All Head and neck,160,Age-standardised,13.8,11.7,16.1
