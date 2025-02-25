@@ -1,0 +1,43 @@
+Geography_name,icb23cd,Gender,Main_group,Detailed_group,type_of_rate,LCI,UCI,Rate,Count,Year
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Females,Cervix,All Cervix,Age-standardised,9.5,16.1,12.5,58,2022
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Females,Cervix,All Cervix,Age-standardised,3.6,8.1,5.6,27,2022
+NHS Birmingham and Solihull Integrated Care Board,E54000055,Females,Cervix,All Cervix,Age-standardised,6.2,11,8.4,52,2022
+NHS Black Country Integrated Care Board,E54000062,Females,Cervix,All Cervix,Age-standardised,10.5,16.5,13.3,79,2022
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Females,Cervix,All Cervix,Age-standardised,5.1,10.2,7.3,35,2022
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Females,Cervix,All Cervix,Age-standardised,6.7,10.7,8.5,77,2022
+NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Females,Cervix,All Cervix,Age-standardised,5.8,11.3,8.2,38,2022
+NHS Cheshire and Merseyside Integrated Care Board,E54000008,Females,Cervix,All Cervix,Age-standardised,8.6,12.2,10.3,132,2022
+NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Females,Cervix,All Cervix,Age-standardised,6.7,14.6,10.1,29,2022
+NHS Coventry and Warwickshire Integrated Care Board,E54000018,Females,Cervix,All Cervix,Age-standardised,7.9,14,10.6,50,2022
+NHS Derby and Derbyshire Integrated Care Board,E54000058,Females,Cervix,All Cervix,Age-standardised,8,13.8,10.6,56,2022
+NHS Devon Integrated Care Board,E54000037,Females,Cervix,All Cervix,Age-standardised,8,13.2,10.4,69,2022
+NHS Dorset Integrated Care Board,E54000041,Females,Cervix,All Cervix,Age-standardised,6,12.2,8.7,35,2022
+NHS Frimley Integrated Care Board,E54000034,Females,Cervix,All Cervix,Age-standardised,5.6,11.7,8.2,31,2022
+NHS Gloucestershire Integrated Care Board,E54000043,Females,Cervix,All Cervix,Age-standardised,3.3,8.8,5.6,19,2022
+NHS Greater Manchester Integrated Care Board,E54000057,Females,Cervix,All Cervix,Age-standardised,8.8,12.3,10.5,149,2022
+NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Females,Cervix,All Cervix,Age-standardised,8.4,12.8,10.4,96,2022
+NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Females,Cervix,All Cervix,Age-standardised,6.1,12.4,8.9,34,2022
+NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Females,Cervix,All Cervix,Age-standardised,5.9,10,7.8,61,2022
+NHS Humber and North Yorkshire Integrated Care Board,E54000051,Females,Cervix,All Cervix,Age-standardised,7.9,12.3,9.9,84,2022
+NHS Kent and Medway Integrated Care Board,E54000032,Females,Cervix,All Cervix,Age-standardised,7.2,11.1,9,86,2022
+NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Females,Cervix,All Cervix,Age-standardised,9.3,14,11.5,99,2022
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Females,Cervix,All Cervix,Age-standardised,8.3,14,10.9,61,2022
+NHS Lincolnshire Integrated Care Board,E54000013,Females,Cervix,All Cervix,Age-standardised,8,15,11.1,43,2022
+NHS Mid and South Essex Integrated Care Board,E54000026,Females,Cervix,All Cervix,Age-standardised,4.7,8.9,6.5,40,2022
+NHS Norfolk and Waveney Integrated Care Board,E54000022,Females,Cervix,All Cervix,Age-standardised,8,13.8,10.6,57,2022
+NHS North Central London Integrated Care Board,E54000028,Females,Cervix,All Cervix,Age-standardised,6.3,10.9,8.4,58,2022
+NHS North East and North Cumbria Integrated Care Board,E54000050,Females,Cervix,All Cervix,Age-standardised,7.8,11,9.3,140,2022
+NHS North East London Integrated Care Board,E54000029,Females,Cervix,All Cervix,Age-standardised,5.4,9,7,68,2022
+NHS North West London Integrated Care Board,E54000027,Females,Cervix,All Cervix,Age-standardised,6,9.6,7.6,78,2022
+NHS Northamptonshire Integrated Care Board,E54000059,Females,Cervix,All Cervix,Age-standardised,6.7,13,9.5,38,2022
+NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Females,Cervix,All Cervix,Age-standardised,6.8,12,9.2,52,2022
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Females,Cervix,All Cervix,Age-standardised,9.4,19.1,13.7,34,2022
+NHS Somerset Integrated Care Board,E54000038,Females,Cervix,All Cervix,Age-standardised,7.5,15.7,11.1,33,2022
+NHS South East London Integrated Care Board,E54000030,Females,Cervix,All Cervix,Age-standardised,7.3,11.5,9.2,84,2022
+NHS South West London Integrated Care Board,E54000031,Females,Cervix,All Cervix,Age-standardised,5.1,9.1,6.9,53,2022
+NHS South Yorkshire Integrated Care Board,E54000061,Females,Cervix,All Cervix,Age-standardised,6,10.4,8,55,2022
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Females,Cervix,All Cervix,Age-standardised,9.5,15.6,12.3,69,2022
+NHS Suffolk and North East Essex Integrated Care Board,E54000023,Females,Cervix,All Cervix,Age-standardised,4.9,9.7,7,36,2022
+NHS Surrey Heartlands Integrated Care Board,E54000063,Females,Cervix,All Cervix,Age-standardised,4.7,9.2,6.7,36,2022
+NHS Sussex Integrated Care Board,E54000064,Females,Cervix,All Cervix,Age-standardised,7.3,11.4,9.2,82,2022
+NHS West Yorkshire Integrated Care Board,E54000054,Females,Cervix,All Cervix,Age-standardised,9,12.8,10.8,128,2022
