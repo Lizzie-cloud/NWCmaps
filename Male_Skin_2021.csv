@@ -1,4 +1,4 @@
-﻿Year,Gender,Age_at_Diagnosis,Geography_type,Geography_code,Geography_name,Stage,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
+﻿Year,Gender,Age_at_Diagnosis,Geography_type,icb23cd,Geography_name,Stage,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
 2021,Males,All ages,Integrated care board,E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",All stages,Skin cancer,All Skin cancer,163,Age-standardised,36.2,30.8,42.2
 2021,Males,All ages,Integrated care board,E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",All stages,Skin cancer,All Skin cancer,118,Age-standardised,30,24.7,36
 2021,Males,All ages,Integrated care board,E54000055,NHS Birmingham and Solihull Integrated Care Board,All stages,Skin cancer,All Skin cancer,127,Age-standardised,25.9,21.5,30.9
