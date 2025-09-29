@@ -1,43 +1,43 @@
-Geography_name,icb23cd,Gender,Year,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
-"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Females,2022,Skin cancer,All Skin cancer,2158,Age-standardised,402.2,385.3,419.7
-"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Females,2022,Skin cancer,All Skin cancer,1343,Age-standardised,296.1,280.4,312.4
-NHS Birmingham and Solihull Integrated Care Board,E54000055,Females,2022,Skin cancer,All Skin cancer,1520,Age-standardised,257.5,244.6,270.9
-NHS Black Country Integrated Care Board,E54000062,Females,2022,Skin cancer,All Skin cancer,1183,Age-standardised,193.2,182.2,204.6
-"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Females,2022,Skin cancer,All Skin cancer,1724,Age-standardised,357.2,340.4,374.6
-"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Females,2022,Skin cancer,All Skin cancer,3156,Age-standardised,337.8,326,349.9
-NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Females,2022,Skin cancer,All Skin cancer,1563,Age-standardised,335,318.5,352
-NHS Cheshire and Merseyside Integrated Care Board,E54000008,Females,2022,Skin cancer,All Skin cancer,4928,Age-standardised,347,337.3,356.9
-NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Females,2022,Skin cancer,All Skin cancer,1718,Age-standardised,439.8,418.9,461.5
-NHS Coventry and Warwickshire Integrated Care Board,E54000018,Females,2022,Skin cancer,All Skin cancer,1284,Age-standardised,255.8,241.9,270.3
-NHS Derby and Derbyshire Integrated Care Board,E54000058,Females,2022,Skin cancer,All Skin cancer,1777,Age-standardised,291.5,278,305.5
-NHS Devon Integrated Care Board,E54000037,Females,2022,Skin cancer,All Skin cancer,3539,Age-standardised,435.9,421.3,450.7
-NHS Dorset Integrated Care Board,E54000041,Females,2022,Skin cancer,All Skin cancer,2470,Age-standardised,450.7,432.6,469.3
-NHS Frimley Integrated Care Board,E54000034,Females,2022,Skin cancer,All Skin cancer,1269,Age-standardised,342.9,324.2,362.4
-NHS Gloucestershire Integrated Care Board,E54000043,Females,2022,Skin cancer,All Skin cancer,1324,Age-standardised,333.6,315.7,352.3
-NHS Greater Manchester Integrated Care Board,E54000057,Females,2022,Skin cancer,All Skin cancer,3540,Age-standardised,266.5,257.8,275.5
-NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Females,2022,Skin cancer,All Skin cancer,3403,Age-standardised,310.1,299.6,320.8
-NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Females,2022,Skin cancer,All Skin cancer,1391,Age-standardised,272.9,258.5,287.9
-NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Females,2022,Skin cancer,All Skin cancer,2669,Age-standardised,340.7,327.8,354
-NHS Humber and North Yorkshire Integrated Care Board,E54000051,Females,2022,Skin cancer,All Skin cancer,2708,Age-standardised,259.1,249.3,269.1
-NHS Kent and Medway Integrated Care Board,E54000032,Females,2022,Skin cancer,All Skin cancer,4155,Age-standardised,396.9,384.9,409.2
-NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Females,2022,Skin cancer,All Skin cancer,3631,Age-standardised,366.7,354.8,378.9
-"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Females,2022,Skin cancer,All Skin cancer,1563,Age-standardised,270,256.7,283.8
-NHS Lincolnshire Integrated Care Board,E54000013,Females,2022,Skin cancer,All Skin cancer,1410,Age-standardised,288,273,303.6
-NHS Mid and South Essex Integrated Care Board,E54000026,Females,2022,Skin cancer,All Skin cancer,2685,Age-standardised,402,386.8,417.6
-NHS Norfolk and Waveney Integrated Care Board,E54000022,Females,2022,Skin cancer,All Skin cancer,2017,Age-standardised,290.9,278,304.1
-NHS North Central London Integrated Care Board,E54000028,Females,2022,Skin cancer,All Skin cancer,1122,Age-standardised,200,188.3,212.2
-NHS North East and North Cumbria Integrated Care Board,E54000050,Females,2022,Skin cancer,All Skin cancer,5278,Age-standardised,307.7,299.4,316.1
-NHS North East London Integrated Care Board,E54000029,Females,2022,Skin cancer,All Skin cancer,1489,Age-standardised,231.8,219.9,244.1
-NHS North West London Integrated Care Board,E54000027,Females,2022,Skin cancer,All Skin cancer,873,Age-standardised,103.1,96.3,110.2
-NHS Northamptonshire Integrated Care Board,E54000059,Females,2022,Skin cancer,All Skin cancer,1185,Age-standardised,298.7,281.9,316.3
-NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Females,2022,Skin cancer,All Skin cancer,1915,Age-standardised,314.1,300.1,328.6
-"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Females,2022,Skin cancer,All Skin cancer,1178,Age-standardised,371.7,350.5,393.8
-NHS Somerset Integrated Care Board,E54000038,Females,2022,Skin cancer,All Skin cancer,1422,Age-standardised,369.1,349.8,389.2
-NHS South East London Integrated Care Board,E54000030,Females,2022,Skin cancer,All Skin cancer,1922,Age-standardised,275.5,263.1,288.3
-NHS South West London Integrated Care Board,E54000031,Females,2022,Skin cancer,All Skin cancer,2008,Age-standardised,312.7,299,326.8
-NHS South Yorkshire Integrated Care Board,E54000061,Females,2022,Skin cancer,All Skin cancer,2171,Age-standardised,300.1,287.5,313
-NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Females,2022,Skin cancer,All Skin cancer,1760,Age-standardised,265.9,253.5,278.7
-NHS Suffolk and North East Essex Integrated Care Board,E54000023,Females,2022,Skin cancer,All Skin cancer,1994,Age-standardised,319.2,305.2,333.8
-NHS Surrey Heartlands Integrated Care Board,E54000063,Females,2022,Skin cancer,All Skin cancer,2558,Age-standardised,433.6,416.7,450.9
-NHS Sussex Integrated Care Board,E54000064,Females,2022,Skin cancer,All Skin cancer,4366,Age-standardised,396.4,384.5,408.5
-NHS West Yorkshire Integrated Care Board,E54000054,Females,2022,Skin cancer,All Skin cancer,3549,Age-standardised,299.2,289.4,309.3
+﻿Year,Gender,Age_at_Diagnosis,Geography_type,Geography_code,Geography_name,Stage,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
+2022,Females,All ages,Integrated care board,E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",All stages,Skin cancer,All Skin cancer,191,Age-standardised,37.3,32.2,43
+2022,Females,All ages,Integrated care board,E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",All stages,Skin cancer,All Skin cancer,114,Age-standardised,24.6,20.2,29.5
+2022,Females,All ages,Integrated care board,E54000055,NHS Birmingham and Solihull Integrated Care Board,All stages,Skin cancer,All Skin cancer,144,Age-standardised,24.5,20.6,28.9
+2022,Females,All ages,Integrated care board,E54000062,NHS Black Country Integrated Care Board,All stages,Skin cancer,All Skin cancer,149,Age-standardised,24.7,20.9,29
+2022,Females,All ages,Integrated care board,E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",All stages,Skin cancer,All Skin cancer,173,Age-standardised,36.3,31.1,42.2
+2022,Females,All ages,Integrated care board,E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",All stages,Skin cancer,All Skin cancer,326,Age-standardised,35.8,32,39.9
+2022,Females,All ages,Integrated care board,E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,All stages,Skin cancer,All Skin cancer,138,Age-standardised,30.1,25.3,35.6
+2022,Females,All ages,Integrated care board,E54000008,NHS Cheshire and Merseyside Integrated Care Board,All stages,Skin cancer,All Skin cancer,571,Age-standardised,41.6,38.3,45.2
+2022,Females,All ages,Integrated care board,E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,All stages,Skin cancer,All Skin cancer,188,Age-standardised,51.7,44.4,59.8
+2022,Females,All ages,Integrated care board,E54000018,NHS Coventry and Warwickshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,148,Age-standardised,30.1,25.4,35.4
+2022,Females,All ages,Integrated care board,E54000058,NHS Derby and Derbyshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,174,Age-standardised,29.9,25.6,34.8
+2022,Females,All ages,Integrated care board,E54000037,NHS Devon Integrated Care Board,All stages,Skin cancer,All Skin cancer,364,Age-standardised,48.9,43.8,54.3
+2022,Females,All ages,Integrated care board,E54000041,NHS Dorset Integrated Care Board,All stages,Skin cancer,All Skin cancer,197,Age-standardised,39.1,33.6,45.1
+2022,Females,All ages,Integrated care board,E54000034,NHS Frimley Integrated Care Board,All stages,Skin cancer,All Skin cancer,126,Age-standardised,33.7,28,40.1
+2022,Females,All ages,Integrated care board,E54000043,NHS Gloucestershire Integrated Care Board,All stages,Skin cancer,All Skin cancer,135,Age-standardised,35.4,29.6,42
+2022,Females,All ages,Integrated care board,E54000057,NHS Greater Manchester Integrated Care Board,All stages,Skin cancer,All Skin cancer,388,Age-standardised,28.8,25.9,31.8
+2022,Females,All ages,Integrated care board,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,All stages,Skin cancer,All Skin cancer,413,Age-standardised,40,36.2,44.1
+2022,Females,All ages,Integrated care board,E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,All stages,Skin cancer,All Skin cancer,157,Age-standardised,33.8,28.7,39.7
+2022,Females,All ages,Integrated care board,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,228,Age-standardised,29.6,25.9,33.8
+2022,Females,All ages,Integrated care board,E54000051,NHS Humber and North Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,300,Age-standardised,31.1,27.6,34.8
+2022,Females,All ages,Integrated care board,E54000032,NHS Kent and Medway Integrated Care Board,All stages,Skin cancer,All Skin cancer,318,Age-standardised,31.4,28.1,35.1
+2022,Females,All ages,Integrated care board,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,All stages,Skin cancer,All Skin cancer,318,Age-standardised,34.3,30.6,38.3
+2022,Females,All ages,Integrated care board,E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",All stages,Skin cancer,All Skin cancer,160,Age-standardised,28.2,24,33
+2022,Females,All ages,Integrated care board,E54000013,NHS Lincolnshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,115,Age-standardised,26.2,21.6,31.6
+2022,Females,All ages,Integrated care board,E54000026,NHS Mid and South Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,200,Age-standardised,31,26.8,35.6
+2022,Females,All ages,Integrated care board,E54000022,NHS Norfolk and Waveney Integrated Care Board,All stages,Skin cancer,All Skin cancer,203,Age-standardised,31.9,27.6,36.7
+2022,Females,All ages,Integrated care board,E54000028,NHS North Central London Integrated Care Board,All stages,Skin cancer,All Skin cancer,119,Age-standardised,20.3,16.7,24.4
+2022,Females,All ages,Integrated care board,E54000029,NHS North East London Integrated Care Board,All stages,Skin cancer,All Skin cancer,113,Age-standardised,15.5,12.6,18.7
+2022,Females,All ages,Integrated care board,E54000050,NHS North East and North Cumbria Integrated Care Board,All stages,Skin cancer,All Skin cancer,541,Age-standardised,33.8,31,36.8
+2022,Females,All ages,Integrated care board,E54000027,NHS North West London Integrated Care Board,All stages,Skin cancer,All Skin cancer,134,Age-standardised,14.2,11.9,16.9
+2022,Females,All ages,Integrated care board,E54000059,NHS Northamptonshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,115,Age-standardised,29.1,24,34.9
+2022,Females,All ages,Integrated care board,E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,167,Age-standardised,28.5,24.3,33.2
+2022,Females,All ages,Integrated care board,E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",All stages,Skin cancer,All Skin cancer,109,Age-standardised,37.5,30.7,45.3
+2022,Females,All ages,Integrated care board,E54000038,NHS Somerset Integrated Care Board,All stages,Skin cancer,All Skin cancer,129,Age-standardised,36.6,30.4,43.6
+2022,Females,All ages,Integrated care board,E54000030,NHS South East London Integrated Care Board,All stages,Skin cancer,All Skin cancer,179,Age-standardised,23.9,20.4,27.7
+2022,Females,All ages,Integrated care board,E54000031,NHS South West London Integrated Care Board,All stages,Skin cancer,All Skin cancer,191,Age-standardised,27.5,23.7,31.8
+2022,Females,All ages,Integrated care board,E54000061,NHS South Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,216,Age-standardised,30.9,26.9,35.4
+2022,Females,All ages,Integrated care board,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,All stages,Skin cancer,All Skin cancer,198,Age-standardised,32,27.7,36.8
+2022,Females,All ages,Integrated care board,E54000023,NHS Suffolk and North East Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,172,Age-standardised,30.2,25.8,35.2
+2022,Females,All ages,Integrated care board,E54000063,NHS Surrey Heartlands Integrated Care Board,All stages,Skin cancer,All Skin cancer,220,Age-standardised,38.8,33.8,44.3
+2022,Females,All ages,Integrated care board,E54000064,NHS Sussex Integrated Care Board,All stages,Skin cancer,All Skin cancer,412,Age-standardised,40,36.2,44.1
+2022,Females,All ages,Integrated care board,E54000054,NHS West Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,351,Age-standardised,29.7,26.7,33
