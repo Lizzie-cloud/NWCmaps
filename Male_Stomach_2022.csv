@@ -1,43 +1,43 @@
-Geography_name,icb23cd,Main_group,Detailed_group,Gender,Year,Count,type_of_rate,Rate,UCI,LCI
-"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Stomach,All Stomach,Males,2022,35,Age-standardised,7.6,10.5,5.3
-"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Stomach,All Stomach,Males,2022,41,Age-standardised,10.1,13.7,7.2
-NHS Birmingham and Solihull Integrated Care Board,E54000055,Stomach,All Stomach,Males,2022,63,Age-standardised,12.8,16.4,9.8
-NHS Black Country Integrated Care Board,E54000062,Stomach,All Stomach,Males,2022,76,Age-standardised,14.7,18.4,11.5
-"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Stomach,All Stomach,Males,2022,37,Age-standardised,9.1,12.6,6.4
-"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Stomach,All Stomach,Males,2022,55,Age-standardised,6.8,8.9,5.1
-NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Stomach,All Stomach,Males,2022,31,Age-standardised,7.9,11.2,5.3
-NHS Cheshire and Merseyside Integrated Care Board,E54000008,Stomach,All Stomach,Males,2022,147,Age-standardised,12.3,14.5,10.4
-NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Stomach,All Stomach,Males,2022,33,Age-standardised,9.8,13.7,6.7
-NHS Coventry and Warwickshire Integrated Care Board,E54000018,Stomach,All Stomach,Males,2022,65,Age-standardised,15.6,19.9,12
-NHS Derby and Derbyshire Integrated Care Board,E54000058,Stomach,All Stomach,Males,2022,56,Age-standardised,10.4,13.6,7.9
-NHS Devon Integrated Care Board,E54000037,Stomach,All Stomach,Males,2022,66,Age-standardised,9.8,12.5,7.6
-NHS Dorset Integrated Care Board,E54000041,Stomach,All Stomach,Males,2022,51,Age-standardised,11.1,14.6,8.2
-NHS Frimley Integrated Care Board,E54000034,Stomach,All Stomach,Males,2022,25,Age-standardised,7.7,11.3,4.9
-NHS Gloucestershire Integrated Care Board,E54000043,Stomach,All Stomach,Males,2022,36,Age-standardised,10.5,14.6,7.3
-NHS Greater Manchester Integrated Care Board,E54000057,Stomach,All Stomach,Males,2022,122,Age-standardised,10.8,13,9
-NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Stomach,All Stomach,Males,2022,95,Age-standardised,10.2,12.5,8.3
-NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Stomach,All Stomach,Males,2022,39,Age-standardised,9,12.4,6.4
-NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Stomach,All Stomach,Males,2022,55,Age-standardised,8.5,11.1,6.4
-NHS Humber and North Yorkshire Integrated Care Board,E54000051,Stomach,All Stomach,Males,2022,93,Age-standardised,10.4,12.8,8.4
-NHS Kent and Medway Integrated Care Board,E54000032,Stomach,All Stomach,Males,2022,73,Age-standardised,8.2,10.4,6.4
-NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Stomach,All Stomach,Males,2022,76,Age-standardised,9,11.3,7.1
-"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Stomach,All Stomach,Males,2022,45,Age-standardised,9.6,12.9,7
-NHS Lincolnshire Integrated Care Board,E54000013,Stomach,All Stomach,Males,2022,32,Age-standardised,7.6,10.9,5.2
-NHS Mid and South Essex Integrated Care Board,E54000026,Stomach,All Stomach,Males,2022,48,Age-standardised,8.7,11.6,6.4
-NHS Norfolk and Waveney Integrated Care Board,E54000022,Stomach,All Stomach,Males,2022,55,Age-standardised,8.8,11.5,6.6
-NHS North Central London Integrated Care Board,E54000028,Stomach,All Stomach,Males,2022,48,Age-standardised,10.5,14,7.7
-NHS North East and North Cumbria Integrated Care Board,E54000050,Stomach,All Stomach,Males,2022,171,Age-standardised,11.9,13.9,10.2
-NHS North East London Integrated Care Board,E54000029,Stomach,All Stomach,Males,2022,79,Age-standardised,14.2,17.9,11.1
-NHS North West London Integrated Care Board,E54000027,Stomach,All Stomach,Males,2022,101,Age-standardised,14.9,18.2,12.1
-NHS Northamptonshire Integrated Care Board,E54000059,Stomach,All Stomach,Males,2022,26,Age-standardised,7.3,10.7,4.7
-NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Stomach,All Stomach,Males,2022,46,Age-standardised,8.9,11.9,6.5
-"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Stomach,All Stomach,Males,2022,23,Age-standardised,8.4,12.6,5.3
-NHS Somerset Integrated Care Board,E54000038,Stomach,All Stomach,Males,2022,26,Age-standardised,8,11.8,5.2
-NHS South East London Integrated Care Board,E54000030,Stomach,All Stomach,Males,2022,64,Age-standardised,12.1,15.6,9.2
-NHS South West London Integrated Care Board,E54000031,Stomach,All Stomach,Males,2022,49,Age-standardised,9.3,12.4,6.8
-NHS South Yorkshire Integrated Care Board,E54000061,Stomach,All Stomach,Males,2022,79,Age-standardised,12.6,15.7,10
-NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Stomach,All Stomach,Males,2022,70,Age-standardised,12.2,15.5,9.5
-NHS Suffolk and North East Essex Integrated Care Board,E54000023,Stomach,All Stomach,Males,2022,47,Age-standardised,8.8,11.7,6.5
-NHS Surrey Heartlands Integrated Care Board,E54000063,Stomach,All Stomach,Males,2022,55,Age-standardised,11.3,14.7,8.5
-NHS Sussex Integrated Care Board,E54000064,Stomach,All Stomach,Males,2022,62,Age-standardised,6.9,8.8,5.3
-NHS West Yorkshire Integrated Care Board,E54000054,Stomach,All Stomach,Males,2022,113,Age-standardised,11.5,13.8,9.4
+Geography_name,icb23cd,Main_group,Detailed_group,Gender,Year,Count,type_of_rate,Rate,UCI,LCI,ICB23CD
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,Stomach,All Stomach,Males,2022,35,Age-standardised,7.6,10.5,5.3,E54000040
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,Stomach,All Stomach,Males,2022,41,Age-standardised,10.1,13.7,7.2,E54000024
+NHS Birmingham and Solihull Integrated Care Board,E54000055,Stomach,All Stomach,Males,2022,63,Age-standardised,12.8,16.4,9.8,E54000055
+NHS Black Country Integrated Care Board,E54000062,Stomach,All Stomach,Males,2022,76,Age-standardised,14.7,18.4,11.5,E54000062
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,Stomach,All Stomach,Males,2022,37,Age-standardised,9.1,12.6,6.4,E54000039
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,Stomach,All Stomach,Males,2022,55,Age-standardised,6.8,8.9,5.1,E54000044
+NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,Stomach,All Stomach,Males,2022,31,Age-standardised,7.9,11.2,5.3,E54000056
+NHS Cheshire and Merseyside Integrated Care Board,E54000008,Stomach,All Stomach,Males,2022,147,Age-standardised,12.3,14.5,10.4,E54000008
+NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,Stomach,All Stomach,Males,2022,33,Age-standardised,9.8,13.7,6.7,E54000036
+NHS Coventry and Warwickshire Integrated Care Board,E54000018,Stomach,All Stomach,Males,2022,65,Age-standardised,15.6,19.9,12,E54000018
+NHS Derby and Derbyshire Integrated Care Board,E54000058,Stomach,All Stomach,Males,2022,56,Age-standardised,10.4,13.6,7.9,E54000058
+NHS Devon Integrated Care Board,E54000037,Stomach,All Stomach,Males,2022,66,Age-standardised,9.8,12.5,7.6,E54000037
+NHS Dorset Integrated Care Board,E54000041,Stomach,All Stomach,Males,2022,51,Age-standardised,11.1,14.6,8.2,E54000041
+NHS Frimley Integrated Care Board,E54000034,Stomach,All Stomach,Males,2022,25,Age-standardised,7.7,11.3,4.9,E54000034
+NHS Gloucestershire Integrated Care Board,E54000043,Stomach,All Stomach,Males,2022,36,Age-standardised,10.5,14.6,7.3,E54000043
+NHS Greater Manchester Integrated Care Board,E54000057,Stomach,All Stomach,Males,2022,122,Age-standardised,10.8,13,9,E54000057
+NHS Hampshire and Isle of Wight Integrated Care Board,E54000042,Stomach,All Stomach,Males,2022,95,Age-standardised,10.2,12.5,8.3,E54000042
+NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,Stomach,All Stomach,Males,2022,39,Age-standardised,9,12.4,6.4,E54000019
+NHS Hertfordshire and West Essex Integrated Care Board,E54000025,Stomach,All Stomach,Males,2022,55,Age-standardised,8.5,11.1,6.4,E54000025
+NHS Humber and North Yorkshire Integrated Care Board,E54000051,Stomach,All Stomach,Males,2022,93,Age-standardised,10.4,12.8,8.4,E54000051
+NHS Kent and Medway Integrated Care Board,E54000032,Stomach,All Stomach,Males,2022,73,Age-standardised,8.2,10.4,6.4,E54000032
+NHS Lancashire and South Cumbria Integrated Care Board,E54000048,Stomach,All Stomach,Males,2022,76,Age-standardised,9,11.3,7.1,E54000048
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,Stomach,All Stomach,Males,2022,45,Age-standardised,9.6,12.9,7,E54000015
+NHS Lincolnshire Integrated Care Board,E54000013,Stomach,All Stomach,Males,2022,32,Age-standardised,7.6,10.9,5.2,E54000013
+NHS Mid and South Essex Integrated Care Board,E54000026,Stomach,All Stomach,Males,2022,48,Age-standardised,8.7,11.6,6.4,E54000026
+NHS Norfolk and Waveney Integrated Care Board,E54000022,Stomach,All Stomach,Males,2022,55,Age-standardised,8.8,11.5,6.6,E54000022
+NHS North Central London Integrated Care Board,E54000028,Stomach,All Stomach,Males,2022,48,Age-standardised,10.5,14,7.7,E54000028
+NHS North East and North Cumbria Integrated Care Board,E54000050,Stomach,All Stomach,Males,2022,171,Age-standardised,11.9,13.9,10.2,E54000050
+NHS North East London Integrated Care Board,E54000029,Stomach,All Stomach,Males,2022,79,Age-standardised,14.2,17.9,11.1,E54000029
+NHS North West London Integrated Care Board,E54000027,Stomach,All Stomach,Males,2022,101,Age-standardised,14.9,18.2,12.1,E54000027
+NHS Northamptonshire Integrated Care Board,E54000059,Stomach,All Stomach,Males,2022,26,Age-standardised,7.3,10.7,4.7,E54000059
+NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,Stomach,All Stomach,Males,2022,46,Age-standardised,8.9,11.9,6.5,E54000060
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,Stomach,All Stomach,Males,2022,23,Age-standardised,8.4,12.6,5.3,E54000011
+NHS Somerset Integrated Care Board,E54000038,Stomach,All Stomach,Males,2022,26,Age-standardised,8,11.8,5.2,E54000038
+NHS South East London Integrated Care Board,E54000030,Stomach,All Stomach,Males,2022,64,Age-standardised,12.1,15.6,9.2,E54000030
+NHS South West London Integrated Care Board,E54000031,Stomach,All Stomach,Males,2022,49,Age-standardised,9.3,12.4,6.8,E54000031
+NHS South Yorkshire Integrated Care Board,E54000061,Stomach,All Stomach,Males,2022,79,Age-standardised,12.6,15.7,10,E54000061
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,Stomach,All Stomach,Males,2022,70,Age-standardised,12.2,15.5,9.5,E54000010
+NHS Suffolk and North East Essex Integrated Care Board,E54000023,Stomach,All Stomach,Males,2022,47,Age-standardised,8.8,11.7,6.5,E54000023
+NHS Surrey Heartlands Integrated Care Board,E54000063,Stomach,All Stomach,Males,2022,55,Age-standardised,11.3,14.7,8.5,E54000063
+NHS Sussex Integrated Care Board,E54000064,Stomach,All Stomach,Males,2022,62,Age-standardised,6.9,8.8,5.3,E54000064
+NHS West Yorkshire Integrated Care Board,E54000054,Stomach,All Stomach,Males,2022,113,Age-standardised,11.5,13.8,9.4,E54000054
