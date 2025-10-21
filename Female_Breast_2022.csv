@@ -1,43 +1,43 @@
-Geography_name,Year,Count,icb23cd,Detailed_group,Main_group,type_of_rate,Rate,LCI,UCI,Gender
-"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2022,994,E54000040,All Breast,Breast,Age-standardised,197.2,185,209.9,Females
-"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2022,760,E54000024,All Breast,Breast,Age-standardised,164.5,153,176.7,Females
-NHS Birmingham and Solihull Integrated Care Board,2022,987,E54000055,All Breast,Breast,Age-standardised,168.3,157.9,179.2,Females
-NHS Black Country Integrated Care Board,2022,956,E54000062,All Breast,Breast,Age-standardised,161.8,151.6,172.4,Females
-"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2022,865,E54000039,All Breast,Breast,Age-standardised,187.1,174.8,200.1,Females
-"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2022,1644,E54000044,All Breast,Breast,Age-standardised,182.9,174.2,192,Females
-NHS Cambridgeshire and Peterborough Integrated Care Board,2022,814,E54000056,All Breast,Breast,Age-standardised,179.4,167.3,192.2,Females
-NHS Cheshire and Merseyside Integrated Care Board,2022,2342,E54000008,All Breast,Breast,Age-standardised,171.8,164.8,178.9,Females
-NHS Cornwall and the Isles of Scilly Integrated Care Board,2022,625,E54000036,All Breast,Breast,Age-standardised,177.7,163.7,192.5,Females
-NHS Coventry and Warwickshire Integrated Care Board,2022,855,E54000018,All Breast,Breast,Age-standardised,180.8,168.9,193.4,Females
-NHS Derby and Derbyshire Integrated Care Board,2022,1063,E54000058,All Breast,Breast,Age-standardised,183.7,172.7,195.1,Females
-NHS Devon Integrated Care Board,2022,1254,E54000037,All Breast,Breast,Age-standardised,169.7,160.2,179.6,Females
-NHS Dorset Integrated Care Board,2022,858,E54000041,All Breast,Breast,Age-standardised,181.9,169.6,194.8,Females
-NHS Frimley Integrated Care Board,2022,676,E54000034,All Breast,Breast,Age-standardised,181.5,168,195.8,Females
-NHS Gloucestershire Integrated Care Board,2022,671,E54000043,All Breast,Breast,Age-standardised,184.3,170.5,198.9,Females
-NHS Greater Manchester Integrated Care Board,2022,2154,E54000057,All Breast,Breast,Age-standardised,162.9,156.1,170,Females
-NHS Hampshire and Isle of Wight Integrated Care Board,2022,1815,E54000042,All Breast,Breast,Age-standardised,182.5,174.1,191.2,Females
-NHS Herefordshire and Worcestershire Integrated Care Board,2022,843,E54000019,All Breast,Breast,Age-standardised,180.1,167.9,192.8,Females
-NHS Hertfordshire and West Essex Integrated Care Board,2022,1436,E54000025,All Breast,Breast,Age-standardised,189.7,180,199.8,Females
-NHS Humber and North Yorkshire Integrated Care Board,2022,1695,E54000051,All Breast,Breast,Age-standardised,175.8,167.4,184.5,Females
-NHS Kent and Medway Integrated Care Board,2022,1931,E54000032,All Breast,Breast,Age-standardised,194.7,186.1,203.6,Females
-NHS Lancashire and South Cumbria Integrated Care Board,2022,1656,E54000048,All Breast,Breast,Age-standardised,177.1,168.6,185.9,Females
-"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2022,946,E54000015,All Breast,Breast,Age-standardised,169.9,159.2,181.1,Females
-NHS Lincolnshire Integrated Care Board,2022,731,E54000013,All Breast,Breast,Age-standardised,162,150.3,174.4,Females
-NHS Mid and South Essex Integrated Care Board,2022,1102,E54000026,All Breast,Breast,Age-standardised,172.5,162.4,183,Females
-NHS Norfolk and Waveney Integrated Care Board,2022,1067,E54000022,All Breast,Breast,Age-standardised,171.3,161,182.2,Females
-NHS North Central London Integrated Care Board,2022,1030,E54000028,All Breast,Breast,Age-standardised,169.3,159,180.2,Females
-NHS North East and North Cumbria Integrated Care Board,2022,2859,E54000050,All Breast,Breast,Age-standardised,174.2,167.9,180.8,Females
-NHS North East London Integrated Care Board,2022,1104,E54000029,All Breast,Breast,Age-standardised,150.6,141.6,160.1,Females
-NHS North West London Integrated Care Board,2022,1463,E54000027,All Breast,Breast,Age-standardised,162.7,154.3,171.3,Females
-NHS Northamptonshire Integrated Care Board,2022,645,E54000059,All Breast,Breast,Age-standardised,163.9,151.5,177.1,Females
-NHS Nottingham and Nottinghamshire Integrated Care Board,2022,1008,E54000060,All Breast,Breast,Age-standardised,174.2,163.5,185.3,Females
-"NHS Shropshire, Telford and Wrekin Integrated Care Board",2022,579,E54000011,All Breast,Breast,Age-standardised,196.7,180.9,213.6,Females
-NHS Somerset Integrated Care Board,2022,662,E54000038,All Breast,Breast,Age-standardised,190.7,176.2,206.1,Females
-NHS South East London Integrated Care Board,2022,1336,E54000030,All Breast,Breast,Age-standardised,176.5,167,186.4,Females
-NHS South West London Integrated Care Board,2022,1197,E54000031,All Breast,Breast,Age-standardised,178.6,168.5,189.2,Females
-NHS South Yorkshire Integrated Care Board,2022,1197,E54000061,All Breast,Breast,Age-standardised,172.3,162.6,182.4,Females
-NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2022,1083,E54000010,All Breast,Breast,Age-standardised,173.6,163.4,184.4,Females
-NHS Suffolk and North East Essex Integrated Care Board,2022,974,E54000023,All Breast,Breast,Age-standardised,173.7,162.8,185.1,Females
-NHS Surrey Heartlands Integrated Care Board,2022,1083,E54000063,All Breast,Breast,Age-standardised,195.1,183.5,207.1,Females
-NHS Sussex Integrated Care Board,2022,1805,E54000064,All Breast,Breast,Age-standardised,181.4,173,190.1,Females
-NHS West Yorkshire Integrated Care Board,2022,1868,E54000054,All Breast,Breast,Age-standardised,161.1,153.9,168.6,Females
+Geography_name,Year,Count,icb23cd,Detailed_group,Main_group,type_of_rate,Rate,LCI,UCI,Gender,ICB23CD
+"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",2022,994,E54000040,All Breast,Breast,Age-standardised,197.2,185,209.9,Females,E54000040
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2022,760,E54000024,All Breast,Breast,Age-standardised,164.5,153,176.7,Females,E54000024
+NHS Birmingham and Solihull Integrated Care Board,2022,987,E54000055,All Breast,Breast,Age-standardised,168.3,157.9,179.2,Females,E54000055
+NHS Black Country Integrated Care Board,2022,956,E54000062,All Breast,Breast,Age-standardised,161.8,151.6,172.4,Females,E54000062
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2022,865,E54000039,All Breast,Breast,Age-standardised,187.1,174.8,200.1,Females,E54000039
+"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",2022,1644,E54000044,All Breast,Breast,Age-standardised,182.9,174.2,192,Females,E54000044
+NHS Cambridgeshire and Peterborough Integrated Care Board,2022,814,E54000056,All Breast,Breast,Age-standardised,179.4,167.3,192.2,Females,E54000056
+NHS Cheshire and Merseyside Integrated Care Board,2022,2342,E54000008,All Breast,Breast,Age-standardised,171.8,164.8,178.9,Females,E54000008
+NHS Cornwall and the Isles of Scilly Integrated Care Board,2022,625,E54000036,All Breast,Breast,Age-standardised,177.7,163.7,192.5,Females,E54000036
+NHS Coventry and Warwickshire Integrated Care Board,2022,855,E54000018,All Breast,Breast,Age-standardised,180.8,168.9,193.4,Females,E54000018
+NHS Derby and Derbyshire Integrated Care Board,2022,1063,E54000058,All Breast,Breast,Age-standardised,183.7,172.7,195.1,Females,E54000058
+NHS Devon Integrated Care Board,2022,1254,E54000037,All Breast,Breast,Age-standardised,169.7,160.2,179.6,Females,E54000037
+NHS Dorset Integrated Care Board,2022,858,E54000041,All Breast,Breast,Age-standardised,181.9,169.6,194.8,Females,E54000041
+NHS Frimley Integrated Care Board,2022,676,E54000034,All Breast,Breast,Age-standardised,181.5,168,195.8,Females,E54000034
+NHS Gloucestershire Integrated Care Board,2022,671,E54000043,All Breast,Breast,Age-standardised,184.3,170.5,198.9,Females,E54000043
+NHS Greater Manchester Integrated Care Board,2022,2154,E54000057,All Breast,Breast,Age-standardised,162.9,156.1,170,Females,E54000057
+NHS Hampshire and Isle of Wight Integrated Care Board,2022,1815,E54000042,All Breast,Breast,Age-standardised,182.5,174.1,191.2,Females,E54000042
+NHS Herefordshire and Worcestershire Integrated Care Board,2022,843,E54000019,All Breast,Breast,Age-standardised,180.1,167.9,192.8,Females,E54000019
+NHS Hertfordshire and West Essex Integrated Care Board,2022,1436,E54000025,All Breast,Breast,Age-standardised,189.7,180,199.8,Females,E54000025
+NHS Humber and North Yorkshire Integrated Care Board,2022,1695,E54000051,All Breast,Breast,Age-standardised,175.8,167.4,184.5,Females,E54000051
+NHS Kent and Medway Integrated Care Board,2022,1931,E54000032,All Breast,Breast,Age-standardised,194.7,186.1,203.6,Females,E54000032
+NHS Lancashire and South Cumbria Integrated Care Board,2022,1656,E54000048,All Breast,Breast,Age-standardised,177.1,168.6,185.9,Females,E54000048
+"NHS Leicester, Leicestershire and Rutland Integrated Care Board",2022,946,E54000015,All Breast,Breast,Age-standardised,169.9,159.2,181.1,Females,E54000015
+NHS Lincolnshire Integrated Care Board,2022,731,E54000013,All Breast,Breast,Age-standardised,162,150.3,174.4,Females,E54000013
+NHS Mid and South Essex Integrated Care Board,2022,1102,E54000026,All Breast,Breast,Age-standardised,172.5,162.4,183,Females,E54000026
+NHS Norfolk and Waveney Integrated Care Board,2022,1067,E54000022,All Breast,Breast,Age-standardised,171.3,161,182.2,Females,E54000022
+NHS North Central London Integrated Care Board,2022,1030,E54000028,All Breast,Breast,Age-standardised,169.3,159,180.2,Females,E54000028
+NHS North East and North Cumbria Integrated Care Board,2022,2859,E54000050,All Breast,Breast,Age-standardised,174.2,167.9,180.8,Females,E54000050
+NHS North East London Integrated Care Board,2022,1104,E54000029,All Breast,Breast,Age-standardised,150.6,141.6,160.1,Females,E54000029
+NHS North West London Integrated Care Board,2022,1463,E54000027,All Breast,Breast,Age-standardised,162.7,154.3,171.3,Females,E54000027
+NHS Northamptonshire Integrated Care Board,2022,645,E54000059,All Breast,Breast,Age-standardised,163.9,151.5,177.1,Females,E54000059
+NHS Nottingham and Nottinghamshire Integrated Care Board,2022,1008,E54000060,All Breast,Breast,Age-standardised,174.2,163.5,185.3,Females,E54000060
+"NHS Shropshire, Telford and Wrekin Integrated Care Board",2022,579,E54000011,All Breast,Breast,Age-standardised,196.7,180.9,213.6,Females,E54000011
+NHS Somerset Integrated Care Board,2022,662,E54000038,All Breast,Breast,Age-standardised,190.7,176.2,206.1,Females,E54000038
+NHS South East London Integrated Care Board,2022,1336,E54000030,All Breast,Breast,Age-standardised,176.5,167,186.4,Females,E54000030
+NHS South West London Integrated Care Board,2022,1197,E54000031,All Breast,Breast,Age-standardised,178.6,168.5,189.2,Females,E54000031
+NHS South Yorkshire Integrated Care Board,2022,1197,E54000061,All Breast,Breast,Age-standardised,172.3,162.6,182.4,Females,E54000061
+NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2022,1083,E54000010,All Breast,Breast,Age-standardised,173.6,163.4,184.4,Females,E54000010
+NHS Suffolk and North East Essex Integrated Care Board,2022,974,E54000023,All Breast,Breast,Age-standardised,173.7,162.8,185.1,Females,E54000023
+NHS Surrey Heartlands Integrated Care Board,2022,1083,E54000063,All Breast,Breast,Age-standardised,195.1,183.5,207.1,Females,E54000063
+NHS Sussex Integrated Care Board,2022,1805,E54000064,All Breast,Breast,Age-standardised,181.4,173,190.1,Females,E54000064
+NHS West Yorkshire Integrated Care Board,2022,1868,E54000054,All Breast,Breast,Age-standardised,161.1,153.9,168.6,Females,E54000054

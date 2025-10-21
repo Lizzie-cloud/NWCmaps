@@ -1,43 +1,43 @@
-﻿Year,Gender,Age_at_Diagnosis,Geography_type,icb23cd,Geography_name,Stage,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI
-2022,Males,All ages,Integrated care board,E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",All stages,Skin cancer,All Skin cancer,185,Age-standardised,40.2,34.6,46.4
-2022,Males,All ages,Integrated care board,E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",All stages,Skin cancer,All Skin cancer,151,Age-standardised,38.7,32.7,45.5
-2022,Males,All ages,Integrated care board,E54000055,NHS Birmingham and Solihull Integrated Care Board,All stages,Skin cancer,All Skin cancer,133,Age-standardised,27.4,22.9,32.6
-2022,Males,All ages,Integrated care board,E54000062,NHS Black Country Integrated Care Board,All stages,Skin cancer,All Skin cancer,164,Age-standardised,32.2,27.4,37.6
-2022,Males,All ages,Integrated care board,E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",All stages,Skin cancer,All Skin cancer,219,Age-standardised,53.3,46.5,60.9
-2022,Males,All ages,Integrated care board,E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",All stages,Skin cancer,All Skin cancer,366,Age-standardised,45.8,41.2,50.8
-2022,Males,All ages,Integrated care board,E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,All stages,Skin cancer,All Skin cancer,159,Age-standardised,39.6,33.7,46.3
-2022,Males,All ages,Integrated care board,E54000008,NHS Cheshire and Merseyside Integrated Care Board,All stages,Skin cancer,All Skin cancer,609,Age-standardised,50.5,46.6,54.7
-2022,Males,All ages,Integrated care board,E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,All stages,Skin cancer,All Skin cancer,160,Age-standardised,49.1,41.7,57.5
-2022,Males,All ages,Integrated care board,E54000018,NHS Coventry and Warwickshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,169,Age-standardised,40,34.1,46.5
-2022,Males,All ages,Integrated care board,E54000058,NHS Derby and Derbyshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,212,Age-standardised,40.3,35,46.1
-2022,Males,All ages,Integrated care board,E54000037,NHS Devon Integrated Care Board,All stages,Skin cancer,All Skin cancer,376,Age-standardised,54.7,49.2,60.5
-2022,Males,All ages,Integrated care board,E54000041,NHS Dorset Integrated Care Board,All stages,Skin cancer,All Skin cancer,220,Age-standardised,49.2,42.9,56.3
-2022,Males,All ages,Integrated care board,E54000034,NHS Frimley Integrated Care Board,All stages,Skin cancer,All Skin cancer,144,Age-standardised,44.9,37.8,52.9
-2022,Males,All ages,Integrated care board,E54000043,NHS Gloucestershire Integrated Care Board,All stages,Skin cancer,All Skin cancer,154,Age-standardised,45.8,38.8,53.7
-2022,Males,All ages,Integrated care board,E54000057,NHS Greater Manchester Integrated Care Board,All stages,Skin cancer,All Skin cancer,408,Age-standardised,34.6,31.3,38.2
-2022,Males,All ages,Integrated care board,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,All stages,Skin cancer,All Skin cancer,459,Age-standardised,50.5,46,55.3
-2022,Males,All ages,Integrated care board,E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,All stages,Skin cancer,All Skin cancer,204,Age-standardised,47,40.7,54
-2022,Males,All ages,Integrated care board,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,246,Age-standardised,37.2,32.7,42.2
-2022,Males,All ages,Integrated care board,E54000051,NHS Humber and North Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,299,Age-standardised,33.7,30,37.8
-2022,Males,All ages,Integrated care board,E54000032,NHS Kent and Medway Integrated Care Board,All stages,Skin cancer,All Skin cancer,408,Age-standardised,46.3,41.9,51
-2022,Males,All ages,Integrated care board,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,All stages,Skin cancer,All Skin cancer,343,Age-standardised,39.8,35.7,44.3
-2022,Males,All ages,Integrated care board,E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",All stages,Skin cancer,All Skin cancer,169,Age-standardised,33.9,28.9,39.4
-2022,Males,All ages,Integrated care board,E54000013,NHS Lincolnshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,160,Age-standardised,38.7,32.9,45.3
-2022,Males,All ages,Integrated care board,E54000026,NHS Mid and South Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,223,Age-standardised,39.3,34.3,44.9
-2022,Males,All ages,Integrated care board,E54000022,NHS Norfolk and Waveney Integrated Care Board,All stages,Skin cancer,All Skin cancer,229,Age-standardised,39,34,44.5
-2022,Males,All ages,Integrated care board,E54000028,NHS North Central London Integrated Care Board,All stages,Skin cancer,All Skin cancer,121,Age-standardised,24.9,20.5,29.8
-2022,Males,All ages,Integrated care board,E54000029,NHS North East London Integrated Care Board,All stages,Skin cancer,All Skin cancer,155,Age-standardised,28.2,23.6,33.3
-2022,Males,All ages,Integrated care board,E54000050,NHS North East and North Cumbria Integrated Care Board,All stages,Skin cancer,All Skin cancer,626,Age-standardised,42.9,39.6,46.4
-2022,Males,All ages,Integrated care board,E54000027,NHS North West London Integrated Care Board,All stages,Skin cancer,All Skin cancer,143,Age-standardised,20,16.8,23.7
-2022,Males,All ages,Integrated care board,E54000059,NHS Northamptonshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,138,Age-standardised,40.4,33.9,47.9
-2022,Males,All ages,Integrated care board,E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,215,Age-standardised,41,35.7,46.9
-2022,Males,All ages,Integrated care board,E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",All stages,Skin cancer,All Skin cancer,103,Age-standardised,37.7,30.7,45.8
-2022,Males,All ages,Integrated care board,E54000038,NHS Somerset Integrated Care Board,All stages,Skin cancer,All Skin cancer,157,Age-standardised,48,40.7,56.2
-2022,Males,All ages,Integrated care board,E54000030,NHS South East London Integrated Care Board,All stages,Skin cancer,All Skin cancer,165,Age-standardised,28.6,24.2,33.5
-2022,Males,All ages,Integrated care board,E54000031,NHS South West London Integrated Care Board,All stages,Skin cancer,All Skin cancer,213,Age-standardised,39.1,33.9,44.8
-2022,Males,All ages,Integrated care board,E54000061,NHS South Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,244,Age-standardised,38.9,34.1,44.1
-2022,Males,All ages,Integrated care board,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,All stages,Skin cancer,All Skin cancer,215,Age-standardised,37.9,32.9,43.4
-2022,Males,All ages,Integrated care board,E54000023,NHS Suffolk and North East Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,241,Age-standardised,45.6,40,51.8
-2022,Males,All ages,Integrated care board,E54000063,NHS Surrey Heartlands Integrated Care Board,All stages,Skin cancer,All Skin cancer,255,Age-standardised,52.1,45.9,59
-2022,Males,All ages,Integrated care board,E54000064,NHS Sussex Integrated Care Board,All stages,Skin cancer,All Skin cancer,432,Age-standardised,48.4,43.9,53.2
-2022,Males,All ages,Integrated care board,E54000054,NHS West Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,392,Age-standardised,38.5,34.8,42.6
+﻿Year,Gender,Age_at_Diagnosis,Geography_type,icb23cd,Geography_name,Stage,Main_group,Detailed_group,Count,type_of_rate,Rate,LCI,UCI,ICB23CD
+2022,Males,All ages,Integrated care board,E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",All stages,Skin cancer,All Skin cancer,185,Age-standardised,40.2,34.6,46.4,E54000040
+2022,Males,All ages,Integrated care board,E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",All stages,Skin cancer,All Skin cancer,151,Age-standardised,38.7,32.7,45.5,E54000024
+2022,Males,All ages,Integrated care board,E54000055,NHS Birmingham and Solihull Integrated Care Board,All stages,Skin cancer,All Skin cancer,133,Age-standardised,27.4,22.9,32.6,E54000055
+2022,Males,All ages,Integrated care board,E54000062,NHS Black Country Integrated Care Board,All stages,Skin cancer,All Skin cancer,164,Age-standardised,32.2,27.4,37.6,E54000062
+2022,Males,All ages,Integrated care board,E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",All stages,Skin cancer,All Skin cancer,219,Age-standardised,53.3,46.5,60.9,E54000039
+2022,Males,All ages,Integrated care board,E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",All stages,Skin cancer,All Skin cancer,366,Age-standardised,45.8,41.2,50.8,E54000044
+2022,Males,All ages,Integrated care board,E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,All stages,Skin cancer,All Skin cancer,159,Age-standardised,39.6,33.7,46.3,E54000056
+2022,Males,All ages,Integrated care board,E54000008,NHS Cheshire and Merseyside Integrated Care Board,All stages,Skin cancer,All Skin cancer,609,Age-standardised,50.5,46.6,54.7,E54000008
+2022,Males,All ages,Integrated care board,E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,All stages,Skin cancer,All Skin cancer,160,Age-standardised,49.1,41.7,57.5,E54000036
+2022,Males,All ages,Integrated care board,E54000018,NHS Coventry and Warwickshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,169,Age-standardised,40,34.1,46.5,E54000018
+2022,Males,All ages,Integrated care board,E54000058,NHS Derby and Derbyshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,212,Age-standardised,40.3,35,46.1,E54000058
+2022,Males,All ages,Integrated care board,E54000037,NHS Devon Integrated Care Board,All stages,Skin cancer,All Skin cancer,376,Age-standardised,54.7,49.2,60.5,E54000037
+2022,Males,All ages,Integrated care board,E54000041,NHS Dorset Integrated Care Board,All stages,Skin cancer,All Skin cancer,220,Age-standardised,49.2,42.9,56.3,E54000041
+2022,Males,All ages,Integrated care board,E54000034,NHS Frimley Integrated Care Board,All stages,Skin cancer,All Skin cancer,144,Age-standardised,44.9,37.8,52.9,E54000034
+2022,Males,All ages,Integrated care board,E54000043,NHS Gloucestershire Integrated Care Board,All stages,Skin cancer,All Skin cancer,154,Age-standardised,45.8,38.8,53.7,E54000043
+2022,Males,All ages,Integrated care board,E54000057,NHS Greater Manchester Integrated Care Board,All stages,Skin cancer,All Skin cancer,408,Age-standardised,34.6,31.3,38.2,E54000057
+2022,Males,All ages,Integrated care board,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,All stages,Skin cancer,All Skin cancer,459,Age-standardised,50.5,46,55.3,E54000042
+2022,Males,All ages,Integrated care board,E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,All stages,Skin cancer,All Skin cancer,204,Age-standardised,47,40.7,54,E54000019
+2022,Males,All ages,Integrated care board,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,246,Age-standardised,37.2,32.7,42.2,E54000025
+2022,Males,All ages,Integrated care board,E54000051,NHS Humber and North Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,299,Age-standardised,33.7,30,37.8,E54000051
+2022,Males,All ages,Integrated care board,E54000032,NHS Kent and Medway Integrated Care Board,All stages,Skin cancer,All Skin cancer,408,Age-standardised,46.3,41.9,51,E54000032
+2022,Males,All ages,Integrated care board,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,All stages,Skin cancer,All Skin cancer,343,Age-standardised,39.8,35.7,44.3,E54000048
+2022,Males,All ages,Integrated care board,E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",All stages,Skin cancer,All Skin cancer,169,Age-standardised,33.9,28.9,39.4,E54000015
+2022,Males,All ages,Integrated care board,E54000013,NHS Lincolnshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,160,Age-standardised,38.7,32.9,45.3,E54000013
+2022,Males,All ages,Integrated care board,E54000026,NHS Mid and South Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,223,Age-standardised,39.3,34.3,44.9,E54000026
+2022,Males,All ages,Integrated care board,E54000022,NHS Norfolk and Waveney Integrated Care Board,All stages,Skin cancer,All Skin cancer,229,Age-standardised,39,34,44.5,E54000022
+2022,Males,All ages,Integrated care board,E54000028,NHS North Central London Integrated Care Board,All stages,Skin cancer,All Skin cancer,121,Age-standardised,24.9,20.5,29.8,E54000028
+2022,Males,All ages,Integrated care board,E54000029,NHS North East London Integrated Care Board,All stages,Skin cancer,All Skin cancer,155,Age-standardised,28.2,23.6,33.3,E54000029
+2022,Males,All ages,Integrated care board,E54000050,NHS North East and North Cumbria Integrated Care Board,All stages,Skin cancer,All Skin cancer,626,Age-standardised,42.9,39.6,46.4,E54000050
+2022,Males,All ages,Integrated care board,E54000027,NHS North West London Integrated Care Board,All stages,Skin cancer,All Skin cancer,143,Age-standardised,20,16.8,23.7,E54000027
+2022,Males,All ages,Integrated care board,E54000059,NHS Northamptonshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,138,Age-standardised,40.4,33.9,47.9,E54000059
+2022,Males,All ages,Integrated care board,E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,215,Age-standardised,41,35.7,46.9,E54000060
+2022,Males,All ages,Integrated care board,E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",All stages,Skin cancer,All Skin cancer,103,Age-standardised,37.7,30.7,45.8,E54000011
+2022,Males,All ages,Integrated care board,E54000038,NHS Somerset Integrated Care Board,All stages,Skin cancer,All Skin cancer,157,Age-standardised,48,40.7,56.2,E54000038
+2022,Males,All ages,Integrated care board,E54000030,NHS South East London Integrated Care Board,All stages,Skin cancer,All Skin cancer,165,Age-standardised,28.6,24.2,33.5,E54000030
+2022,Males,All ages,Integrated care board,E54000031,NHS South West London Integrated Care Board,All stages,Skin cancer,All Skin cancer,213,Age-standardised,39.1,33.9,44.8,E54000031
+2022,Males,All ages,Integrated care board,E54000061,NHS South Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,244,Age-standardised,38.9,34.1,44.1,E54000061
+2022,Males,All ages,Integrated care board,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,All stages,Skin cancer,All Skin cancer,215,Age-standardised,37.9,32.9,43.4,E54000010
+2022,Males,All ages,Integrated care board,E54000023,NHS Suffolk and North East Essex Integrated Care Board,All stages,Skin cancer,All Skin cancer,241,Age-standardised,45.6,40,51.8,E54000023
+2022,Males,All ages,Integrated care board,E54000063,NHS Surrey Heartlands Integrated Care Board,All stages,Skin cancer,All Skin cancer,255,Age-standardised,52.1,45.9,59,E54000063
+2022,Males,All ages,Integrated care board,E54000064,NHS Sussex Integrated Care Board,All stages,Skin cancer,All Skin cancer,432,Age-standardised,48.4,43.9,53.2,E54000064
+2022,Males,All ages,Integrated care board,E54000054,NHS West Yorkshire Integrated Care Board,All stages,Skin cancer,All Skin cancer,392,Age-standardised,38.5,34.8,42.6,E54000054
